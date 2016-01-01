@@ -65,7 +65,7 @@ url-pretty: "adrianharabula.github.com"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-34549018-7"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -73,7 +73,7 @@ url-pretty: "adrianharabula.github.com"  # eg. "deanattali.com/beautiful-jekyll"
 timezone: "Europe/Bucharest"
 markdown: kramdown
 highlighter: pygments
-permalink: /:year-:month-:day-:title
+permalink: /:year/:month/:title
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
