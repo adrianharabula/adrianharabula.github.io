@@ -24,12 +24,12 @@
           {% endif %}
         	
         {% if internal %}
-          {% capture linkurl %}//{{ site.baseurl }}/{{ link[1] }}{% endcapture %}
+          {% capture linkurl %}{{ site.baseurl }}/{{ link[1] }}{% endcapture %}
         {% else %}
           {% capture linkurl %}{{ link[1] }}{% endcapture %}
         {% endif %}
 
-	      <a href="{{ linkurl }}">{{ link[0] }}</a>
+	      <a href="{{ site.url }}{{ linkurl }}">{{ link[0] }}</a>
 	      </li>
 	    {% endfor %}
       </ul>
