@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Archive
-permalink: /archive/
+title: Archives
+subtitle: An Hour Passes Slowly But The Years Go By Quickly
+permalink: /archives/
 ---
+
+
 
 <section id="archive">
   {%for post in site.posts %}

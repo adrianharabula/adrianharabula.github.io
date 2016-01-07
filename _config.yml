@@ -28,7 +28,7 @@ description: "The Faster, Certain Way to Good Life"
 # List of links in the navigation bar
 navbar-links:
 #  Home: ""
-  Archive: "archive/"
+  Archives: "archives/"
 #  Memento Mori: "memento-mori"
 #  About Me: "aboutme"
   
