@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Archives
-subtitle: An Hour Passes Slowly But The Years Go By Quickly
-permalink: /archives/
+title: Arhive
+subtitle: Zilele trec greu, anii trec uşor...
+permalink: /arhive/
 ---
-
-
 
 <section id="archive">
   {%for post in site.posts %}

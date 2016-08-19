@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Adrian Harabula
+title: Adrian Harabulă
 
 # Short description of your site
-description: "The Faster, Certain Way to Good Life"
+description: "Despre Obstacole În Startups"
 
 # --- Navigation bar options --- #
 
@@ -33,7 +33,9 @@ description: "The Faster, Certain Way to Good Life"
 # List of links in the navigation bar
 navbar-links:
 #  Home: ""
-  Archives: "archives/"
+  Sys-Admin Tutoriale:
+    - start a droplet: "tutoriale/"
+  Arhive: "arhive/"
 #  Memento Mori: "memento-mori"
 #  About Me: "aboutme"
 
@@ -79,7 +81,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "adrianharabula.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "adrianharabula.ro"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 

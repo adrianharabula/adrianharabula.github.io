@@ -637,3 +637,15 @@ td.gutter {
 .intro-header .post-heading .post-subheading {
   font-size: 24px;
 }
+
+a.navbar-brand {
+  font-family: 'Ubuntu';
+}
+
+body {
+  font-family: 'Open Sans';
+}
+
+.center {
+  text-align: center;
+}
