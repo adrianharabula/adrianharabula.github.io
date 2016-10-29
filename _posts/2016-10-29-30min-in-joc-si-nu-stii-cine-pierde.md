@@ -12,6 +12,7 @@ Situația s-a repetat cu aproape fiecare om care a venit la masa noastră. Spune
 Sunt în această echipă și nu ajungem să facem treabă. Aș putea zice că am încercat tot, dar ceva nu merge, nu este vorba de o echipă, fiecare merge cu nebunia lui. Nu există echipa.
 
 Ce aș face tura viitoare? Există o vorbă în poker, cum că dacă ești 30 de minute în joc, și nu știi cine va pierde, atunci tu ești pierzătorul. Nu vrei să fii pierzătorul! Tura viitoare voi fi mai atent la oamenii cu care mă asociez. Chestia asta putea fi evitată din start. M-aș uita mai bine la om, înainte să lucrez cu el:
+
   * are o minte deschisă? Este gata să primească idei noi? Când nu știe ceva, ce fel se poartă? Are o atitudine curioasă legată de tot ce e în jur sau se dă că știe deja tot?
   * cel mai mic indiciu, cel mai subtil, că ceva se ascunde, se ezită pe undeva înseamnă eliminarea completă din joc, acel om foarte probabil are ceva interese proprii ce le ascunde
   * are acel om toate cele necesare pentru a duce la capăt treaba pentru cu care te asociezi? Este genul de om care în vremuri grele, când nimic nu merge ai vrea să stai lângă el și să îți pui toată viața în mâinile respectivei persoane?
