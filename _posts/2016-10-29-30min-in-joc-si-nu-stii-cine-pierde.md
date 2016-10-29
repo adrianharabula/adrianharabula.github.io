@@ -5,9 +5,9 @@ title: "Dacă ești 30 de minute în joc, și nu știi cine va pierde..."
 
 Astăzi am nimerit într-un loc unde cu siguranță nu voi mai vrea să fiu și a doua oară.
 
-Îmi amintesc imaginea asta, când venea un mentor la masa noastră și ne întreba cu ce ne ocupăm. Răspundeam și ne întreba: ok, și ce vindeți? Răspundeam, și ne întreba iar, cu alte cuvinte, ok și clientul ce primește defapt? Și noi iar răspundeam. Iar eram întrebați care este planul nostru cu care să îi dăm bătaie. Răspunsul nostru era de fiecare dată că știm deja și nu ne mai trebuie nimic.
+Îmi amintesc imaginea asta, când venea un mentor la masa noastră și ne întreba cu ce ne ocupăm. Răspundeam și ne întreba: ok, și ce vindeți? Răspundeam, și ne întreba iar, cu alte cuvinte, ok și clientul ce primește defapt? Și noi iar răspundeam. Iar eram întrebați care este planul nostru. Răspunsul era de fiecare dată că știm deja și nu avem nevoie de informații adiționale.
 
-Situația s-a repetat cu aproape fiecare om care a venit la masa noastră. Spuneam cu ce ne ocupăm, primeam niște sugestii legate cu chestii care nu ar fi în regulă la noi dar nimeni nu asculta. La un moment dat, efectiv oamenii au început să ne ocolească. Îmi amintesc 2 dintre mentori care nu i-am văzut masa noastră. Tipii aceia ar fi putut veni la noi, și ar fi putut să ne zică chestii pe care nu le știm, dar doar dacă ar fi avut ocazia!!!
+Situația s-a repetat cu aproape fiecare om care a venit la masa noastră. Spuneam cu ce ne ocupăm, primeam niște sugestii legate cu chestii care nu ar fi în regulă la noi dar nimeni nu asculta. La un moment dat, efectiv oamenii au început să ne ocolească. Îmi amintesc doi dintre mentori pe care nu i-am văzut masa noastră. Tipii aceia ar fi putut veni la noi, și ar fi putut să ne zică chestii pe care nu le știm, dar doar dacă ar fi avut ocazia!!!
 
 Sunt în această echipă și nu ajungem să facem treabă. Aș putea zice că am încercat tot, dar ceva nu merge, nu este vorba de o echipă, fiecare merge cu nebunia lui. Nu există echipa.
 
