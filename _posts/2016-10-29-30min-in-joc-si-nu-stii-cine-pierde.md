@@ -15,7 +15,7 @@ Ce aș face tura viitoare? Există o vorbă în poker, cum că dacă ești 30 de
 
   * are o minte deschisă? Este gata să primească idei noi? Când nu știe ceva, ce fel se poartă? Are o atitudine curioasă legată de tot ce e în jur sau se dă că știe deja tot?
   * cel mai mic indiciu, cel mai subtil, că ceva se ascunde, se ezită pe undeva înseamnă eliminarea completă din joc, acel om foarte probabil are ceva interese proprii ce le ascunde
-  * are acel om toate cele necesare pentru a duce la capăt treaba pentru cu care te asociezi? Este genul de om care în vremuri grele, când nimic nu merge ai vrea să stai lângă el și să îți pui toată viața în mâinile respectivei persoane?
+  * are acel om toate cele necesare pentru a duce la capăt treaba pentru care te asociezi? Este genul de om care în vremuri grele, când nimic nu merge ai vrea să stai lângă el și să îți pui toată viața în mâinile lui?
   
 Nu vreau să fiu prea strict acum și tot timpul o să încalc cele spuse prea mult, nu zic că nu poți deveni mai tare trecând prin toate astea, dar... nu vrei prea multe lecții de genul. După ce bagi bani, timp, energie, după ce îți petreci viața făcând ceva anume, după ani de zile, nu vrei să fii în situația de astăzi...
   
