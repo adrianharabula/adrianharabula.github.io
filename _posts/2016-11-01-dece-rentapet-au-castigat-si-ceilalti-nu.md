@@ -11,7 +11,7 @@ Pe moment, nu ai fi zis că ar putea fi ceva interesant, erau și alte idei în 
 
 # 1. În primul rând, echipa
 
-Au fost una din cele mai numeroase echipe. Perechi de câte 2 se cam cunoșteau și au ajuns în echipă la pachet. Faptul că erau astfel de subgrupuri, i-a ajutat să fie uniți până la sfârșit. Au fost undeva 10 membri, una dintre cele mai numeroase echipe. La sfârșitul concursului nici măcar nu știau cum se numesc. Cum au reușit să ducă la capăt un produs câștigător într-un weekend?
+Au fost una din cele mai numeroase echipe. Perechi de câte 2 se cam cunoșteau și au ajuns în echipă la pachet. Faptul că erau astfel de subgrupuri, i-a ajutat să fie uniți până la sfârșit. Au fost 10 membri, una dintre cele mai numeroase echipe. La sfârșitul concursului nici măcar nu știau cum se numesc. Cum au reușit să ducă la capăt un produs câștigător într-un weekend?
 
 # 2. Fiecare a avut treaba lui, de care era responsabil.
 
