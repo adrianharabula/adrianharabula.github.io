@@ -3,8 +3,6 @@ type: post
 title: "De ce Rent A Pet au câștigat și ceilalți nu?"
 ---
 
-![Rent A Pet]({{ site.url }}/img/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg)
-
 Îmi amintesc pitchul... Era prezentat bine, era ceva scos pe moment, era vorba de un app unde să cauți oameni la care poți să îți lași animăluțul atunci când pleci pe undeva. De aici și numele, Rent a Pet.
 
 Pe moment, nu ai fi zis că ar putea fi ceva interesant, erau și alte idei în sală... Dar nu era vorba de persoana care prezenta și nici de idee. Pentru că un singur lucru conta mai mult decât amândouă la un loc, și anume echipa.
@@ -48,3 +46,5 @@ Pe cealaltă parte, restul făceau lucrurile pe dos, cum ar fi:
  * nu aveau un brand, tot ceea ce făceau se putea copia ușor
  * purtau pică celor care erau mai buni ca ei, nu se bucurau de succesul altora.
  * se pricepeau la nimicuri, și nu se pricepeau la lucrurile care contau cu adevărat. Lucrau la logo, mai mult decât la lucruri cheie care să facă oamenii să plătească pentru ceea ce ofereau.
+ 
+ [ ![Rent A Pet]({{ site.url }}/img/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg) ](http://rentapet.co)
