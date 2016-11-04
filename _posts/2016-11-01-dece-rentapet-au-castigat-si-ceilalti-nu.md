@@ -7,11 +7,11 @@ title: "De ce Rent A Pet au câștigat și ceilalți nu?"
 
 Pe moment, nu ai fi zis că ar putea fi ceva interesant, erau și alte idei în sală... Dar nu era vorba de persoana care prezenta și nici de idee. Pentru că un singur lucru conta mai mult decât amândouă la un loc, și anume echipa.
 
-2 zile mai încolo, Rent A Pet au luat locul 1 la Startup Weekend Iași. Voi prezenta în continuare câteva lucruri, pe care ei le făceau și celelalte echipe nu, încă dinainte de a fi premiați.
+2 zile mai încolo, [Rent A Pet](https://www.facebook.com/rentapet) au luat locul 1 la Startup Weekend Iași. Voi prezenta în continuare câteva lucruri, pe care ei le făceau și celelalte echipe nu, încă dinainte de a fi premiați.
 
 # 1. În primul rând, echipa
 
-Au fost una din cele mai numeroase echipe. Perechi de câte 2 se cam cunoșteau și au ajuns în echipă la pachet. Faptul că erau astfel de subgrupuri, i-a ajutat să fie uniți până la sfârșit. Au fost 10 membri, una dintre cele mai numeroase echipe. La sfârșitul concursului nici măcar nu știau cum se numesc. Cum au reușit să ducă la capăt un produs câștigător într-un weekend?
+Având 10 membrii, au fost una din cele mai numeroase echipe. Perechi de câte 2 se cam cunoșteau și au ajuns în echipă la pachet. Faptul că erau astfel de subgrupuri, i-a ajutat să fie uniți până la sfârșit. Cum au reușit să ducă la capăt un produs câștigător într-un weekend?
 
 # 2. Fiecare a avut treaba lui, de care era responsabil.
 
