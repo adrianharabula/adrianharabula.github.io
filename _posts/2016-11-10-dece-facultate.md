@@ -28,7 +28,7 @@ Pentru unii a însemnat să meargă la job nelegat de IT în paralel cu facultat
 Alții au început lucrând aproape pe gratis. Mai încolo ce au lucrat și-au dat seama că au făcut pe peanut money... Și-au dat seama că ar fi putut face și ei asta pe cont propiu și ar fi luat mai mulți bani, ar fi avut mai mult timp liber și ar fi avut o idee mai bună. Dar nu regretă pentru că și un job sub plătit e mai bun decât niciun job, asta le-a oferit tracțiune să meargă mai departe. Și în plus au și o lecție învățată...
 
 Dar pe departe cea ai interesantă categorie mi se pare că sunt cei care pur și simplu nu puteau digera concepte IT. Dar au continuat, cu orice preț. Au făcut ca înțelegerea acelor concepte să fie singura opțiune. Au făcut asta, găsind ceva ce le place atât de mult încât restul problemelor să fie irelevante.
-Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor, dar au găsit acel ceva care le place atât de mult încât i-a pus să facă și lucrurile care nu le plac, dar trebuie făcute pentru a merge înainte.
+Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor, dar au găsit acel ceva care le place atât de mult încât i-a pus să facă și lucrurile care nu le plac, dar care trebuie făcute pentru a merge înainte.
 
 Încă nu știu să zic de ce am ajuns la facultate, sau de ce am ajuns să dau telefoanele când lucram la startup. Dar ce pot să zic e că erau stuff to get done. Nu erau plăcute, dar dacă erau făcute mergeai mai departe. Dacă nu, apăreau probleme.
 
