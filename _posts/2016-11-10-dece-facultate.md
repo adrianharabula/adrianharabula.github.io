@@ -23,7 +23,7 @@ Au trecut cam 5 ani de când am ajuns prima dată la facultate și cu puțini co
 
 Ce i-a diferențiat față de cei care nici azi nu au un job în IT, este... ai ghicit, capabilitatea de a face lucruri care trebuie făcute, dar nu sunt plăcute.
 
-Pentru unii a însemnat să meargă la job nelegat de IT în paralel cu facultatea. Asta a implicat la un moment dat să facă și saltul, acel moment când ani de experiență într-un anume domeniu i-au aruncat pentru un job entry level în IT, plătit cu mult mai puțin decât vechiul lor job. Plăcut? În niciun caz. Dar era _stuff to get done_.
+Pentru unii a însemnat să meargă la job nelegat de IT în paralel cu facultatea. Asta a implicat la un moment dat să facă și saltul, acel moment când anii de experiență într-un anume domeniu i-au aruncat pentru un job entry level în IT, plătit cu mult mai puțin decât vechiul lor job. Plăcut? În niciun caz. Dar era _stuff to get done_.
 
 Alții au început lucrând aproape pe gratis. Mai încolo ce au lucrat și-au dat seama că au făcut pe peanut money... Și-au dat seama că ar fi putut face și ei asta pe cont propiu și ar fi luat mai mulți bani, ar fi avut mai mult timp liber și ar fi avut o idee mai bună. Dar nu regretă pentru că și un job sub plătit e mai bun decât niciun job, asta le-a oferit tracțiune să meargă mai departe. Și în plus au și o lecție învățată...
 
