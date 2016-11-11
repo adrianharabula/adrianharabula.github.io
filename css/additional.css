@@ -13,6 +13,13 @@ a.navbar-brand {
   }
 }
 
+@media screen and (max-width: 320px) {
+  a.navbar-brand {
+    font-size: 1.2em;
+  }
+}
+
+
 body {
   font-family: 'Open Sans';
 }
