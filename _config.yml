@@ -5,6 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://www.adrianharabula.ro"
+#url: "http://localhost:4000"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:

@@ -640,6 +640,13 @@ td.gutter {
 
 a.navbar-brand {
   font-family: 'Ubuntu';
+  font-size: 2em;
+}
+
+@media screen and (max-width: 390px) {
+  a.navbar-brand {
+    font-size: 1em;
+  }
 }
 
 body {
