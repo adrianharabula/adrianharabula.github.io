@@ -47,13 +47,13 @@ author:
   github: adrianharabula    # eg. daattali
   twitter: adrianharabula   # eg. daattali
   reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  google-plus: +AdrianHarabulă   # eg. +DeanAttali or 109424658772469020925
   linkedin: adrianharabula  # eg. "pub/dean-attali/8/946/143"
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
+  youtube: channel/UCOTsrTrys1oDozIdnO_Y_BQ   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
 
 # Select which links to show in the footer
@@ -66,12 +66,12 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
 
 # Select which share links to show in posts

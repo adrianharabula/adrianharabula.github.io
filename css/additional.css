@@ -1,3 +1,7 @@
+p.custom-footer {
+  margin: 10px 0;
+}
+
 a.navbar-brand {
   font-family: 'Ubuntu';
   font-size: 2em;
