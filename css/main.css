@@ -121,7 +121,6 @@ img {
   color: #0085a1;
 }
 
-/*
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     padding: 20px 0;
@@ -133,7 +132,7 @@ img {
   .navbar-custom.top-nav-short {
     padding: 0;
   }
-}*/
+}
 
 .navbar-custom .avatar-container {
   opacity: 1;
@@ -451,7 +450,7 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-  }	
+  } 
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
@@ -626,33 +625,4 @@ td.gutter {
 
 #social-share-section {
   margin-bottom: 30px;
-}
-
-/* additional css */
-.navbar-custom .avatar-container {
-  display: none !important;
-}
-
-.intro-header .page-heading .page-subheading,
-.intro-header .post-heading .post-subheading {
-  font-size: 24px;
-}
-
-a.navbar-brand {
-  font-family: 'Ubuntu';
-  font-size: 2em;
-}
-
-@media screen and (max-width: 390px) {
-  a.navbar-brand {
-    font-size: 1em;
-  }
-}
-
-body {
-  font-family: 'Open Sans';
-}
-
-.center {
-  text-align: center;
 }

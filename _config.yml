@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.adrianharabula.ro"
-#url: "http://localhost:4000"
+url: "http://localhost:4000"
+# url: "https://www.adrianharabula.ro"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -23,15 +23,6 @@ description: "Despre Obstacole În Startups"
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#     - Learn markdown: "http://www.markdowntutorial.com/"
-#     - GitHub Pages: "https://pages.github.com/"
-#   Author's home: "http://deanattali.com"
-
-# List of links in the navigation bar
 navbar-links:
 #  Home: ""
   # Sys-Admin Tutoriale:
@@ -42,36 +33,46 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
+
 author:
   name: Adrian Harabula
   email: "adrian.harabula@gmail.com"
   facebook: adrian.harabula.32  # eg. daattali
   github: adrianharabula    # eg. daattali
   twitter: adrianharabula   # eg. daattali
+  reddit: yourname    # eg. daattali
+  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: adrianharabula  # eg. "pub/dean-attali/8/946/143"
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
+  snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
-  youtube: yourlink # eg. user/daattali or channel/daattali
+  youtube: yourlink   # eg. user/daattali or channel/daattali
+  spotify: yourname   # eg. daattali
 
 # Select which links to show in the footer
+
 footer-links-active:
   rss: true
   facebook: true
   email: true
   twitter: true
+  google-plus: false
   github: true
+  reddit: false
   linkedin: false
   xing: false
   stackoverflow: false
+  snapchat: false
   instagram: false
   youtube: false
+  spotify: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -85,12 +86,18 @@ share-links-active:
 url-pretty: "adrianharabula.ro"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
-
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-34549018-7"
+
+# Facebook App ID
+# fb_app_id: ""
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -98,7 +105,6 @@ google_analytics: "UA-34549018-7"
 timezone: "Europe/Bucharest"
 markdown: kramdown
 highlighter: rouge
-#permalink: /:year-:month-:day-:title/
 permalink: /:year/:month/:title/
 paginate: 5
 
