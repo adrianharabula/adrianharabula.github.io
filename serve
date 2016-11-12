@@ -1,1 +1,4 @@
-bundle exec jekyll serve --config _config.yml,_config_dev.yml
+#!/bin/bash
+PORT=${1:-4000}
+echo "url: \"http://localhost:$PORT\"" > _config_dev.yml
+bundle exec jekyll serve --config _config.yml,_config_dev.yml -P $PORT
