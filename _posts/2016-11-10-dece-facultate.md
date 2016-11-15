@@ -1,6 +1,7 @@
 ---
 type: post
 title: "De ce o facultate?"
+subtitle: "Unul din lucrurile pe care îi diferențiază pe colegii care au job în IT azi față de cei care nu au, este capabilitatea de a face lucruri care trebuie făcute, chiar dacă nu sunt plăcute."
 ---
 
 Încă nu știu de ce ocupându-mă full time de startup m-am întors la facultate. 
