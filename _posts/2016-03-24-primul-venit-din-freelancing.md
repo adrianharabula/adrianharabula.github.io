@@ -3,9 +3,9 @@ type: post
 title: "Primul venit din „freelancing”"
 ---
 
-Acum un an, în ianuarie ajunsesem în Iaşi cu 5 lei în buzunar, după ce fusesem [la Dumbrava la meditat](http://meditatie.ro) o lună înainte. Nu am făcut prea multe cu ei, mi-am luat nişte mămăligă şi paste. A fost mâncarea mea 2 săptămâni.
+Acum un an, în ianuarie ajunsesem în Iaşi cu 5 lei în buzunar, după ce fusesem [la Dumbrava la meditat](http://www.meditatie.ro) o lună înainte. Nu am făcut prea multe cu ei, mi-am luat nişte mămăligă şi paste. A fost mâncarea mea 2 săptămâni.
 
-Pentru prima dată am început să înţeleg eu cu adevărat pe-atunci cam ce înseamnă să ai încredere în tine. În mai puţin de 30 de zile avea să mi se decidă soarta. Ajung din nou boschetar, sau reuşesc în sfârşit să mă susţin de unul singur?
+Pentru prima dată am început să înţeleg eu cu adevărat pe-atunci cam ce înseamnă să ai încredere în tine. În mai puţin de 30 de zile avea să mi se decidă soarta. [Ajung din nou homeless](http://crististefan.com/tenerife), sau reuşesc în sfârşit să mă susţin de unul singur?
 
 De zeci de astfel de încercări am mai avut parte în ultimii ani, însă de fiecare dată am eşuat. Să fi reuşit acum… nu prea era aşteptat, însă nu mai conta.
 
