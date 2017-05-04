@@ -7,11 +7,8 @@ overridetitle: true
 
 Acest blog este despre partea întunecată despre care nimeni nu vorbește atunci când lucrezi la ceva al tău, startup de regulă, dar nu neapărat.
 
-Se pare că e drum lung și dificil, iar reușita de mâine nu e garantată. Așa după cum _Tony Robbins_ spunea cândva:
-```
-When you succeed you party. When you fail you ponder.
-Greatness comes from pondering.
-```
+Se pare că e drum lung și dificil, iar reușita de mâine nu e garantată. Așa după cum _Tony Robbins_ spunea cândva:  
+__When you succeed you party. When you fail you ponder. Greatness comes from pondering.__  
 Sper ca scrierile de aici să reflecte gândurile avute chiar și atunci când lucrurile nu merg bine.
 
 Mă bucur mult că ai trecut pe aici câteva minute, înseamnă foarte mult pentru mine! :)
