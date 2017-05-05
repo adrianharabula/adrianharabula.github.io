@@ -11,7 +11,7 @@ De zeci de astfel de încercări am mai avut parte în ultimii ani, însă de fi
 
 Nimic nu mai aveam de pierdut oricum…
 
-Iar eşecul cel mai mare, nu era chiar atât de înfricoşător, căci te puteai obişnui cu el rapid şi până la urmă, nu era chiar aşa greu de suportat. Ba din contra era chiar mai eliberator, căci mai degrabă ai fi regretat ce nu ai fi încercat decât ce ai făcut şi a mers prost.
+Iar eşecul cel mai mare, nu era chiar atât de înfricoşător, căci te puteai obişnui cu el rapid şi până la urmă, nu era chiar aşa greu de suportat. Ba din contra era chiar mai eliberator, căci mai degrabă regreți ce nu ai încercat decât ce ai făcut şi a mers prost.
 
 Normal că nu e cel mai uşor lucru să te rupi de tot şi să fii pe pielea ta, dar dacă te aştepţi să urmeze vremuri grele, parcă vorbim pe altă limbă 🙂
 
