@@ -25,7 +25,7 @@ Rezultate nu prea erau…
 
 Pastele erau gata deja, mămăliga se ducea şi ea…
 
-Eventual a trebuit să fac greul… Pentru prima dată am cerut de mâncare… De la cine-am cerut, mi-a zis că bine am făcut deşi nu prea am înţeles eu pe atunci ce putea fi atât de bine în asta. Binele era că mi-am dat seama că eu credeam că mă descurc dar în realitate nu mă descurcam, iar primind mâncare am mai lăsat un pic din mândrie și așa am început să îmi evaluez mai realist capabilitățile.
+Eventual a trebuit să fac greul… Pentru prima dată am cerut de mâncare… De la cine-am cerut, mi-a zis că bine am făcut deşi nu prea am înţeles eu pe atunci ce putea fi atât de bine în asta. Binele era că mi-am dat seama că eu credeam că mă descurc dar în realitate nu mă descurcam, iar primind mâncare am lăsat mândria deoparte și am început să îmi evaluez mai realist capabilitățile.
 
 Niciodată nu reuşeşti de unul singur şi ăsta e unul din acele exemple.
 
