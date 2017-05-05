@@ -1,6 +1,6 @@
 ---
 type: post
-title: "Primul venit din „freelancing”"
+title: "Primul venit din freelancing"
 ---
 
 Acum un an, în ianuarie ajunsesem în Iaşi cu 5 lei în buzunar, după ce fusesem [la Dumbrava la meditat](http://www.meditatie.ro) o lună înainte. Nu am făcut prea multe cu ei, mi-am luat nişte mămăligă şi paste. A fost mâncarea mea 2 săptămâni.
