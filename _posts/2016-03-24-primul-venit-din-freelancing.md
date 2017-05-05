@@ -25,23 +25,19 @@ Rezultate nu prea erau…
 
 Pastele erau gata deja, mămăliga se ducea şi ea…
 
-Eventual a trebuit să fac greul… Pentru prima dată am cerut de mâncare… De la cine-am cerut, mi-a zis că bine-am făcut deşi nu prea am înţeles eu pe atunci ce putea fi atât de bine în asta. Nu mi-a părut nici mie rău c-am lăsat egoul deoparte pentru puţin.
-
-Prea multă lume în ziua de azi refuză lucruri primite. Dacă ar fi să am putere, o să fie ultimul lucru pe care o să-l fac… Nu primesc asta căci nu e conform standardelor mele… Sigur, cinsteşteţi ego-ul pentru asta!
-
-Regula #1 când primeşti e să nu spui niciodată ce pretenţii ai tu. Primeşte şi taci. Ce faci mai departe te gândeşti tu, dar până atunci… vezi-ţi de treabă, cineva s-a gândit la tine… fii fericit!
+Eventual a trebuit să fac greul… Pentru prima dată am cerut de mâncare… De la cine-am cerut, mi-a zis că bine am făcut deşi nu prea am înţeles eu pe atunci ce putea fi atât de bine în asta. Binele era că mi-am dat seama că eu credeam că mă descurc dar în realitate nu mă descurcam, iar primind mâncare am mai lăsat un pic din mândrie și așa am început să îmi evaluez mai realist capabilitățile.
 
 Niciodată nu reuşeşti de unul singur şi ăsta e unul din acele exemple.
 
-Juma de lună deja trecuse, însă veştile bune erau că mai aveam cam încă 7 zile de mâncare asigurate.
+Juma de lună deja trecuse, însă veştile bune erau că mai aveam încă 7 zile de mâncare asigurate.
 
 Încă ceva zile rămase, însemnau încă ceva şanse de reuşită.
 
-Evident, tot acest timp, a fost şi o zi mai specială…
+Evident, tot acest timp, a fost şi o zi mai specială, ca în orice poveste frumoasă.
 
 Era ziua în care aşteptam clienţi, ca şi cele 15 zile precedente, nimic special sau diferit nu făcusem. Însă dintr-o dată, pac! a apărut primul client. 50$ făcuţi… 30 de zile de chirie înainte le aveam garantate.
 
-Prima dată în viaţă când am avut garanţia că 30 de zile am un acoperiş deasupra capului a fost pe de parte cel mai nepreţuit moment!!!
+__Prima dată în viaţă când am avut garanţia că 30 de zile am un acoperiş deasupra capului a fost pe de parte cel mai nepreţuit moment!!!__
 
 Luna a trecut de-atunci, încet, încet. La finele ei aveam per total 300$ făcuţi, cam de 6 ori mai mult decât cei 50$ pe care estimasem eu că am nevoie până la sfârşitul lunii ca să o duc mai departe încă o lună.
 
