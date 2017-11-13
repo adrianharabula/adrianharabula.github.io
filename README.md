@@ -1,12 +1,19 @@
 # Beautiful Jekyll
 
-> *Copyright 2016 [Dean Attali](http://deanattali.com). Licensed under the MIT license.*
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
+[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
-**Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites.  [Check out a demo](http://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes.  You can also look at [my personal website](http://deanattali.com) to see it in use, or see examples of websites other people created using thcois theme [here](#featured-users-success-stories).
+> *Copyright 2016 [Dean Attali](http://deanattali.com)*
 
-If you need a bit of help or have comments, feel free to [contact me](http://deanattali.com/aboutme#contact). Even if you don't have anything important to say but found this useful, I'd love to [hear about it](http://deanattali.com/aboutme#contact). Lastly, if you like this theme, please consider [supporting me](https://www.paypal.me/daattali/20) if you want to make me extra happy. :)
+**Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites.  [Check out a demo](http://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes.  You can also look at [my personal website](http://deanattali.com) to see it in use, or see examples of websites other people created using this theme [here](#showcased-users-success-stories).
 
-This template is built on top of [Jekyll](http://jekyllrb.com/) and can be used for any [GitHub Pages](https://pages.github.com/) website.  (If you don't know what these two things are, that's absolutely fine, you don't need to!)
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
+
+<p align="center">
+  <a href="https://www.paypal.me/daattali">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+  </a>
+</p>
 
 ### Table of contents
 
@@ -18,6 +25,7 @@ This template is built on top of [Jekyll](http://jekyllrb.com/) and can be used 
 - [Creating a User Page vs a Project Page](#creating-a-user-page-vs-a-project-page)
 - [Showcased users (success stories!)](#showcased-users-success-stories)
 - [Advanced: local development](#advanced-local-development-using-docker)
+- [FAQ](#faq)
 - [Credits and contributions](#credits)
 
 ## Prerequisites
@@ -92,7 +100,7 @@ If you don't include YAML then your file will not use the template.
 
 ### Customizable
 
-Many personalization settings in `_config.yml`, such as setting your name and site's description, setting your avatar to add a little image in the navigation bar, customizing the links in the menus, customizing what social media links to show in the footer, etc.
+Many personalization settings in `_config.yml`, such as setting your name and site's description, changing the background colour/image, setting your avatar to add a little image in the navigation bar, customizing the links in the menus, customizing what social media links to show in the footer, etc.
 
 ### Allowing users to leave comments
 
@@ -130,14 +138,18 @@ subtitle    | Short description of page or blog post that goes under the title
 bigimg      | Include a large full-width image at the top of the page.  You can either give the path to a single image, or provide a list of images to cycle through (see [my personal website](http://deanattali.com/) as an example).
 comments    | If you want do add Disqus comments to a specific page, use `comments: true`. Comments are automatically enabled on blog posts; to turn comments off for a specific post, use `comments: false`. Comments only work if you set your Disqus id in the `_config.yml` file.
 show-avatar | If you have an avatar configured in the `_config.yml` but you want to turn it off on a specific page, use `show-avatar: false`. If you want to turn it off by default, locate the line `show-avatar: true` in the file `_config.yml` and change the `true` to `false`; then you can selectively turn it on in specific pages using `show-avatar: true`.
+image       | If you want to add a personalized image to your blog post that will show up next to the post's excerpt and on the post itself, use `image: /path/to/img`.
 share-img   | If you want to specify an image to use when sharing the page on Facebook or Twitter, then provide the image's full URL here.
 social-share | If you don't want to show buttons to share a blog post on social media, use `social-share: false` (this feature is turned on by default).
+use-site-title | If you want to use the site title rather than page title as HTML document title (ie. browser tab title), use `use-site-title: true`. When set, the document title will take the format `Site Title - Site Description` (eg. `My website - A virtual proof that name is awesome!`). By default, it will use `Page Title` if it exists, or `Site Title` otherwise.
 layout      | What type of page this is (default is `blog` for blog posts and `page` for other pages. You can use `minimal` if you don't want a header and footer)  
 js          | List of local JavaScript files to include in the page (eg. `/js/mypage.js`)
-ext-js      | List of external JavaScript files to include in the page (eg. `//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js`)
+ext-js      | List of external JavaScript files to include in the page (eg. `//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js`). External JavaScript files that support [Subresource Integrity (SRI)](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) can be specified using the `href` and `sri` parameters eg.<br/>`href: "//code.jquery.com/jquery-3.1.1.min.js"`<br/>`sri: "sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="`
 css         | List of local CSS files to include in the page
-ex-css      | List of external CSS files to include in the page
+ext-css      | List of external CSS files to include in the page. External CSS files using SRI (see `ext-js` parameter) are also supported. 
 googlefonts | List of Google fonts to include in the page (eg. `["Monoton", "Lobster"]`)
+gh-repo   | If you want to show GitHub buttons at the top of a post, this sets the GitHub repo name (eg. `daattali/beautiful-jekyll`). You must also use the `gh-badge` parameter to specify what buttons to show.
+gh-badge  | Select which GitHub buttons to display, available options are: [star, watch, fork, follow]. You must also use the `gh-repo` parameter to specify the GitHub repo.
 
 ### Advanced features (including how to use a custom URL address for your site)
 
@@ -164,15 +176,16 @@ Want your website featured here? [Contact me](http://deanattali.com/aboutme#cont
 
 | Website | Description |
 | :------ |:----------- |
-| [teampass.net](http://teampass.net) | Collaborative Passwords Manager |
 | [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
 | [bigdata.juju.solutions](http://bigdata.juju.solutions) | Creating Big Data solutions Juju Solutions |
 | [joecks.github.io/clipboard-actions](http://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
-| [embedded.guide](http://embedded.guide) | Writing an Embedded OS |
+| [deanattali.com/shinyjs](http://deanattali.com/shinyjs/) | shinyjs - an R package |
 | [blabel.github.io](http://blabel.github.io) | Library for canonicalising blank node labels in RDF graphs |
 | [reactionic.github.io](http://reactionic.github.io) | Create iOS and Android apps with React and Ionic |
 | [ja2-stracciatella.github.io](http://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
 | [PatientOutcomeFunding.org](http://www.patientoutcomefunding.org/) | Patient Outcome Funding |
+| [ddocent.com](http://ddocent.com/) | RADSeq Bioinformatics and Beyond |
+| [fightthecube.com](http://fightthecube.com/) | Fight The Cube (personal finance education) |
 
 ### Personal websites
 
@@ -185,9 +198,9 @@ Want your website featured here? [Contact me](http://deanattali.com/aboutme#cont
 | [chauff.github.io](http://chauff.github.io/) | Claudia Hauff | Professor at Delft University of Technology |
 | [kootenpv.github.io](http://kootenpv.github.io/) | Pascal van Kooten | Data analytics |
 | [sjackman.ca](http://sjackman.ca) | Shaun Jackman | PhD candidate in bioinformatics |
-| [epwalsh.com](https://epwalsh.com) | Evan Pete Walsh | PhD candidate (Statistics and Mathematics) at Iowa State University ||
 | [anudit.in](http://www.anudit.in/) | Anudit Verma | Engineering student |
-| [aqibsaeed.github.io](http://aqibsaeed.github.io/) | Aaqib Saeed | Computer Science grad student |
+| [sharepointoscar.github.io](http://sharepointoscar.github.io) | Oscar Medina | Independent Hacker |
+| [ocram85.github.io](https://ocram85.github.io) | Marco Blessing | A personal blog about PowerShell and automation |
 
 
 ## Advanced: Local development using Docker
@@ -201,12 +214,32 @@ Beautiful Jekyll is meant to be so simple to use that you can do it all within t
     ```
     docker run -p 4000:4000 -v `pwd`:/app mangar/jekyll:1.1 bash -c "bundle install; bundle exec jekyll serve"
     ```
+    Note you may need to add `--host 0.0.0.0` after `bundle exec jekyll serve` to get the site to server correctly.
 4. View your website at <http://localhost:4000>.
 
 Disclaimer: I personally am NOT using local development so I don't know much about running Jekyll locally. If you follow this route, please don't ask me questions because unfortunately I honestly won't be able to help!		
   		  
 Aditionally, if you choose to deploy Jekyll using a local ruby installation, you can tell Jekyll to automatically categorize your blog posts by tags. You just need to set `link-tags: true` in `_config.yml`. Jekyll will then generate a new page for each unique tag which lists all of the posts that belong to that tag.
 
+## FAQ
+
+Beautiful Jekyll is actively used by thousands of people with wildly varying degrees of competency, so it's impossible to answer all the questions that may arise. Below are answers to a few very common questions. Most questions that I get asked are not directly related to this theme, and instead are more general questions about Jekyll or web development. Many such questions can be answered by reading the [Jekyll documentation](http://jekyllrb.com/) or simply by Googling.
+
+#### How do I change the number of posts per page OR the colour of the navigation bar OR the image in the navigation bar OR ...?
+
+Beautiful Jekyll is built to be very customizable, and as such, many questions about "how do I change ..." can be answered by looking at the `_config.yml` file. The configuration file has many adjustable parameters to customize your site.
+
+#### How do I add a favicon to my site?
+
+Easy! Just place a valid `favicon.ico` (or another valid favicon image) in the root directory of your project. And then wait! It can take a while to update.
+
+#### How do I move the blog to another page instead of having it on the home page?
+
+The default style of Beautiful Jekyll is to feature the blog feed on the front page. But for many sites that's not the ideal structure, and you may want to have a separate dedicated page for the blog posts. To have the blog hosted on a different URL (for example at `<mysite.com>/blog`), copy the `index.html` file into a folder with the same name as the desired page (for example, to `blog/index.html`), and in the `_config.yml` file you need to add a parameter `paginate_path: "/<page name>/page:num/"` (for example `paginate_path: "/blog/page:num/"`).
+
+#### What size do you recommend using for the `bigimg` photos?
+
+Unfortunately, this is a no-answer! There isn't a one-size-fits-all solution to this, because every person will view your site on a different browser with different dimensions. Some browsers will have very wide aspect ratio, some will be narrower, some will be vertical (such as phones), different phones have different screens, etc. The image will always be centered, so the only tip I can give is that you should make sure the important part of the image is in the middle so that it'll always show. Other than that, every browser will show a different clipping of the image.
 
 ## Credits
 
@@ -220,7 +253,7 @@ I'd also like to thank [Dr. Jekyll's Themes](http://drjekyllthemes.github.io/), 
 
 If you find anything wrong or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.  Any comments are welcome!
 
-Thank you to [all contributors](https://github.com/daattali/beautiful-jekyll/graphs/contributors). Special thanks to the following people with non-trivial contributions (in chronological order): [@hristoyankov](https://github.com/hristoyankov), [@jamesonzimmer](https://github.com/jamesonzimmer), [@XNerv](https://github.com/XNerv), [@epwalsh](https://github.com/epwalsh), [@rtlee9](https://github.com/rtlee9).
+Thank you to [all contributors](https://github.com/daattali/beautiful-jekyll/graphs/contributors). Special thanks to the following people with non-trivial contributions (in chronological order): [@hristoyankov](https://github.com/hristoyankov), [@jamesonzimmer](https://github.com/jamesonzimmer), [@XNerv](https://github.com/XNerv), [@epwalsh](https://github.com/epwalsh), [@rtlee9](https://github.com/rtlee9), [@OCram85](https://github.com/OCram85).
 
 If you do fork or clone this project to use as a template for your site, I would appreciate if you keep the link in the footer to this project.  I've noticed that several people who forked this repo removed the attribution and I would prefer to get the recognition if you do use this :)
 
