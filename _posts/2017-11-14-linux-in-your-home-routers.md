@@ -17,6 +17,10 @@ The distro running is [OpenWrt](//openwrt.org), see [suported devices list](//wi
 
 There are also variants, see more info [here](https://lifehacker.com/how-to-choose-the-best-firmware-to-supercharge-your-wi-1694982764).
 
+https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/
+http://www.harding.motd.ca/autossh/README.txt
+
+
 
 
 
