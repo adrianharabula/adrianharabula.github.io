@@ -3,21 +3,20 @@ layout: post
 title: Linux in your home routers
 published: false
 ---
+When you have some old routers lying around and get bored with the standard firmware...
+![standard_router_firmware.jpg]({{site.baseurl}}/img/linux_in_your_home_router/standard_router_firmware.jpg)
 
-It was a pretty nice realization when I found out you can install linux on your router.
+Just found out you can install Linux. Grabbed some old routers and started hacking.
+![a_bunch_of_routers_and_a_raspberry_pi.jpg]({{site.baseurl}}/img/linux_in_your_home_router/a_bunch_of_routers_and_a_raspberry_pi.jpg)
 
-Found out by reading a router review, saying that it supports openwrt and the guy installed it and was using the machine as a home file server. 
+There are many [variants](https://lifehacker.com/how-to-choose-the-best-firmware-to-supercharge-your-wi-1694982764), went with [OpenWrt](//openwrt.org) for this one.
 
-Another awesome realization was when it hit me that they must have a CPU and Ram.
+You can hack your router and gain total control of your network.
 
-And storage, and that the linux itself runs on 4mb flash chip! 
+The distro running is [OpenWrt](//openwrt.org), see [suported devices list](//wiki.openwrt.org/toh/start).
 
-Going even further, they also have gpio pins.
+There are also variants, see more info [here](https://lifehacker.com/how-to-choose-the-best-firmware-to-supercharge-your-wi-1694982764).
 
-Popular routers already have images ready to flash.
 
-You can change their flash, so you get 8mb, 16mb or more of available memory. You can solder more RAM!!! 
 
-How this sounds? 
 
-Now let's get to the basics and boot a Linux image on our testing router.
