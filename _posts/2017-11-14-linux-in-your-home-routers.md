@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Linux in your home routers
-published: false
+title: Linux in your home router?
+published: true
 ---
-When you have some old routers lying around and get bored with the standard firmware...
+When you have some old routers lying around...
 ![standard_router_firmware.jpg]({{site.baseurl}}/img/linux_in_your_home_router/standard_router_firmware.jpg)
 
-Just found out you can install Linux. Grabbed some old routers and started hacking.
+You can bring them back to life, by installing Linux on them! :D
 ![a_bunch_of_routers_and_a_raspberry_pi.jpg]({{site.baseurl}}/img/linux_in_your_home_router/a_bunch_of_routers_and_a_raspberry_pi.jpg)
+
+
 
 There are many [variants](https://lifehacker.com/how-to-choose-the-best-firmware-to-supercharge-your-wi-1694982764), went with [OpenWrt](//openwrt.org) for this one.
 
