@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Linux in your home router?
-published: true
+redirect_from:
+ - "/2017/01/linux-in-your-home-routers/"
 ---
 
 When you have some old routers lying around,
