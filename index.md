@@ -11,4 +11,4 @@ Se pare că e drum lung și dificil, iar reușita de mâine nu e garantată. Aș
 
 Mă bucur că ai trecut pe aici câteva minute, înseamnă foarte mult pentru mine!
 
-PS: Te-ar putea interesa și [Primul venit din freelancing](https://www.adrianharabula.ro/2016/03/primul-venit-din-freelancing/).
+PS: Te-ar putea interesa și [Primul venit din freelancing](/2016/03/primul-venit-din-freelancing/).
