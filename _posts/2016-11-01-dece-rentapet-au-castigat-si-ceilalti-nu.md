@@ -1,7 +1,7 @@
 ---
 type: post
 title: "De ce Rent A Pet au câștigat și ceilalți nu?"
-share-img: "https://www.adrianharabula.ro/img/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg" 
+share-img: "/img/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg" 
 ---
 
 Îmi amintesc pitchul... Era prezentat bine, era ceva scos pe moment, era vorba de un app unde să cauți oameni la care poți să îți lași animăluțul atunci când pleci pe undeva. De aici și numele, Rent a Pet.
