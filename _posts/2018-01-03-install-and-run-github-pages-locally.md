@@ -1,6 +1,7 @@
 ---
 type: post
 title: "Install and run GitHub Pages locally"
+share-img: "/img/github-pages.png"
 ---
 
 This site is powered by Jekyll & GitHub Pages.
