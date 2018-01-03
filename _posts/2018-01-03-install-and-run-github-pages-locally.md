@@ -2,7 +2,7 @@
 type: post
 title: "Install and run GitHub Pages locally"
 share-img: "/img/github-pages.png"
-description: "This site is powered by Jekyll & GitHub Pages. Run your own local copy following these instructions."
+meta-description: "This site is powered by Jekyll & GitHub Pages. Run your own local copy following these instructions."
 ---
 
 This site is powered by Jekyll & GitHub Pages.
