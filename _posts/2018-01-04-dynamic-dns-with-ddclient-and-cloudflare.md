@@ -2,7 +2,7 @@
 type: post
 title: "Dynamic DNS with ddclient and Cloudflare"
 meta-description: "Map dynamic IP to subdomain, tested on ubuntu 16.04 and raspbian stretch"
-share-img: "https://www.cloudflare.com/img/logo-cloudflare-dark.svg"
+share-img: "/img/cloudflare_logo.png"
 ---
 
 From the cloudflare side, add desired subdomain you want to map.
