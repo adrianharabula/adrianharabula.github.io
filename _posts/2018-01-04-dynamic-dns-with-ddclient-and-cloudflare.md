@@ -5,7 +5,7 @@ meta-description: "Map dynamic IP to subdomain, tested on ubuntu 16.04 and raspb
 share-img: "/img/cloudflare_logo.png"
 ---
 
-From the cloudflare side, add desired subdomain you want to map.
+From the Cloudflare side, add desired subdomain you want to map.
 
 ![add subdomain](/img/dynamic-dns-with-ddclient-and-cloudflare/cloudflare_add_subdomain.png)
 
