@@ -100,11 +100,9 @@ Reboot phone.
 If phone freezes with Huawei logo for more than 5 minutes, reboot phone by pressing power button for 10 seconds.
 
 ## Warning!
-After this step, in TWRP you will see 0MB internal storage. Do a `Format Data` if you want to continue installing custom ROM.
+After this step, in TWRP you will see 0MB internal storage.
 
 # 3. Install Custom ROM Android 7.1.2 / 8.0 BETA
-
-In TWRP, do a `Format Data` if you replace EMUI 4.1 ROM.
 
 Download one of these:
  * android 7.1.2 [https://forum.xda-developers.com/p8lite/development/rom-t3606568](https://forum.xda-developers.com/p8lite/development/rom-t3606568)
