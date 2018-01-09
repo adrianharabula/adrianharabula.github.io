@@ -1,10 +1,10 @@
 ---
 type: post
 title: "Mod your Huawei p8 lite"
-subtitle: "Flash Custom ROM Android 7.1.2 / 8.0 BETA to your p8 lite. If something goes wrong, you can always go back to stock EMUI 4.1"
+subtitle: "Flash Custom ROM Android 7.1.2 / 8.0 BETA to your p8 lite. Go back to stock EMUI 4.1 if you don't like custom ROMS."
 ---
 
-# 1. Get unlock code
+# 1. Get bootloader unlock code
 
 First, create an account here:
 [https://emui.huawei.com](https://emui.huawei.com)
