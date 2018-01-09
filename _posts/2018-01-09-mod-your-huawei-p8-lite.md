@@ -69,7 +69,7 @@ Now, as mentioned [here](https://forum.xda-developers.com/showpost.php?p=7142902
 
 TWRP will now load!
 
-Leave phone as is and got to next step.
+Leave phone as is and go to next step.
 
 # 2. Update phone to stock EMUI 4.1
 
@@ -108,7 +108,7 @@ Download one of these:
  * android 7.1.2 [https://forum.xda-developers.com/p8lite/development/rom-t3606568](https://forum.xda-developers.com/p8lite/development/rom-t3606568)
  * android 8.0 BETA [https://forum.xda-developers.com/p8lite/development/rom-t3707374](https://forum.xda-developers.com/p8lite/development/rom-t3707374)
 
-Download [opengapps](http://opengapps.org/).
+Download [opengapps](http://opengapps.org/):
  * ARM64, android 7.1, nano 
  * ARM64, android 8.0, nano
 
