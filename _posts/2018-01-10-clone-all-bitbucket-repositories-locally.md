@@ -12,7 +12,7 @@ No matter what you are using, if the service goes down, what can you do to save 
 
 Let's start with the simplest measurement you can take. We will clone all your Bitbucket repos to take snapshot of your code in current state.
 
-Using their API:
+Using Bitbucket API:
  * [/2.0/repositories/{username}](https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D)
  * [/2.0/users/{username}/repositories](https://developer.atlassian.com/bitbucket/api/2/reference/resource/users/%7Busername%7D/repositories)
 
@@ -45,4 +45,4 @@ Wait, your repositories will be downloaded and cloned locally.
 2018-01-10 09:18:43.937138 - Finished!
 ```
 
-Now in repos folder you have all your Bitbucket repos.
+Now in `repos` folder you have all your Bitbucket repos.
