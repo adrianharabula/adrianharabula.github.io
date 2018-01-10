@@ -10,16 +10,16 @@ Last year GitLab had a [serious incident with one of their databases](https://ab
 
 No matter what you are using, if the service goes down, what can you do to save your data and how can you protect yourself in case of a service failure?
 
-Let's start with the simplest measurement you can take. We will clone all your Bitbucket repos to take snapshot of your code in current state.
+Let's start with the simplest measurement you can take. We will clone all your Bitbucket repos locally.
 
 Using Bitbucket API:
  * [/2.0/repositories/{username}](https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D)
 
 You can get a list of repos under your account. Having this list you can iterate `git clone` over project names.
 
-We will use the `bitbucket-backup` python script, made by [samkuehn](https://github.com/samkuehn/bitbucket-backup).
+For this we will use the `bitbucket-backup` python script, made by [samkuehn](https://github.com/samkuehn/bitbucket-backup).
 
-Install python, if you don't have it already in your system. [Download binaries here](https://www.python.org/downloads/).
+Install Python, if you don't have it already in your system. [Download binaries here](https://www.python.org/downloads/).
 
 Clone / download `bitbucket-backup` python script:
 ```bash
@@ -33,7 +33,7 @@ Run the script:
 # use -t to specify the team you want to download repositories from
 # use --http to clone repositories with https instead of ssh
 # see full list of parameters here https://github.com/samkuehn/bitbucket-backup/blob/master/README.md#quickstart
-python bitbucket-backup -u bitbucket_user -l repos --https
+python bitbucket-backup -u bitbucket_user -l repos --http
 ```
 
 Enter password and wait... your repositories will be downloaded and cloned locally in `repos` folder.
