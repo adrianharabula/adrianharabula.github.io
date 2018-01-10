@@ -87,6 +87,6 @@ optional arguments:
 
 ```
 
-The following script is tested and working on windows with:
+The following script is tested and working on Windows with:
  * Git for Windows 12.15.1
  * Python 3.6.4
