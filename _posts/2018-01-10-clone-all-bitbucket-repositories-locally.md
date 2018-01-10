@@ -14,11 +14,8 @@ Let's start with the simplest measurement you can take. We will clone all your B
 
 Using Bitbucket API:
  * [/2.0/repositories/{username}](https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D)
- * [/2.0/users/{username}/repositories](https://developer.atlassian.com/bitbucket/api/2/reference/resource/users/%7Busername%7D/repositories)
 
 You can get a list of repos under your account. Having this list you can iterate `git clone` over project names.
-
-You need to have git preconfigured to work with private key in order for git clone command to work without entering username/password.
 
 We will use the `bitbucket-backup` python script, made by [samkuehn](https://github.com/samkuehn/bitbucket-backup).
 
@@ -27,17 +24,25 @@ Install python, if you don't have it already in your system. [Download binaries 
 Clone / download `bitbucket-backup` python script:
 ```bash
 git clone https://github.com/samkuehn/bitbucket-backup.git
-```
-Run the script, complete with username, password and download folder.
-```bash
 cd bitbucket-backup
-python bitbucket-backup
-Enter bitbucket username: BITBUCKET_USERNAME
-Enter your bitbucket password: 
-Enter local location to backup to: repos
+```
+Run the script:
+```bash
+# use -u to specify username user to log in
+# use -l to specify download location
+# use -t to specify the team you want to download repositories from
+# use --http to clone repositories with https instead of ssh
+# see full list of parameters here https://github.com/samkuehn/bitbucket-backup/blob/master/README.md#quickstart
 ```
 
-Wait, your repositories will be downloaded and cloned locally.
+Sample command:
+```bash
+# download repositories owned by bitbucket_user to `repos` folder
+# use https instead of ssh protocol
+python bitbucket-backup -u bitbucket_user -l repos --https
+```
+
+Enter password and wait... your repositories will be downloaded and cloned locally.
 
 ```bash
 2018-01-10 09:18:38.949947 - Backing up [repo1]...
@@ -45,4 +50,4 @@ Wait, your repositories will be downloaded and cloned locally.
 2018-01-10 09:18:43.937138 - Finished!
 ```
 
-Now in `repos` folder you have all your Bitbucket repos.
+Now in `repos` folder you have all your Bitbucket repos. Running the same command again will update the existing repositories.
