@@ -86,3 +86,8 @@ optional arguments:
                         specify list of repo slug names to skip
 
 ```
+
+The following script is tested and working on windows with:
+ * git for windows 12.15.1
+ * python 3.6.4
+ 
