@@ -88,6 +88,5 @@ optional arguments:
 ```
 
 The following script is tested and working on windows with:
- * git for windows 12.15.1
- * python 3.6.4
- 
+ * Git for Windows 12.15.1
+ * Python 3.6.4
