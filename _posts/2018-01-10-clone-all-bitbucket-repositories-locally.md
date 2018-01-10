@@ -4,7 +4,7 @@ title: "Clone all your Bitbucket repositories locally"
 meta-description: "Simple preparations in case of a service failure."
 ---
 
-Following [latest Bitbucket incident](https://status.bitbucket.org/incidents/z029156p1svh), you may ask what could happen if the service would crash? You'll loose all your repos? How could you backup yourself?
+Following [latest Bitbucket incident](https://status.bitbucket.org/incidents/z029156p1svh), you may ask what could happen if the service would crash? You'll loose all your repos? How could you prevent this?
 
 Last year GitLab had a [serious incident with one of their databases](https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/) and they lost six hours of database data (issues, merge requests, users, comments, snippets, etc.) for GitLab.com.
 
