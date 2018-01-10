@@ -33,16 +33,10 @@ Run the script:
 # use -t to specify the team you want to download repositories from
 # use --http to clone repositories with https instead of ssh
 # see full list of parameters here https://github.com/samkuehn/bitbucket-backup/blob/master/README.md#quickstart
-```
-
-Sample command:
-```bash
-# download repositories owned by bitbucket_user to `repos` folder
-# use https instead of ssh protocol
 python bitbucket-backup -u bitbucket_user -l repos --https
 ```
 
-Enter password and wait... your repositories will be downloaded and cloned locally.
+Enter password and wait... your repositories will be downloaded and cloned locally in `repos` folder.
 
 ```bash
 2018-01-10 09:18:38.949947 - Backing up [repo1]...
@@ -50,4 +44,45 @@ Enter password and wait... your repositories will be downloaded and cloned local
 2018-01-10 09:18:43.937138 - Finished!
 ```
 
-Now in `repos` folder you have all your Bitbucket repos. Running the same command again will update the existing repositories.
+Running the same command again will update the existing repositories.
+
+Even more info:
+```bash
+usage: bitbucket-backup [-h] [-u USERNAME] [-p PASSWORD] [-k OAUTH_KEY]
+                        [-s OAUTH_SECRET] [-t TEAM] [-l LOCATION] [-v] [-q]
+                        [-c] [-a ATTEMPTS] [--mirror] [--with-wiki] [--http]
+                        [--skip-password] [--prune]
+                        [--ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]]
+
+Usage: %prog [options]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -u USERNAME, --username USERNAME
+                        Bitbucket username
+  -p PASSWORD, --password PASSWORD
+                        Bitbucket password
+  -k OAUTH_KEY, --oauth-key OAUTH_KEY
+                        Bitbucket oauth key
+  -s OAUTH_SECRET, --oauth-secret OAUTH_SECRET
+                        Bitbucket oauth secret
+  -t TEAM, --team TEAM  Bitbucket team
+  -l LOCATION, --location LOCATION
+                        Local backup location
+  -v, --verbose         Verbose output of all cloning commands
+  -q, --quiet           No output to stdout
+  -c, --compress        Creates a compressed file with all cloned repositories
+                        (cleans up location directory)
+  -a ATTEMPTS, --attempts ATTEMPTS
+                        max. number of attempts to backup repository
+  --mirror              Clone just bare repositories with git clone --mirror
+                        (git only)
+  --with-wiki           Includes wiki
+  --http                Fetch via https instead of SSH
+  --skip-password       Ignores password prompting if no password is provided
+                        (for public repositories)
+  --prune               Prune repo on remote update
+  --ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]
+                        specify list of repo slug names to skip
+
+```
