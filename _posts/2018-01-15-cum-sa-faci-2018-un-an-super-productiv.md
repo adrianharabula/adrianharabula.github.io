@@ -2,6 +2,8 @@
 type: post
 title: "Cum să faci 2018 un an super productiv?"
 meta-description: "Multe lucruri pot fi super urgente acum. Dar dacă peste 5 ani nu mai contează absolut deloc ce arde acum, te numeşti pompier, nu om care îşi face 2018 cum vrea el."
+redirect_from:
+ - "/2018/01/cum-sa-faci-2018-un-an-grozav/"
 ---
 
 Dacă vrei să ai un 2018 super productiv, uite un simplu trick.
