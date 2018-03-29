@@ -16,7 +16,7 @@ sudo gem install bundler
 
 Or, if you're on Fedora:
 ```bash
-sudo dnf install -y ruby ruby-devel zlib-devel libffi-devel
+sudo dnf install -y ruby ruby-devel zlib-devel libffi-devel rubygem-json 
 ```
 
 Install git:
