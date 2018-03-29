@@ -14,6 +14,11 @@ sudo apt-get install -y ruby ruby-dev zlib1g-dev
 sudo gem install bundler
 ```
 
+Or, if you're on Fedora:
+```bash
+sudo dnf install -y ruby ruby-devel zlib-devel libffi-devel
+```
+
 Install git:
 ```bash
 sudo apt-get install -y git
