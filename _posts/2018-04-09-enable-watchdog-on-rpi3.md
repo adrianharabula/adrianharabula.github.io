@@ -1,6 +1,7 @@
 ---
 type: post
 title: "How to enable watchdog on Raspberry Pi 3"
+description: "Here, a real quick setup of the watchdog on Raspberry Pi. It is a hardware counter. If OS becomes unresponsive and the counter is not reset, Pi will automatically reboot."
 ---
 
 Here, a real quick setup of the watchdog on Raspberry Pi.
