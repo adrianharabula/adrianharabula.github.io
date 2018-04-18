@@ -1,7 +1,7 @@
 ---
 type: post
 title: "Cum să renunţi la concediu ca să munceşti mai mult"
-meta-description: "Lumea încă nu e un loc suficient de nebun încât să te recompenseze pe degeaba"
+meta-description: "Lumea încă nu e un loc suficient de nebun încât să te recompenseze pe degeaba."
 ---
 
 Nu e chiar aşa de teribil pe cum sună şi nici nebun nu trebuie să fii.
