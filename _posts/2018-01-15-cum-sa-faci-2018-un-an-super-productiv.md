@@ -33,6 +33,6 @@ Da, e normal. Când faci ceva. Rămân în urmă familia, timpul liber, sănăta
 E nasol, dar ce poţi face? :)
 
 Articole suplimentare:
- * [cum ştii ce e cu adevărat important](https://www.huffingtonpost.com/craig-ballantyne/identifying-what-really-m_b_11298464.html) de Craig Ballantyne
+ * [Cum ştii ce e cu adevărat important](http://www.earlytorise.com/identifies-what-really-matters) de Craig Ballantyne
  * [Please Don’t Interrupt](https://www.stevepavlina.com/blog/2013/01/please-dont-interrupt/) de Steve Pavlina
  * cartea [One thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776) sau [Un singur lucru](http://www.elefant.ro/carti/carte/self-help/dezvoltare-personala/un-singur-lucru-adevarul-neasteptat-de-simplu-de-la-baza-oricarei-reusite-235878.html) de Gary Keller şi Jay Papasan
