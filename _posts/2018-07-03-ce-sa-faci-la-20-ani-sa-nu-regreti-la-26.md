@@ -71,7 +71,7 @@ Sub orice preţ, la 20 de ani nu ai nimic de apărat, ai numai de învăţat. Nu
 
 Mintea ar trebui să fie aliatul tău, dar cred că asta e doar o glumă bună la 20 de ani.
 
-# Ţine strictul necesar împachetat într-o geantă şi fi pregătit să pleci la drum oricând pentru câteva zile neaşteptat
+# Ţine strictul necesar împachetat într-o geantă şi fii pregătit să pleci la drum oricând pentru câteva zile neaşteptat
 O geantă în spate cu toate necesităţile pe câteva zile, să ai tot timpul la tine. Nu şti cum te poartă viaţa, în caz de ceva, ai o geantă cu tine să poţi pleca lejer. S-a întâmplat de atâtea ori şi se va mai întâmpla de nenumărate ori. Renunţă la cât de multe posesii poţi. Orice nu ai folosit în ultimele 6 luni aruncă. Dacă ai mai folosit un lucru din când în când dă-l mai departe. Fă-ţi un obicei din a avea întotdeauna loc liber cu tine oriunde ai fi. Aşa vor veni lucruri noi tot timpul în viaţa ta. Şi nu vei căra prea multe cu tine, decât doar strictul necesar.
 
 # Donează lucruri de care ai nevoie celor care au nevoie de ele
