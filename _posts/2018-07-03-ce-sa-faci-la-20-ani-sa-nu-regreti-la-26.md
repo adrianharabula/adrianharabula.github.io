@@ -4,7 +4,7 @@ title: "Ce să faci la 20 de ani ca să nu regreţi la 26?"
 meta-description: "La 20 de ani mintea te duce în plaiuri îndepărtate, ba în viitor, ba în trecut, dar realitatea e doar în prezent, aici, fără imaginație, fără vise, fără vârstă. Indiferent în ce stadiu te aflii în viaţa asta iată câteva momente cheie pentru a îţi aminti să trăieşti."
 ---
 
-La 20 de ani mintea te duce în plaiuri îndepărtate, ba în viitor, ba în trecut, dar realitatea e doar în prezent, aici, fără imaginație, fără vise, fără vârstă. Indiferent în ce stadiu te aflii în viaţa asta iată câteva momente cheie pentru a îţi aminti să trăieşti.
+La 20 de ani mintea te duce în plaiuri îndepărtate, ba în viitor, ba în trecut, dar realitatea e doar în prezent, aici, fără imaginație, fără vise, fără vârstă. Indiferent în ce stadiu te afli în viaţa asta iată câteva momente cheie pentru a îţi aminti să trăieşti.
 
 # Începe cu sfârșitul
 Erau deja 2 ani trecuţi de când lăsasem facultatea, părinţii nu m-au mai primit acasă iar eu încă nu îmi găseam niciun loc în lume. Păreau cei mai 2 ani risipiţi din viaţa mea în care părea că nu sunt al nimănui, nici măcar al străzii. Au fost cei mai groaznici ani trăiţi.
