@@ -24,7 +24,7 @@ Fiecare mai păţim şi dintr-astea. E bine totuşi la 20 de ani să nu îţi fa
 
 De multe ori în viaţă e bine să zici nu şi la 20 de ani ar fi bine să înveţi din timp bine asta.
 
-# Viaţa e preţioasă... nu fi stupid să pui altceva mai sus decât viaţa
+# Viaţa e preţioasă... nu fii stupid să pui altceva mai sus decât viaţa
 Viața pe care o ai prețuiește-o. Alta nu mai ai. Dacă eşti azi aici, nu înseamnă că vei fi şi mâine. La un moment dat, mai curând decât crezi, vei avea de ales între viață și ceea ce ești. Sper că vei alege viața.
 
 Poate sunt prea vag, dar exemple sunt mii.
