@@ -23,6 +23,7 @@ description: Despre Obstacole În Startups
 
 # List of links in the navigation bar
 navbar-links:
+  Now: "now/"
   Arhive: "arhive/"
 # About Me: "aboutme"
 # Resources:
