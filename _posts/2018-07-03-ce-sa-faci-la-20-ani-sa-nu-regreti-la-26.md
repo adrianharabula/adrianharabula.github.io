@@ -13,7 +13,8 @@ Mă întrebam dacă nu cumva toate astea se vor termina vreodată. Se vor termin
 
 Ideea esenţială e să anticipezi unde vei fi în următorii ani şi încet încet să iei hotărâri care îţi vor permite să te uiţi înapoi cu bucurie şi satisfacţie deplină. Ştiind că vei putea face asta toţi anii 20 devin infinit mai plăcuţi şi interesanţi.
 
-E prea trist să închei prea devreme aventura anilor 20 fără să rişti nimic. Toate într-o zi se vor termina aşa că mai rămâi un pic acum, mai fă ceva. Chiar dacă nu ai un acoperiş deasupra, chiar dacă nu ai ce mânca deseară şi chiar dacă, în general, nu ar putea ieşi nimic, totuşi există o mică mică mică mică mică şansă să se schimbe ceva, doar pentru simplul fapt că încerci ceva diferit. Doar nu renunţa prea repede. 2 ani ca să încerci ceva înseamnă foarte puţin. Mai stai un pic. Nici nu ştii cât de aproape eşti de final decât abia atunci când renunţi.
+E prea trist să închei prea devreme aventura anilor 20 fără să rişti nimic. Toate într-o zi se vor termina aşa că mai rămâi un pic acum, mai fă ceva. Chiar dacă nu ai un acoperiş deasupra, chiar dacă nu ai ce mânca deseară şi chiar dacă, în general, nu ar putea ieşi nimic, totuşi există o mică mică mică mică mică şansă să se schimbe ceva, doar pentru simplul fapt că încerci ceva diferit. Doar nu renunţa prea repede. 2 ani ca să încerci ceva înseamnă foarte puţin. Mai stai un pic. După cum zice un proverb chinezesc:
+> The temptation to quit will be greatest just before you are about to succeed.
 
 # Întinde-te numai cât ţi-e plapuma
 Tot ce crezi tu că poți să faci nu e și neapărat adevărat. E la modă să gândești fără limite, dar mai realist e să îți vezi de lungul nasului și să nu te arunci niciodată mai mult decât poți duce. 
