@@ -26,3 +26,12 @@ h1.blog-post-title {
         padding-right: 15%;
     }
 }
+
+.alt {
+    padding-top: 11px;
+    padding-right: 15px;
+}
+
+.alt .list-inline-item:not(:last-child) {
+    margin-right: 0;
+}
