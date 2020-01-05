@@ -1,0 +1,155 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34549018-8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-34549018-8', { 'anonymize_ip': true });
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Notes on life as a programmer">
+  <meta name="author" content="Adrian Harabulă">
+  <link rel="icon" href="../../../../../static/img/favicon.ico">
+
+  <title>Remove changed files in git working folder - Adrian's blog</title>
+
+  <link rel="stylesheet" href="../../../../../static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:700" />
+  <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+  <!-- Custom CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link rel="stylesheet" href="../../../../../static/css/custom.css">
+  <link rel="stylesheet" href="../../../../../static/css/custom-ah.css">
+</head>
+
+<body>
+  <main role="main" class="container">
+
+    <!-- HEADER -->
+    <header class="site-header py-3">
+      <div class="row flex-nowrap justify-content-between align-items-center">
+        <div class="col pt-1">
+          <a class="site-header-name" href="/">
+            <h1 class="site-header-name">Adrian Harabulă</h1>
+          </a>
+        </div>
+        <div class="align-right">
+          <ul class="list-inline alt">
+            
+              
+            
+          </ul>
+        </div>
+      </div>
+    </header>
+    <!-- END HEADER -->
+
+    <!-- NAVIGATION -->
+    <div class="container nav-bar">
+      <div class="row nav">
+        <a class="col-md-auto p-2" href="../../../../../en/blog/">Blog</a>
+      </div>
+    </div>
+    <!-- END NAVIGATION -->
+
+    <div class="row">
+
+      <!-- MAIN BODY -->
+      <div class="col">
+
+        
+  
+  <div class="blog-post">
+    <a class="blog-post-title" href="../../../../../en/blog/2018/01/remove-changed-files-in-git-working-folder/"><h1 class="blog-post-title">Remove changed files in git working folder</h1></a>
+  <p class="blog-post-info text-muted small">
+    written by
+    
+      Adrian Harabulă
+    
+    on 2018-01-08
+  </p>
+  <p>Git has <a href="https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#_the_three_states">three states</a>.</p>
+<ul>
+<li>working directory</li>
+<li>staging area (index), files marked to be included in the next commit</li>
+<li>.git directory, for files already in the git tree</li>
+</ul>
+<p>Sometimes you may want to restore changed or staged files back as they were in last commit.</p>
+<h3>To remove changed files use:</h3>
+<pre><code class="lang-bash"># this will discard changes to existing files
+# and switch back to master branch
+# works even for staged changes
+git checkout -f master
+
+# this will remove untracked files
+# add -d to remove untracked folders
+# add -x to remove .gitignored files
+git clean -f
+</code></pre>
+<h3>Example from scratch</h3>
+<p>Clone a sample repo <code>hello-world/php</code>:</p>
+<pre><code class="lang-bash">git clone git@labs.moneysmart.top:hello-world/php.git hello-world-php
+</code></pre>
+<p>Create and edit some files:</p>
+<pre><code class="lang-bash">cd hello-world-php
+
+# create new file
+touch new_file
+
+# modify existing file
+echo &quot;Add new line to existing file&quot; &gt;&gt; README.md
+
+# stage README.md file
+git add README.md
+</code></pre>
+<p>To see current repository status:</p>
+<pre><code class="lang-bash">git status
+On branch master
+Your branch is up to date with &#39;origin/master&#39;.
+
+Changes to be committed:
+  (use &quot;git reset HEAD &lt;file&gt;...&quot; to unstage)
+
+        modified:   README.md
+
+Untracked files:
+  (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)
+
+        new_file
+</code></pre>
+<p>Now run the <code>git checkout -f master</code> and <code>git clean -f</code> commands to get back to last commit.</p>
+
+  </div>
+
+
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Vulnerant Omnes, Ultima Necat</p>
+  </footer>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>

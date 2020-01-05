@@ -1,0 +1,177 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34549018-8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-34549018-8', { 'anonymize_ip': true });
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Notes on life as a programmer">
+  <meta name="author" content="Adrian Harabulă">
+  <link rel="icon" href="../../../../../static/img/favicon.ico">
+
+  <title>Clone all your Bitbucket repositories locally - Adrian's blog</title>
+
+  <link rel="stylesheet" href="../../../../../static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:700" />
+  <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+  <!-- Custom CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link rel="stylesheet" href="../../../../../static/css/custom.css">
+  <link rel="stylesheet" href="../../../../../static/css/custom-ah.css">
+</head>
+
+<body>
+  <main role="main" class="container">
+
+    <!-- HEADER -->
+    <header class="site-header py-3">
+      <div class="row flex-nowrap justify-content-between align-items-center">
+        <div class="col pt-1">
+          <a class="site-header-name" href="/">
+            <h1 class="site-header-name">Adrian Harabulă</h1>
+          </a>
+        </div>
+        <div class="align-right">
+          <ul class="list-inline alt">
+            
+              
+            
+          </ul>
+        </div>
+      </div>
+    </header>
+    <!-- END HEADER -->
+
+    <!-- NAVIGATION -->
+    <div class="container nav-bar">
+      <div class="row nav">
+        <a class="col-md-auto p-2" href="../../../../../en/blog/">Blog</a>
+      </div>
+    </div>
+    <!-- END NAVIGATION -->
+
+    <div class="row">
+
+      <!-- MAIN BODY -->
+      <div class="col">
+
+        
+  
+  <div class="blog-post">
+    <a class="blog-post-title" href="../../../../../en/blog/2018/01/clone-all-bitbucket-repositories-locally/"><h1 class="blog-post-title">Clone all your Bitbucket repositories locally</h1></a>
+  <p class="blog-post-info text-muted small">
+    written by
+    
+      Adrian Harabulă
+    
+    on 2018-01-10
+  </p>
+  <p>Following <a href="https://status.bitbucket.org/incidents/z029156p1svh">latest Bitbucket incident</a>, you may ask what could happen if the service would crash? You'll loose all your repos? How could you prevent this?</p>
+<p>Last year GitLab had a <a href="https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/">serious incident with one of their databases</a> and they lost six hours of database data (issues, merge requests, users, comments, snippets, etc.) for GitLab.com.</p>
+<p>No matter what you are using, if the service goes down, what can you do to save your data and how can you protect yourself in case of a service failure?</p>
+<p>Let's start with the simplest measurement you can take. We will clone all your Bitbucket repos locally.</p>
+<p>Using Bitbucket API:</p>
+<ul>
+<li><a href="https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D">/2.0/repositories/{username}</a></li>
+</ul>
+<p>You can get a list of repos under your account. Having this list you can iterate <code>git clone</code> over project names.</p>
+<p>For this we will use the <code>bitbucket-backup</code> python script, made by <a href="https://github.com/samkuehn/bitbucket-backup">samkuehn</a>.</p>
+<p>Install Python, if you don't have it already in your system. <a href="https://www.python.org/downloads/">Download binaries here</a>.</p>
+<p>Clone / download <code>bitbucket-backup</code> python script:</p>
+<pre><code class="lang-bash">git clone https://github.com/samkuehn/bitbucket-backup.git
+cd bitbucket-backup
+</code></pre>
+<p>Run the script:</p>
+<pre><code class="lang-bash"># use -u to specify username user to log in
+# use -l to specify download location
+# use -t to specify the team you want to download repositories from
+# use --http to clone repositories with https instead of ssh
+# see full list of parameters here https://github.com/samkuehn/bitbucket-backup/blob/master/README.md#quickstart
+python bitbucket-backup -u bitbucket_user -l repos --http
+</code></pre>
+<p>Enter password and wait... your repositories will be downloaded and cloned locally in <code>repos</code> folder.</p>
+<pre><code class="lang-bash">2018-01-10 09:18:38.949947 - Backing up [repo1]...
+2018-01-10 09:18:41.641931 - Backing up [repo2]...
+2018-01-10 09:18:43.937138 - Finished!
+</code></pre>
+<p>Running the same command again will update the existing repositories.</p>
+<p>Even more info:</p>
+<pre><code class="lang-bash">usage: bitbucket-backup [-h] [-u USERNAME] [-p PASSWORD] [-k OAUTH_KEY]
+                        [-s OAUTH_SECRET] [-t TEAM] [-l LOCATION] [-v] [-q]
+                        [-c] [-a ATTEMPTS] [--mirror] [--with-wiki] [--http]
+                        [--skip-password] [--prune]
+                        [--ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]]
+
+Usage: %prog [options]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -u USERNAME, --username USERNAME
+                        Bitbucket username
+  -p PASSWORD, --password PASSWORD
+                        Bitbucket password
+  -k OAUTH_KEY, --oauth-key OAUTH_KEY
+                        Bitbucket oauth key
+  -s OAUTH_SECRET, --oauth-secret OAUTH_SECRET
+                        Bitbucket oauth secret
+  -t TEAM, --team TEAM  Bitbucket team
+  -l LOCATION, --location LOCATION
+                        Local backup location
+  -v, --verbose         Verbose output of all cloning commands
+  -q, --quiet           No output to stdout
+  -c, --compress        Creates a compressed file with all cloned repositories
+                        (cleans up location directory)
+  -a ATTEMPTS, --attempts ATTEMPTS
+                        max. number of attempts to backup repository
+  --mirror              Clone just bare repositories with git clone --mirror
+                        (git only)
+  --with-wiki           Includes wiki
+  --http                Fetch via https instead of SSH
+  --skip-password       Ignores password prompting if no password is provided
+                        (for public repositories)
+  --prune               Prune repo on remote update
+  --ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]
+                        specify list of repo slug names to skip
+</code></pre>
+<p>The following script is tested and working on Windows with:</p>
+<ul>
+<li>Git for Windows 12.15.1</li>
+<li>Python 3.6.4</li>
+</ul>
+
+  </div>
+
+
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Vulnerant Omnes, Ultima Necat</p>
+  </footer>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>

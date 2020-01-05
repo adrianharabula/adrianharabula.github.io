@@ -1,0 +1,187 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34549018-8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-34549018-8', { 'anonymize_ip': true });
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Notes on life as a programmer">
+  <meta name="author" content="Adrian Harabulă">
+  <link rel="icon" href="../../../../../static/img/favicon.ico">
+
+  <title>Mod your Huawei p8 lite - Adrian's blog</title>
+
+  <link rel="stylesheet" href="../../../../../static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:700" />
+  <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+  <!-- Custom CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link rel="stylesheet" href="../../../../../static/css/custom.css">
+  <link rel="stylesheet" href="../../../../../static/css/custom-ah.css">
+</head>
+
+<body>
+  <main role="main" class="container">
+
+    <!-- HEADER -->
+    <header class="site-header py-3">
+      <div class="row flex-nowrap justify-content-between align-items-center">
+        <div class="col pt-1">
+          <a class="site-header-name" href="/">
+            <h1 class="site-header-name">Adrian Harabulă</h1>
+          </a>
+        </div>
+        <div class="align-right">
+          <ul class="list-inline alt">
+            
+              
+            
+          </ul>
+        </div>
+      </div>
+    </header>
+    <!-- END HEADER -->
+
+    <!-- NAVIGATION -->
+    <div class="container nav-bar">
+      <div class="row nav">
+        <a class="col-md-auto p-2" href="../../../../../en/blog/">Blog</a>
+      </div>
+    </div>
+    <!-- END NAVIGATION -->
+
+    <div class="row">
+
+      <!-- MAIN BODY -->
+      <div class="col">
+
+        
+  
+  <div class="blog-post">
+    <a class="blog-post-title" href="../../../../../en/blog/2018/01/mod-your-huawei-p8-lite/"><h1 class="blog-post-title">Mod your Huawei p8 lite</h1></a>
+  <p class="blog-post-info text-muted small">
+    written by
+    
+      Adrian Harabulă
+    
+    on 2018-01-09
+  </p>
+  <h1>1. Get bootloader unlock code</h1>
+<p>First, create an account here:
+<a href="https://emui.huawei.com">https://emui.huawei.com</a></p>
+<p>Log in and complete this form to get unlock code for your phone:
+<a href="https://emui.huawei.com/en/plugin/unlock/detail">https://emui.huawei.com/en/plugin/unlock/detail</a></p>
+<p>You'll get a 16 digits code, save it, we'll use it in the next step.</p>
+<h1>2. Unlock bootloader</h1>
+<p>Connect phone to pc, and run:</p>
+<pre><code class="lang-bash">sudo adb devices
+</code></pre>
+<p>Reboot phone into fastboot mode:</p>
+<pre><code class="lang-bash">adb reboot bootloader
+</code></pre>
+<p>Install fastboot on ubuntu:</p>
+<pre><code class="lang-bash">sudo apt install android-tools-fastboot
+</code></pre>
+<p>As phone is in fastboot mode, check if device is detected:</p>
+<pre><code class="lang-bash">sudo fastboot devices
+</code></pre>
+<p>Unlock phone's bootloader</p>
+<pre><code class="lang-bash">sudo fastboot oem unlock 16_DIGIT_UNLOCK_CODE_HERE
+...
+OKAY [  2.359s]
+finished. total time: 2.359s
+</code></pre>
+<p>Also see <a href="https://emui.huawei.com/en/plugin/unlock/step">official instructions</a> for unlocking bootloader.</p>
+<h1>3. Install TWRP</h1>
+<p>Download TWRP 3.1.1-0 from <a href="https://forum.xda-developers.com/p8lite/orig-development/twrp-t3583180">xda-developers</a>.
+Double check md5sum of the file, it should be: 29e1c65cf48803892946e858ebe950cf.</p>
+<p>Flash the image:</p>
+<pre><code class="lang-bash">sudo fastboot flash recovery recovery.img 
+target reported max download size of 471859200 bytes
+sending &#39;recovery&#39; (25152 KB)...
+OKAY [  0.628s]
+writing &#39;recovery&#39;...
+OKAY [  0.735s]
+finished. total time: 1.363s
+</code></pre>
+<p>Now, as mentioned <a href="https://forum.xda-developers.com/showpost.php?p=71429023&amp;postcount=73">here</a>, next step is to reboot device in this way:</p>
+<ul>
+<li>press &amp; keep pressed volume UP button</li>
+<li>run <code>sudo fastboot reboot</code></li>
+<li>unplug usb cable from phone</li>
+</ul>
+<p>TWRP will now load!</p>
+<p>Leave phone as is and go to next step.</p>
+<h1>2. Update phone to stock EMUI 4.1</h1>
+<p>While in TWRP mode, from Wipe screen, do a <code>Format Data</code> and then a <code>Factory Reset</code> to wipe dalvik/cache.</p>
+<p>Download <a href="https://forum.xda-developers.com/showpost.php?p=73230358&amp;postcount=2">stock EMUI 4.1 ROM</a>:</p>
+<ul>
+<li>b895_update.zip for single sim version, md5 0868fab65e2a38bff95408c02ffa0aba</li>
+<li>B896_update.zip for dual sim version, md5 2b3d6b4b0945592ce506d44874f00d73</li>
+</ul>
+<p>Additionally, create an empty <code>b895_update.zip.md5</code> with:</p>
+<pre><code>0868fab65e2a38bff95408c02ffa0aba
+</code></pre>
+<p>OR <code>B896_update.zip.md5</code> with:</p>
+<pre><code>2b3d6b4b0945592ce506d44874f00d73
+</code></pre>
+<p>You will see the phone as a removable device. Copy the downloaded zip and md5 file to internal memory.</p>
+<p>Md5 file will check for zip integrity before flashing on the phone.</p>
+<p>From the Install menu, select zip file and then <code>Swipe to confirm Flash</code>.</p>
+<p>Reboot phone.</p>
+<p>If phone freezes with Huawei logo for more than 5 minutes, reboot phone by pressing power button for 10 seconds.</p>
+<h2>Warning!</h2>
+<p>After this step, in TWRP you will see 0MB internal storage.</p>
+<h1>3. Install Custom ROM Android 7.1.2 / 8.0 BETA</h1>
+<p>Download one of these:</p>
+<ul>
+<li>android 7.1.2 <a href="https://forum.xda-developers.com/p8lite/development/rom-t3606568">https://forum.xda-developers.com/p8lite/development/rom-t3606568</a></li>
+<li>android 8.0 BETA <a href="https://forum.xda-developers.com/p8lite/development/rom-t3707374">https://forum.xda-developers.com/p8lite/development/rom-t3707374</a></li>
+</ul>
+<p>Download <a href="http://opengapps.org/">opengapps</a>:</p>
+<ul>
+<li>ARM64, android 7.1, nano </li>
+<li>ARM64, android 8.0, nano</li>
+</ul>
+<p>Reboot phone into recovery. Do a <code>Format Data</code> and a <code>Wipe cache/dalvik</code>.</p>
+<p>Copy ROM zip and opengapps zip to internal memory.</p>
+<p>From Install screen, add ROM zip. Then choose <code>Add more Zips</code> and add opengapps zip. Then <code>Swipe to confirm Flash</code>.</p>
+<p>Reboot system.</p>
+<p>You should now boot in your new Custom ROM.</p>
+
+  </div>
+
+
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Vulnerant Omnes, Ultima Necat</p>
+  </footer>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>

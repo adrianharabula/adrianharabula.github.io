@@ -35,3 +35,9 @@ h1.blog-post-title {
 .alt .list-inline-item:not(:last-child) {
     margin-right: 0;
 }
+
+.blog-post p img {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}

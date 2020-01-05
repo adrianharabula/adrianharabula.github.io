@@ -1,0 +1,121 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34549018-8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-34549018-8', { 'anonymize_ip': true });
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Notes on life as a programmer">
+  <meta name="author" content="Adrian Harabulă">
+  <link rel="icon" href="../../../../../static/img/favicon.ico">
+
+  <title>How to Wake On Lan - Adrian's blog</title>
+
+  <link rel="stylesheet" href="../../../../../static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:700" />
+  <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+  <!-- Custom CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link rel="stylesheet" href="../../../../../static/css/custom.css">
+  <link rel="stylesheet" href="../../../../../static/css/custom-ah.css">
+</head>
+
+<body>
+  <main role="main" class="container">
+
+    <!-- HEADER -->
+    <header class="site-header py-3">
+      <div class="row flex-nowrap justify-content-between align-items-center">
+        <div class="col pt-1">
+          <a class="site-header-name" href="/">
+            <h1 class="site-header-name">Adrian Harabulă</h1>
+          </a>
+        </div>
+        <div class="align-right">
+          <ul class="list-inline alt">
+            
+              
+            
+          </ul>
+        </div>
+      </div>
+    </header>
+    <!-- END HEADER -->
+
+    <!-- NAVIGATION -->
+    <div class="container nav-bar">
+      <div class="row nav">
+        <a class="col-md-auto p-2" href="../../../../../en/blog/">Blog</a>
+      </div>
+    </div>
+    <!-- END NAVIGATION -->
+
+    <div class="row">
+
+      <!-- MAIN BODY -->
+      <div class="col">
+
+        
+  
+  <div class="blog-post">
+    <a class="blog-post-title" href="../../../../../en/blog/2018/01/how-to-wake-on-lan/"><h1 class="blog-post-title">How to Wake On Lan</h1></a>
+  <p class="blog-post-info text-muted small">
+    written by
+    
+      Adrian Harabulă
+    
+    on 2018-01-02
+  </p>
+  <p>First, you need to have WOL enabled in bios. See <a href="https://www.howtogeek.com/70374/how-to-geek-explains-what-is-wake-on-lan-and-how-do-i-enable-it/">What Is Wake-on-LAN, and How Do I Enable It?</a> for instructions.</p>
+<p>Second, you need <a href="https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan">Wake on Lan</a> app on Android to wake up your PC's.</p>
+<p>As the PC you want to control is turned on, open the Android app and scan the network.</p>
+<p>Add the desired PC (MAC address) to the bookmark list.</p>
+<p>Suspend the PC with:</p>
+<pre><code class="lang-bash">sudo systemctl suspend
+</code></pre>
+<p>Now, from Android phone, click to Wake on LAN your PC.</p>
+<p>See demo video:</p>
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/-jBCUAHkNlM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe><h3>Warning!</h3>
+<p>WOL is not working through a OpenVPN TUN setup, need more documenting how to make this work.</p>
+<p>Future work:</p>
+<ul>
+<li><a href="https://bish.co.uk/2013/04/25/raspberry-pi-as-a-wol-server/">#1</a> if option above not working, make a WOL server so that you can remote wake up pc from the internet through VPN</li>
+<li><a href="https://github.com/dferg/WakeProxyd">#2</a> make WOL work even if your BIOS is not capable (by using a router/raspberry GPIO port connected to PC power switch)</li>
+</ul>
+
+  </div>
+
+
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Vulnerant Omnes, Ultima Necat</p>
+  </footer>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
