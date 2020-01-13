@@ -56,3 +56,8 @@ h1.blog-post-title {
 	width: 100%;
 	height: 100%;
 }
+
+p img.natural {
+    width: auto;
+    margin: 0;
+}
