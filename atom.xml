@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Adrian Blog</title>
+  <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
+  <updated>2020-01-18T00:00:00Z</updated>
+  <link href="https://adrianharabula.github.io/en/blog/" />
+  <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
+  <author>
+    <name></name>
+  </author>
+  <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/chivotul-lui-solomon/">
+    <title type="text">Chivotul lui Solomon</title>
+    <id>urn:uuid:b5702b47-ff7d-396e-a9f7-171d85b972ee</id>
+    <updated>2020-01-18T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/chivotul-lui-solomon/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Astăzi am văzut că a fost făcut public chivotul lui Solomon, un dispozitiv ce l-am încercat curând. Un om trecut prin viață se confruntă cu diverse stresuri, oboseli și uzuri care mai devreme sau mai târziu îl consumă. Deseori din cauza acestor dezechilibre apar și bolile și omul încet încet se duce. Chivotul reface și readuce la nivel energetic corpul la starea lui naturală pentru a funcționa în parametri optimi.&lt;/p&gt;
+&lt;p&gt;E o cămăruță mică amenajată în care e așezat chivotul. La o ședință se intră în grup, cam 6 persoane, dar minim 3. Ședința durează 40 minute, sau atât era când am fost eu, posibil să se mai schimbe între timp. Pe durata ședinței, stai liniștit, relaxat, în poziție de meditat și ești atent la tine. În funcție de ce are nevoie corpul, el își va lua energia necesară pentru a se echilibra. Efectele se văd în timp, dar și imediat. Sunt nu neapărat efecte evidente dar și subtile, poate dormi mai bine, poate ești mai relaxat, poate ai mai multă energie să abordezi problemele de zi cu zi.&lt;/p&gt;
+&lt;p&gt;Nu am cum să dau prea multe detalii tehnice, că nu prea mă pricep, dar se pot obține de la &lt;a href=&quot;https://www.facebook.com/delia.burnham.7&quot;&gt;Delia&lt;/a&gt; pentru cine ar fi interesat să afle mai multe.&lt;/p&gt;
+&lt;p&gt;Deși dispozitivul nu ar fi accesibil pentru mulți, la prețul inițial de 150.000E,  nu e nevoie să îl iei la tine acasă... Inventatorii știu că pun pe primul loc sănătatea oamenilor,  așa că pentru cine are nevoie sigur se va găsi o cale să ajungă fără să fie problemă de bani, doar omul să fie deschis să încerce.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/01/chivotul-lui-solomon/screenshot-2020-01-18-at-23.37.22.png&quot; alt=&quot;chivotul-lui-solomon&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/">
+    <title type="text">Ar trebui să aștepți weekendul ca programator?</title>
+    <id>urn:uuid:505d4f19-18e8-35e3-869d-64a1d26930d5</id>
+    <updated>2020-01-17T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;A trecut o săptămână. 5 zile de lucru. Acum din obișnuință, sper să nu mergi și mâine la birou. 😀&lt;/p&gt;
+&lt;p&gt;Din păcate unele dăți o vei face și pe asta. Dar nu fă asta acum, dacă nu e neapărat nevoie (90% din cazuri nu e nevoie.)&lt;/p&gt;
+&lt;p&gt;Ia și tu o pauză și stai cu tine. Nu trebuie să faci ceva anume... Relax. În primul rând nu mai gândi. Numără flori, adună ciuperci... Trăiește weekendul ca și cum nu ai fi IT-st... Caută și viața în afara serviciului.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/top-impedimente-in-proiecte-it/">
+    <title type="text">Top 5 impedimente în proiecte IT</title>
+    <id>urn:uuid:65c73057-02a3-3847-9ef5-95ac20ac2a16</id>
+    <updated>2020-01-16T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/top-impedimente-in-proiecte-it/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;În mod surprinzător, foarte puține firme fac treburile în IT așa cum ar trebui ele să fie făcute, cel puțin la nivel nu de artă, dar măcar să nu te faci de râs când arăți cuiva proiectul tău. Cu cât firma e mai mare, treaba nu e neapărat mai seriosă ci din contra, foarte posibil să fie doar mai scăpată de sub control și chiar să fie un infern mentenanța unui proiect IT.&lt;/p&gt;
+&lt;p&gt;Iată câteva impedimente des întâlnite în proiectele IT:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lipsa unui manager tehnic senior care să fi proiectat de la început soluția și care să rămână activ de-a lungul întregii vieți a proiectului. Trebuie să fie cineva care să se fi gândit cum cele 100 de părți ale proiectului s-ar potrivi și în situația în care ceva merge rău, să fie pe fază să corecteze. Aceasta este persoana care știe în ansamblu fiecare bucățică a proiectului.&lt;/li&gt;
+&lt;li&gt;Prea multe întreruperi și schimbări de priorități de pe o zi pe alta pot contribui ușor la burnout și la senzația că deși muncești mult, nu mergi nicăieri.&lt;/li&gt;
+&lt;li&gt;Prea multe incidente apărute din cauza că aplicația pică și trebuie intervenit manual pentru a o repune pe picioare. Asta consumă din timpul de lucrat la aplicație și trebuie să fie cât mai mic, în mod ideal, taskurile de mentenanță, să nu depășească 50% din timpul de lucru, restul de jumate să fie dedicat programării active.&lt;/li&gt;
+&lt;li&gt;Lipsa trainingurilor interne, menite să îmbunătățească constant skillurile echipei. Totul se învață și cei mai tineri ar trebui să învețe de la cei mai vechi și asta constant.&lt;/li&gt;
+&lt;li&gt;Lipsa documentației, dacă nu e scrisă documentația la proiect, nu numai că e lăsat în plop proiectul, dar poți pierde foarte mult timp căutând pași care au fost deja făcuți, dar pentru că nu au fost notați undeva, iei de la capăt procesul. E foarte frustrant.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/">
+    <title type="text">Un singur lucru care face treaba să meargă la serviciu</title>
+    <id>urn:uuid:ecc0fd25-ee0c-3758-9378-89bdb4c5e843</id>
+    <updated>2020-01-15T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Un lucru foarte bun de precizat, despre care nu prea se vorbește, dar în mod sigur se practică și cei care nu practică ar face bine să o facă, sunt ieșirile în oraș după serviciu din când în când, indiferent de firma la care lucrezi.&lt;/p&gt;
+&lt;p&gt;Zilele sunt cam ocupate, timpul trece repede, ard lucruri, uneori nu prea apuci să vorbești cu oamenii cu care lucrezi în același sediu, poate îi saluți și vorbești de vreme un pic. Nu e ca și cum nu se poate vorbi, dar energia și focusul e pe treaba care e de făcut și nu pe oamenii din jurul nostru, astfel că se întâmplă să stăm cu lunile la birou și să știm foarte puțin despre oamenii pe care îi vedem zilnic. Poate sunt vecini, poate am fost la aceleași interviuri la un moment dat, poate au și ei problemele lor în afara serviciului și nu ai de unde să le știi dacă ești atent doar la treburile de la serviciu.&lt;/p&gt;
+&lt;p&gt;Așa că se mai practică uneori după serviciu ieșiri în oraș, unde oamenii se adună și în alt context decât cel de la birou și focusul de la treabă se schimbă pe oameni. Nu e lucru mai minunat când se întâmplă asta, pentru că dacă cunoști mai bine oamenii cu care lucrezi și încrederea ta în ei crește (și invers) și treaba merge mult mai bine. Am zis mai devreme că suntem focusați pe treabă la serviciu, dar adevărul de la mijloc e că atunci când ne facem treaba, totul depinde de niște oameni undeva, cu care trebuie să vorbești și de la care ai nevoie de ceva ca să îți faci treaba în continuare. Și nu e lucru mai bun care se poate întâmpla ce crește productivitatea la birou atunci când oamenii se cunosc între ei.&lt;/p&gt;
+&lt;p&gt;Dacă la firma la care lucrezi nu sunt ieșiri în oraș, măcar odată la câteva luni, fă ceva, propune tu. Ca treaba să meargă la birou în primul rând trebuie să meargă între oameni.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/ead346ec252bd3fe585cdc937f20ff4d.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/un-an-in-bucuresti/">
+    <title type="text">Un an în București</title>
+    <id>urn:uuid:d9be6528-b23d-3645-b625-bb7f0514d356</id>
+    <updated>2020-01-14T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/un-an-in-bucuresti/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Acum un an, cam pe vremea asta m-am mutat în București. Am primit o ofertă significativ mai bună și am plecat de la firma de atunci. Nu am avut de ce să mai stau. Răspunsul ce l-am primit când am zis că am o ofertă mai bună în altă parte a fost că nu se pot face măriri acum. Un caz comun, trist și des întâlnit este când angajați vechi care depun ani de zile într-o firmă, rămân încă la salariu de începători, deși experiența lor în domeniu s-a îmbunătățit significativ. Cum îți dai seama asta? O poziție asemănătoare pe piață cu aceleași responsabilități se plătește cu mult mai mult, uneori cu peste jumate din cât faci deja.&lt;/p&gt;
+&lt;p&gt;Iată câteva tipsuri pentru viața de București:&lt;/p&gt;
+&lt;h2&gt;1. Nu te muta într-un oraș doar pentru serviciu&lt;/h2&gt;
+&lt;p&gt;Nu uita că mai ai și o viață personală, și o să și trăiești în orașul ăla. Vezi dacă și pe plan personal ți-ar plăcea să stai acolo. Dacă ai doar serviciu, și pică serviciul, tu nu mai rămâi cu nimic.&lt;/p&gt;
+&lt;h2&gt;2. Evită pe cât posibil locurile/traseele aglomerate&lt;/h2&gt;
+&lt;p&gt;București e un loc foarte aglomerat și agitat. Nu vrei să petreci prea mult timp în public în ore de vârf și în zone aglomerate. Cu cât îți faci viața mai departe de aglomerația din oraș cu atât e mai bine. Poate că înseamnă să dai mai mult pe o chirie, într-un cartier mai scump și mai puțin populat, dar în care să îți faci treaba fără să fii interferat de stresurile orașului.&lt;/p&gt;
+&lt;h2&gt;3. Profită de faptul că e capitală&lt;/h2&gt;
+&lt;p&gt;Sunt foarte multe lucruri în oraș, cam pe aici se mișcă toate. Înseamnă inclusiv că sunt multe firme la care poți merge la interviu. Profită de asta, nu e posibil în orice oraș.&lt;/p&gt;
+&lt;h2&gt;4. Comandă prin curier acasă&lt;/h2&gt;
+&lt;p&gt;Nu pierde 2 ore în trafic ca să mergi la un magazin prin București să ridici o comandă. Ordonă totul prin curier acasă. Uneori e posibil să comanzi prin Easy Box cu program de ridicare 24 / 7. Probabil una din cele mai tari invenții de până acum.&lt;/p&gt;
+&lt;h2&gt;5. Nu uita de prieteni&lt;/h2&gt;
+&lt;p&gt;S-ar putea să ai foarte multe cunoștiințe, prieteni. Nu uita de ei. Reconectează-te, propune întâlniri regulat. Păstrează relațiile cu oamenii pe care îi cunoști.&lt;/p&gt;
+&lt;p&gt;E frumos Bucureștiul, mai ales dacă ai treabă, știi că ești într-un loc unde și alți oameni au treabă și acesta e un plus foarte mare. Ca dezavantaj, cu siguranță acesta ar fi prețul, e un oraș un pic cam scump, costă viața aici. Dar se compensează cumva prin faptul că ai toate la o aruncătură de băț.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/">
+    <title type="text">Cât de direct ar trebui să fii la interviu?</title>
+    <id>urn:uuid:aec69b3a-cd04-3cbe-91de-c5559897f823</id>
+    <updated>2020-01-13T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;De multe ori toată fuga asta la interviuri înseamnă multe plimbări și să bei cafele și să faci orice altceva decât ce ai face în mod deobicei dacă ai fi angajat, și anume treabă. Cât cât omul e mai entuziasmat să participe la interviu, să înceapă, să discute, cu atât sunt șanse să fie doar vorbe. Cei care fac treaba, o fac și atât. Nu se laudă, nu fac taifas, termină treaba cât mai repede și merg acasă la viețile lor.&lt;/p&gt;
+&lt;p&gt;Iată ce zic alții mai avansați pe subiect legat de procesul de intervievare:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.linkedin.com/embed/feed/update/urn:li:share:6622135499601641472&quot; allowfullscreen=&quot;&quot; title=&quot;Embedded post&quot; width=&quot;100%&quot; height=&quot;536&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;p&gt;Dar oare chiar merge? Sau sunt doar povești? Cum adică să îți pui condițiile tale la interviu? Hai să încercăm și noi.&lt;/p&gt;
+&lt;h2&gt;Prima abordare&lt;/h2&gt;
+&lt;p&gt;Începem timid cu faptul că vrem să știm mai multe despre oportunitate înainte de apel.
+&lt;img class=&quot;natural&quot; src=&quot;screenshot-2020-01-13-at-23.17.45.png&quot;/&gt;
+Nu am mai primit răspuns înapoi. Atenție aici, că poți sta ore întregi de vorbă în discuții și polemici. Unii recruiteri doar sunt pe filmul lor. Lasă-i așa. Nu îți bate capul, vezi de drumul tău.&lt;/p&gt;
+&lt;h2&gt;A doua încercare&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;natural&quot; src=&quot;screenshot-2020-01-13-at-23.30.07.png&quot;/&gt;
+Minunat, avem și răspuns de data asta, scurt și la obiect.
+&lt;img class=&quot;natural&quot; src=&quot;screenshot-2020-01-13-at-23.31.03.png&quot;/&gt;
+Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem timp la telefon sau întâlniri față în față?&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/long-term-versus-short-term/">
+    <title type="text">Long Term versus Short Term</title>
+    <id>urn:uuid:5088bb4b-1b0b-36fa-96b8-235a9acb58aa</id>
+    <updated>2020-01-12T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/long-term-versus-short-term/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Uneori ca să reușești, mai ai nevoie de un mic detaliu printre multe alte mici care contează și ele cel puțin la fel. Toate detaliile astea mici adunate fac diferența dintre a merge la destinație la sigur și a o da de gard cu prima ocazie. Multe dintre aceste mici detalii, nu sunt general discutate.&lt;/p&gt;
+&lt;h2&gt;Faza 1 - supraviețuirea&lt;/h2&gt;
+&lt;p&gt;Unul din aceste mici detalii are legătură cu felul cum te gândești atunci când ești pus în situația de a lua o decizie. Dacă ai nevoie de un job ca să plătești utilitățile și chiria luna asta, accepți primul job care îți iese în cale, sau mai aștepți un pic să găsești ceva mai potrivit (asta în timp ce probabil o să flămânzești și o să rămâi fără chirie)? Dacă alegi jobul ca să plătești chiria luna asta, toată energia ta este dăruită scopului suprem de a mai plăti o lună de chirie. Nu mai rămâne nimic pentru altceva mai sus de atât. Trece luna, plătești chiria, acum ce faci? Ești fix în același punct din care ai plecat. Dacă ajungi aici, ești capabil să realizezi că te învârți în propria roată și să faci un pas înapoi?&lt;/p&gt;
+&lt;h2&gt;Faza 2 - iarba mai verde dincolo&lt;/h2&gt;
+&lt;p&gt;Analizezi și calculezi, ce faci greșit, vrei mai mulți bani, și deci ajungi la concluzia că o să fii ITst. Începi să faci un curs de specializare. Dar toate schimbările astea, doar pentru rezultatul obținut (a devenit ITst pentru salariu primit) nu duc nicăieri pentru că poate nu e neapărat problema banilor cea cu care te confrunți. Mintea nu e aliatul tău întotdeauna și îți poate juca feste. Dacă ai ajuns aici, și îți dai seama de schemă, cum îți dai seama de acum încolo că nu te păcălești singur? Deobicei în acest punct când ajungi gândești din ce în ce mai mult. Gândești ce să înveți, ce să faci dar în realitate fără să faci neapărat ceva. Se prăjesc neuronii degeaba în timp ce tu nu mergi nicăieri, doar te pierzi în detalii.&lt;/p&gt;
+&lt;h2&gt;Faza 3 - din nou la tine&lt;/h2&gt;
+&lt;p&gt;Ai analizat, ai văzut că nu a mers nici așa. Într-un final din nou dai de tine. Nu tre să mergi nici pe modul supraviețuire, nici pe faima și poziție/statut. Adevărul e undeva la mijloc, unde în primul rând mergi spre tine. Ai un drum al tău și o direcție pe care mergi.&lt;/p&gt;
+&lt;p&gt;Dacă îți știi drumul, deja știi că ești pentru ceva anume pe planeta asta, și nu prea ai de ce să pierzi prea mult timp în modul supraviețuire. Vei găsi o soluție rapid. În loc să mergi pe un serviciu doar pentru că e bine plătit, vei merge pe direcția ta, și acolo vei găsi tot ce ai nevoie.&lt;/p&gt;
+&lt;p&gt;Cu cât prevezi mai mult și mai din timp astfel de situații abstracte, greu de digerat cu mintea, dar care te păcălesc și nu te lasă să mergi mai departe dacă nu ești vigilent cu atât ai mai multe șanse să nu rămâi prea mult pierdut în timp și spațiu.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/1-blog-post-pe-zi-366-zile/">
+    <title type="text">1 blog post pe zi, 366 zile</title>
+    <id>urn:uuid:bc2a51b2-43fa-3f9f-8869-41361981b83d</id>
+    <updated>2020-01-11T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/1-blog-post-pe-zi-366-zile/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Pentru următoarele zile din an, îmi voi găsi timp, indiferent de ce aș face sau unde aș fi să scriu un blog post pe zi. Aș avea ce să scriu, provocarea ar fi să o fac zilnic.&lt;/p&gt;
+&lt;p&gt;Uneori nu voi avea net, sau voi fi plecat, probabil va trebui să scriu articolele în avans și să le public automat cumva (super, tocmai asta îmi și place să ingineresc, deși munca de a scrie un blog e total diferită de a programa unul)&lt;/p&gt;
+&lt;p&gt;Alteori voi scrie articole mult mai târziu, dat tot le voi publica, de exemplu azi e trecut de 12.30am și încă scriu la blog post. Nu voi reuși tot timpul la ceas, dar indiferent ce intervine, la sfârșitul anului vor fi 366 articole scrise.&lt;/p&gt;
+&lt;p&gt;Mi se pare o provocare interesantă, sigur aș avea despre ce să scriu, și asta să o fac în timp ce fac și restul treburilor de zi cu zi. Acesta este deja al 11-lea articol anul acesta, ar mai fi încă 355. Ca plan de teme de dezbătut, nu am. Ele vin oricum, știu doar ce scriu azi, mai mult de atât nu planific.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ceri-marire-la-serviciu/">
+    <title type="text">Cum să ceri mărire la serviciu?</title>
+    <id>urn:uuid:ac44123a-1d05-3271-903a-ed80cd47410f</id>
+    <updated>2020-01-10T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ceri-marire-la-serviciu/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Poate una din cele mai puțin discutate subiecte, dar prin care toți trecem. Când e momentul și cum să ceri mărire la serviciu?&lt;/p&gt;
+&lt;p&gt;În primul rând hai să începem cu începutul.&lt;/p&gt;
+&lt;h2&gt;Ce e valoarea ta pe piață&lt;/h2&gt;
+&lt;p&gt;Un programator câștigă atât cât contribuie în firmă, nici mai mult, nici mai puțin. Poate zici că e vina la firmă că nu te plătește suficient. Nu, nu e, salariul tău este fix cât contribui tu. Contribui mai mult, câștigi mai mult. Este atât de simplu. Dacă nu te plătește firma, nu te-ai pus tu în contextul în care să oferi un serviciu pe măsura câștigului dorit.&lt;/p&gt;
+&lt;h2&gt;De cine este dată această valoare pe piață?&lt;/h2&gt;
+&lt;p&gt;Cu cât e nevoie de mai mulți programatori, cu atât le crește mai mult valoarea. Și cu cât crește mai mult nevoia de programatori, cu atât ei sunt mai puțini și mai greu de găsit și adus în firmă. Mai pui și faptul ca prin responsabilitățile pe care le are programatorul este greu de înlocuit dar atenție, foarte greu ajungi la nivelul ăsta, dar când ajungi, chiar dacă munca ta nu face banii, s-ar putea să îți ridice valoarea cu mult simplul fapt că plecarea ta produce costuri mai mari decât menținerea ta.&lt;/p&gt;
+&lt;h2&gt;Unde aflu această valoare?&lt;/h2&gt;
+&lt;p&gt;Toate sumele astea sunt ceva super secrete despre care nimeni nu discută. La interviu dacă întrebi, de curiozitate, care e bugetul pentru poziția la care aplici, foarte puține răspunsuri o să primești! Sunt atât de rare încât le ții minte pe degetele de la o mână când le primești.&lt;/p&gt;
+&lt;p&gt;Așa că cifrele le afli mai mult dintr-un research individual. O sursă bună unde poți descoperi cam cât valorezi e prin mersul la interviuri. Încercând piața și văzând ce se mai mișcă în jur, nu numai că poți obține cifre și range-uri care să te ajute să îți faci o idee dar vezi pe pielea ta cum te-ai descurca și în alte părți.&lt;/p&gt;
+&lt;p&gt;Mai poți afla pe net, pe site-uri gen glassdoor, mai sunt videouri youtube în care sunt prezentate range-uri arbitrare în funcție de an, de țară, de specializare.&lt;/p&gt;
+&lt;h2&gt;Cum pot să îmi cresc această valoare?&lt;/h2&gt;
+&lt;p&gt;Prin training continuu. Prin încercarea de lucruri noi constante, prin împărtășirea de informații mai departe atunci când ai ocazia. Prin dorința de a fi mai bun întotdeauna. Când ai încetat să înveți, și iei serviciul ca pe un lucru care doar îți asigură venitul de trai și nu te mai implici decât fizic, tot ce ai construit până atunci e în cădere liberă.&lt;/p&gt;
+&lt;h2&gt;Cum propun mărirea?&lt;/h2&gt;
+&lt;p&gt;Ar trebui să fie o discuție simplă. De îndată ce îți afli valoarea, nu prea mai ai cum să dai înapoi. Deobicei și primești suma respectivă într-un timp foarte scurt. Important! Să nu te agăți de jobul curent. Ori primești responsabilități mai mari la jobul actual, sau ori găsești alt job care să fie pe măsura valorii tale. Se va întâmpla. Sigur. Din moment ce îți știi cifrele, nu mai ai cum să ceri mai puțin decât faci.&lt;/p&gt;
+&lt;p&gt;Ce ar mai fi de zis, e să nu pleci niciodată în altă parte doar pentru bani. Sunt multe altele de luat în calcul și la fel de importante ca și banii, lucruri cum ar fi:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mediul, ce fel de colegi o să ai, o să faci ceva pe ei de bani, dacă zi de zi o să ai de-a face cu oameni toxici și răutăcioși&lt;/li&gt;
+&lt;li&gt;managementul, dacă te va susține în ceea ce faci, sau vei avea prea multe politici care te vor opri să îți faci treaba&lt;/li&gt;
+&lt;li&gt;flexibilitatea programului, nu pleca niciodată pentru un job care nu o să îți permită un program flexibil, în care să îți poți face și treburile personale atunci când mai apar din când în când.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ce fac după mărire?&lt;/h2&gt;
+&lt;p&gt;Bucură-te! Acum că ai primit ce ai dorit, ce vei da tu înapoi în plus? Ce lucruri ai putea face mai bine, mai eficient?&lt;/p&gt;
+&lt;h2&gt;Dacă nu primesc mărirea?&lt;/h2&gt;
+&lt;p&gt;Probabil trebuie să îți evaluezi mai realist capabilitățile, dacă nu primești mărirea înseamnă că ceva nu faci încât să valoreze cât ceri. Mergi înainte, rezultatele astea nu apar peste noapte. Și nu te opri la primul obstacol.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/">
+    <title type="text">Ce să faci în timpul unui conflict la serviciu?</title>
+    <id>urn:uuid:64928e75-0d17-3693-9049-622716ac7969</id>
+    <updated>2020-01-09T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Continuind &lt;a href=&quot;../../../../../blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/&quot;&gt;articolul de ieri&lt;/a&gt;, e posibil ca faptul că ai spus ce aveai de zis să genereze un conflict. Una din urmările fericite e a doua zi când ajungi la birou și te porți ca și cum nimic nu s-a întâmplat. Și tu, dar și cei cu care ai discutat. E un moment ciudat, pe care nu prea ai cum să îl explici dar îți dai seama de el imediat când treci prin el.&lt;/p&gt;
+&lt;p&gt;Într-un fel nu e neapărat rău că s-a ajuns aici. Conflictul a avut loc, a fost bătaie mare sângeroasă, ai zis ce ai avut de zis, și ceilalți implicați au zis și ei ce aveau de zis. Acum urmează o perioada de liniște, în care vedem ce soluții pot apărea.&lt;/p&gt;
+&lt;p&gt;Posibil ca cei cu care lucrezi să nu fie de acord și să nu meargă nimic mai departe. Caz care probabil te va frustra foarte tare și probabil deși nu ai fost dat afară, vei pleca singur la un moment dat.&lt;/p&gt;
+&lt;p&gt;Cazurile când ești dat afară sunt destul de rare, nu prea se ajunge aici...&lt;/p&gt;
+&lt;p&gt;În cazul cel mai bun, oamenii cu care lucrezi își dau seama că ai și tu un drum al tău și te lasă mai departe să îți faci treaba în continuare. E frumos când se întâmplă asta. Relația de colaborare se întărește, încrederea crește, totul bine. Dar nu tot timpul se poate ajunge aici, și de multe ori nu e nici măcar vina celor cu care vorbești. Depinde mult de politica din firmă, de exemplu dacă vrei să lucrezi remote, s-ar putea ca managementul de sus să nu fie de acord și atât. Nici măcar să nu îți dea vreun motiv.&lt;/p&gt;
+&lt;p&gt;Sper să nu te sperii când ajungi în situația de a spune și lucruri care să îi supere pe ceilalți. Reversul e că dacă stai și nu faci nimic te vei frustra singur în timp și la un moment dat, inevitabilul se va întâmpla și vei ceda.&lt;/p&gt;
+&lt;p&gt;În cel mai rău caz dacă ești dat afară, nu se moare de la asta, e mai greu, dar măcar ți-ai luat o piatră de pe inimă zicând nu la ceva ce nu era în favoarea ta. Știu că îs multe detalii abstracte în acest post, dar nu găsesc cum să fiu mai specific. Fiecare avem nevoile noastre ca să ne facem treaba mai bine și mai eficient și numai noi știm asta. Dacă apare ceva ce trebuie discutat din cauză că ne afectează productivitatea ar fi bine să aducem la cunoștiință ce ne deranjează. E greu, pentru că implică efort &quot;emoțional&quot;. De multe ori e mai ușor să stai la calculator și să te faci că totul e ok, pentru că e mai &quot;ușor&quot; să te ascunzi și să te faci că totul e ok... dar sper că nu o să faci asta.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/">
+    <title type="text">Ar trebui să fii supărat la interviu dacă nu îți convine ceva?</title>
+    <id>urn:uuid:5191014c-942e-3f05-8329-266c7d793eed</id>
+    <updated>2020-01-08T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Dacă de-a lungul procesului de intervievare sau chiar mult mai încolo când ai acceptat deja oferta, ar apărea un lucru, sau mai multe care nu îți convin sau care te împiedică să îți faci treaba în mod optim ce ai putea face? Să taci, să nu zici nimic, sau să aduci în discuție și posibil să îi superi pe toți cei implicați că ai îndrăznit să spui acel lucru ce te deranja? Să fie asta oare ceva ce un angajat nu ar trebui niciodată să aducă în discuție?&lt;/p&gt;
+&lt;p&gt;E normal să apară dispute în afaceri, dar care e limita? Ce poate fi considerat de ambele părți ceva de &quot;bun simț&quot; versus ceva &quot;cam exagerat&quot;?&lt;/p&gt;
+&lt;p&gt;Dacă ești la interviu și ți se spune că tre să faci ceva ce ți se pare absolut ridicol, ce să faci? Să povestești de ce ți se pare ridicol? Să spui că nu se poate așa ceva și probabil să pierzi jobul? Să te conformezi tacit? Ai nevoie așa tare de job, încât să zici da, chiar dacă simți că te vinzi? Și dacă faci asta, cum te-ai mai simți și pe celelalte planuri? Dacă la fel poate ai să faci și în celelalte domenii în afara serviciului?&lt;/p&gt;
+&lt;p&gt;Dacă un angajat are nevoie de un pic de flexibilitate pentru a se ocupa și de chestiuni pe plan personal asta după ce a contribuit ani buni în firmă, poate el aduce în discuție faptul că a avut o vreme pe prim plan serviciul, dar acum acea vreme a trecut, s-au schimbat prioritățile și s-ar putea ocupa de aceleași responsabiliăți dar de acasă? Poate un angajat să ceară asta?&lt;/p&gt;
+&lt;p&gt;Și, dacă atunci când ai de zis ceva, nu zici, ce repercursiuni are asta? În timp poți suporta faptul că ții în tine, că te sacrifici, că lași ceva de la tine, pentru ca să obții ceva înapoi, un salariu pentru care prețul plătit e mult prea mare? Cât de sustenabil e acest sacrificu pentru tine? Cât reziști până să cedezi?&lt;/p&gt;
+&lt;p&gt;Pe cealaltă parte, dacă riști și aduci în discuție, ce faci dacă firma nu e de acord cu propunerea ta? Colaborarea încetează, pur și simplu? Găsiți un punct de mijloc între ce poate lăsa fiecare de la el? Declari că nu există ceva mai bun momentan și că situația e așa cum e?&lt;/p&gt;
+&lt;p&gt;Sunt foarte multe lucruri de luat în calcul după cum am tot analizat. Dar toate astea sunt zgomot, sunt detalii în care te pierzi ușor. Spre final, ultima întrebare e, cine e responsabil pentru toate astea? Apoi angajatul a mers la lucru...&lt;/p&gt;
+&lt;p&gt;Glumesc... 😄 Nu a mers la lucru, a mai stat un pic.&lt;/p&gt;
+&lt;p&gt;Și-a dat seama că el e singurul responsabil pentru ce i se întâmplă și că dacă vrea schimbare aceasta are un preț. Dacă e dispus să îl plătească și să își asume consecințele, atunci nu are decât să meargă înainte. Nu e viață mai frumoasă decât cea trăită în propriile mâini.&lt;/p&gt;
+&lt;p&gt;În zilele următoare am să vorbesc despre ce să faci când rămâi fără serviciu. Cred că s-ar potrivi perfect cu tema de azi. 🤣&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/">
+    <title type="text">Cum să îți folosești intuiția la interviuri ca să iei decizii bune</title>
+    <id>urn:uuid:51edef4c-ce0c-3ade-b83c-af39a195f241</id>
+    <updated>2020-01-07T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Conform unui &lt;a href=&quot;https://www.washingtonpost.com/business/2020/01/06/people-who-second-guess-themselves-make-worse-decisions-study-finds/&quot;&gt;studiu recent&lt;/a&gt;, cei care își urmează intuiția, mai încolo reiese că au preziceri mai bune decât cei care mai stau un pic și se gândesc și a doua oară. Intuiția e acea cunoaștere care știi că e acolo, o poți accesa, dar nu o poți procesa din cuvinte, acestea vin mult mai încolo. La interviuri, și în general în locuri unde mergi să te expui public, cu oameni pe care nu i-ai mai cunoscut până atunci, e important să deprinzi capacitatea de a descoperi informații rapid despre mediul în care ești. Cu cât vezi mai bine și mai din timp probleme care ar putea apărea cu atât poți lua mai încolo mai ușor și mai bine o decizie.&lt;/p&gt;
+&lt;p&gt;O explicație mai bună o găsiți în pasajul de mai jos:&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/KZ9QDBMvv2M?controls=0&amp;amp;start=94&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;p&gt;Atunci când mergi la interviuri, ai nevoie să fii foarte atent să captezi informații nu neapărat la vedere, dar care sunt evidente. Ești ca un detectiv în căutarea crimei. Ai nevoie să fii foarte bun să receptezi indici subtili cât mai devreme posibil cu care mai încolo să iei o decizie (aceea poate fi de a accepta sau nu oferta). Desigur că e valabil din ambele părți. Și cealaltă parte probabil face la fel. Cine știe cu ce posibil viitor angajat ar putea avea de-a face, și va mai fi și cineva cu care vor trebui să stea zi de zi în același birou.&lt;/p&gt;
+&lt;p&gt;Strict legat de interviurile in IT, mai e partea că prin natura meseriei, nu prea poți fi sigur pe tine, din cauza mediului care permanent se schimbă și din cauza că pot apărea probleme oricând, ești foarte rezervat în privința a orice, în special a orice nou și care propune lucruri mari și păroase, cam cum se întâmplă la interviuri. Aceeași intuiție pe care o folosești în domeniul tău, ar trebui să o folosești și cu oamenii pe care îi cunoști și urmează să lucrezi. Faptul că sunt oameni mai siguri pe ei, nu înseamnă că au și dreptate. Primul interviu probabil îl dai cu oamenii de la resurse umane. Probabil îți vor zice că e frumos și că e un challenge interesant. Dar nu trebuie să te lași dus de val. Poate că îți zic că folosesc nu știu ce utilitar și că le merge grozav. Adevărul e că asta poate fi doar un buzzword frumos ca să te atragă. Sunt șanse mult mai mari tu ca programator să miroși că defapt acela e un tool mai vechi, care nu prea mai e folosit în domeniu și probabil cei care au ajuns să îl folosească e pentru că au un cod foarte vechi de întreținut. Sunt șanse mult mai mari ca tu deja să știi astea. Fii pregătit să înfrunți realitatea, dacă intuiești că o posibilă colaborare nu e ok, cel mai probabil e să ai deja dreptate. Nu te speria. E de bine 🙂. Sentimentul e același și când găsești ceva pe măsură. Trebuie doar să încerci de suficiente ori până să găsești ce trebuie și să nu uiți de tine în căutări.&lt;/p&gt;
+&lt;p&gt;Baftă, ai încredere în primul rând în tine!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/">
+    <title type="text">Ce să faci atunci când ești în căutare de job</title>
+    <id>urn:uuid:791c9f2e-e622-3ce9-a853-cabec19593cb</id>
+    <updated>2020-01-06T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;În primul rând e o situație dificilă. Probabil ai ajuns aici din mai multe motive:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;părinții te-au trimis să îți vezi de viața ta că la 30 de ani nu mai poți sta cu ei acasă&lt;/li&gt;
+&lt;li&gt;ai pierdut ultimul job pentru că nu mai simțeai motivație să te prezinți la birou pentru nimic&lt;/li&gt;
+&lt;li&gt;încă ești la job, dar nu mai vezi de ce să mergi acolo și mâine din varii motive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Da știu că e greu, dar, nu dispera. Nu e capătul lumii. S-a ajuns aici premeditat cu mult dinainte. Când se întâmplă asta probabil ai nevoie de o reconfigurare a traseului (ca la GPS). Nu e ușor, dar o să fie bine. Se poate trece și peste asta.&lt;/p&gt;
+&lt;p&gt;Iată ce să faci, în mod general:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Să nu uiți de tine. Ești om, ai caracter, ai principii. Dacă crezi că jobul presupune să lași de la tine pentru că e bine plătit, ceva e greșit prietene. Omul înainte de toate. Nu ești sluga nimănui. Dacă nu e respectat asta, nu am să zic decât că ceva e stricat, la tine și nu la job.&lt;/li&gt;
+&lt;li&gt;Dacă pe cealaltă parte, jobul e minunat, dar nu e compensat pe măsură, problema e aceeași, doar că cealaltă extremă, nu pui preț pe tine, atunci când ceri cât se cuvine, te respecți în primul rând pe tine.&lt;/li&gt;
+&lt;li&gt;Încetează să mai crezi că e o luptă de supraviețuire, șefii tăi fac bani înzecit pe spinarea ta, nu te mai simți prost pentru cât ceri, cunoașteți valoarea. Vii într-un loc ca să oferi ceva de la tine, nu ca să iei. Și hai să zicem că te simți foarte prost, pentru că crezi că nu ai nimic de oferit. Îți oferi 8 (mai realist 10-11) ore din viața ta la acel loc. Nu fi nebun. Viața, în general, nu doar a ta, nu poate fi prețuită. Și doar dacă te duci la serviciu, aia nu e gratis. Viața înainte de toate, sper să îți spună ceva. Nu e pe degeaba. Te duci pentru că îți dai din viața ta acolo. Și asta are un cost. De multe ori mult prea mic și trecut cu vederea. Asta e problema ta iarăși, că nu te valorifici deloc. Dai ce ai mai de preț, pentru nimic.&lt;/li&gt;
+&lt;li&gt;Oamenii de care dai, ai grijă să le vezi defectele din timp. Dacă întârzie 30 minute și nici măcar nu se scuză, dacă tratează nerespectuos oamenii cu care lucrează, dacă se cred prea tari dar fără fapte care să valideze. Plus vezi și cum se situează oamenii respectivi, deobicei dacă sunt probleme la manageri, sunt probleme și mai jos. Dacă oamenii între ei se înțeleg bine, atunci ceva e bine. Dar e foarte greu să îți dai seama asta în puținul timp în care întâlnești oamenii, 30 minute / o oră la un interviu e prea puțin ca să îți dai seama.&lt;/li&gt;
+&lt;li&gt;Per total, vezi tot timpul raportul cât dai din tine, versus cât primești, trebuie să fie un echilibru pentru ambele părți. Dai ceva de la tine, ca să primești în schimb ceva înapoi și să fie cât de cât corect schimbul. Dacă te vinzi de tot pentru nimic, mai lasă și pentru tine. Întotdeauna mai lasă și pentru tine. Vezi cu ce mai rămâi după o zi de serviciu, dacă raportul e ok, ai câștigat nu doar tu ci și firma.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ar mai fi de zis pe acest subiect, încerc să mai scriu și în articolele din zilele următoare.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/exercitiu-devops-hands-on/">
+    <title type="text">Exercițiu DevOps hands-on</title>
+    <id>urn:uuid:e41becf0-54ee-32bf-bd11-97c407c8a876</id>
+    <updated>2020-01-05T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/exercitiu-devops-hands-on/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Să presupunem că vrei să începi ca DevOps. Ce ai putea face, pe lângă tutorialele menționate, în &lt;a href=&quot;../../../../../blog/2020/01/cum-sa-incepi-ca-devops-in-2020/&quot;&gt;articolul precendent&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Trainingul online e doar o mică parte din învățare. Foarte important este să ai contact cu oameni care fac același lucru. Degeaba te uiți la curs, dacă nu poți face legătura și cu oameni din domeniu. Dacă nu ai prieteni sau cunoștiințe cu care să împărtășești ce urmărești în videouri, cam degeaba urmărești trainingurile, oricât ai încerca.&lt;/p&gt;
+&lt;p&gt;Alt lucru, la fel de important este că nu doar cunoașterea teoretică te va aduce undeva, doar simpla realizare că ai terminat cursul nu înseamnă nimic, va trebui să știi tu ale tale, să ai cunoașterea ta. Ca să o obții, propun următorul exercițiu.&lt;/p&gt;
+&lt;p&gt;În următoarele zile, planifică mutarea pe un nou sistem de operare. Dacă ești pe Windows încearcă Mac/Linux, dacă ești pe Linux încearcă Mac, dacă ești pe Mac încearcă Linux.&lt;/p&gt;
+&lt;p&gt;Poți să o faci brutal, salvează ce ai de salvat, șterge tot și începe fresh cu noul sistem de operare și vezi de acolo cum te descurci. Astea e cea mai radicală soluție. Sau începe mai ușor, fără să renunți la sistemul actual, începe într-o mașină virtuală și încearcă acolo pe pași mărunți. Acesta e tot exercițiul.&lt;/p&gt;
+&lt;p&gt;A se observa că nu e nimic foarte precis. Indiferent de motivul tehnic al schimbării sistemului de operare, ce e mai important e că va trebui să găsești noi soluții pentru ca să ai un sistem utilizabil. Problemele ce pot apărea nu le știi, dar știi că sunt și că va trebui să te ocupi de ele. Aplicația de notițe, cum faci cu ea, cu ce deschizi mailul, cum accesezi calculatorul de la distanță sunt doar câteva dintre probleme. Va trebui să mapezi, să planifici, să documentezi tot procesul acesta de research. Asta e munca. Nu contează cât durează exercițiul. Vezi cum te simți. Dacă îți e natural, cu cât depui mai mult timp în astfel de muncă de proiectare cu atât ești mai la un pas pe drumul DevOps. Evident asta e doar o mică parte, dar te va ajuta să intri în mediul de lucru DevOps.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/">
+    <title type="text">Cum să începi ca DevOps în 2020</title>
+    <id>urn:uuid:e1287347-4968-3b7a-a5f4-757674bbf82d</id>
+    <updated>2020-01-04T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Probabil a fost cel mai mare trend al anului 2019, încât toată lumea căuta DevOps. Ce este și cum de a explodat deodată pe piaţă?&lt;/p&gt;
+&lt;p&gt;DevOps e un developer care petrece timp îmbunătățind întreg procesul de livrare a software-ului. Dacă un programator scrie cod la o aplicaţie, un DevOps face acelaşi lucru dar pe partea de infrastructură. Partea de infrastructură e tot ce se întâmplă din momentul când o bucată nouă de cod este împinsă şi până când ea ajunge livrată în producţie.&lt;/p&gt;
+&lt;p&gt;De ce a devenit aşa popular deodată termenul, nu ştiu să zic, dar toată lumea vorbea de DevOps, cel puţin în 2019. Cred că anul acesta se vor mai linişti un pic lucrurile, în primul rând pentru că  sunt deja foarte multe standarde, DevOps nu mai e nimic nou. În al doilea rând sper că firmele care listau un job de suport Level 3 ca DevOps să se fi liniştit, dacă doar stingi incendii, nu e suficient ca să fii DevOps, mai tre să şi lucrezi activ să nu mai apară incendiile respective.&lt;/p&gt;
+&lt;h2&gt;Cum să începi ca DevOps în 2020?&lt;/h2&gt;
+&lt;p&gt;EI bine, hai să vedem. Deşi nu la fel de popular ca anul trecut, cu siguranţă e deja ceva foarte matur. Nu cred că e an mai bun în care să mergi la sigur pe această cale. În primul rând câteva principii:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;orice muncă manuală ce are loc repetat, în limita timpului disponibil, trebuie automatizată&lt;/li&gt;
+&lt;li&gt;eşti independent de sistemul de operare, acelaşi lucru ar trebui să meargă şi pe Windows, Linux sau MAC&lt;/li&gt;
+&lt;li&gt;în mod ideal, nu se petrece mai mult de 50% din timp pe lucrurile care ard, restul cât mai mult trebuie dedicat rezolvării active a problemelor încă dinainte să apară &lt;/li&gt;
+&lt;li&gt;îţi asumi riscuri, ca DevOps le calculezi bine înainte şi apoi mergi înainte&lt;/li&gt;
+&lt;li&gt;urmezi standarde şi aplici cele mai bune practici cunoscute&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Ce certificări poţi lua pentru a fi acreditat?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.redhat.com/en/services/certification/rhcsa&quot;&gt;RHCSA&lt;/a&gt; (Red Hat Certified System Administrator)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/&quot;&gt;CKA&lt;/a&gt; (Certified Kubernetes Administrator)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;De unde le pot învăţa?&lt;/h2&gt;
+&lt;p&gt;Cursuri video Udemy:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.udemy.com/course/linux-academy-red-hat-certified-systems-administrator-prep/&quot;&gt;Linux Academy Red Hat Certified Systems Administrator Prep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/&quot;&gt;Certified Kubernetes Administrator (CKA) with Practice Tests&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;înafară de asta ce ar mai trebui să ştiu?&lt;/h2&gt;
+&lt;p&gt;Aplică principiile astea zi de zi în munca ce o faci la calculator. Nu contează ce faci, vezi ce poţi automatiza, indiferent de domeniul în care lucrezi, vezi unde se împotmoleşte munca ce o faci şi vezi dacă poţi veni cu o soluţie să îmbunătăţească procesul. Nu contează limbajul de programare, nu contează domeniul în care lucrezi, principiile rămân aceleaşi.&lt;/p&gt;
+&lt;p&gt;Dacă asta nu e suficient de clar, am să revin mâine cu un exerciţiu mai hands-on.&lt;/p&gt;
+&lt;p&gt;L.E.: Link exercițiu DevOps &lt;a href=&quot;../../../../../blog/2020/01/exercitiu-devops-hands-on/&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/unele-zile-sunt-mai-grele/">
+    <title type="text">Unele zile sunt mai grele</title>
+    <id>urn:uuid:67152893-6479-378d-9dc4-199d53edaffb</id>
+    <updated>2020-01-03T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/unele-zile-sunt-mai-grele/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Uneori o să mai obosești. Cât de greu poate fi? Stai la calculator toată ziua.&lt;/p&gt;
+&lt;p&gt;Dar poate la un moment dat nu mai ai motivație să stai la calculator. Și atunci ce ai să faci?&lt;/p&gt;
+&lt;p&gt;E o meserie în care îți folosești mult creierul, principala cauză a oboselii, ar fi în primul rând asta... ai nevoie de o pauză de la a mai gândi și lua decizii. Nu de puține ori, asta în faza cea mai complicată înseamnă că unele zile stai ca o legumă la pat. Fizic ești apt, dar tu ca persoană nu mai poți funcționa. Ai nevoie de o pauză. Se mai întâmplă când muncești prea mult. Ca să nu mai ajungi aici înveți să te retragi de la muncă dinainte să fie prea târziu. Durează un pic să înveți propriul ritm. E destul de întâlnit sindromul, e burn-out clasic.&lt;/p&gt;
+&lt;p&gt;Uneori e altceva. Poți funcționa zi de zi, dar nu mai vezi motivația pe termen lung. Iarăși e complicat pentru că da, sunt issues care apar în meseria asta și trebuie să treci prin ele. Din păcate nu prea ai cu cine să te consulți, ești cam pe cont propriu și trebuie să găsești o soluție la ce vrei tu de la viață, de la cariera ta.&lt;/p&gt;
+&lt;p&gt;În principiu, atunci când lucrurile nu mai merg lin... stai liniștit. E normal. Ești pe planeta Pământ. Relaxează-te, întâlnește-te cu un vechi prieten, așează prin casă cu muzica. Mai sunt și perioade în care nu ești în parametrii optimi. E normal. Nu uita pe ce planetă trăiești. Ia-ți timpul și refă-te. Va apărea și soluția.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-tii-pasul-in-informatica/">
+    <title type="text">Cum să ții pasul în informatică</title>
+    <id>urn:uuid:f576f171-fb10-376e-857e-ce963829f7af</id>
+    <updated>2020-01-02T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-tii-pasul-in-informatica/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Una din particularitățile acestei meserii este cu cât de multă informație abstractă poți să lucrezi. Lucrezi cu cantități enorme de informație, dincolo de imaginație. Atât de multe informații încât nu poți să le ții minte pe toate și optimizezi în așa fel încât să știi să găsești informația și să îți faci mecanisme să ajungi la ea cât mai repede. Cu cât poți face mai multe astfel de legături și cu cât harta de legături devine din ce în ce mai mare cu atât faci treaba mai bine. Durează ani de zile. Abilitatea ta de a duce lucrurile la capăt și cât mai profi depinde de asta.&lt;/p&gt;
+&lt;p&gt;Problema e când mintea la un moment dat nu mai poate face față cantității enorme de informație și atunci trebuie să găsești soluții. Se întâmplă să nu mai observi în jur mediul, pentru că te distrage de la problema pe care o rezolvi. De aia și biroul poate fi cea mai ușoară metodă de a îți strica productivitatea pe o zi. S-ar putea să nu ai nevoie ziua aia de interacțiuni sociale sau de meeting cu echipa. S-ar putea să ai nevoie doar de un loc unde să ai liniște, să știi că nu poți fi întrerupt decât dacă ceva chiar arde. Locul acesta poate fi la birou sau acasă sau oriunde altundeva știi că nu vei fi întrerupt decât dacă e ceva super important. De aia un programator nu mai e atent la mediul din jur și pare în lumea lui din afară. Totodată de aia munca de la birou nu prea merge uneori, că nu poți ține nivelul decât la suprafață. Uneori chiar ai nevoie să fii în bula ta ca să rezolvi problema și această bulă e în spațiul tău.&lt;/p&gt;
+&lt;p&gt;Desigur asta e temporar, nu poți sta tot timpul în bula ta și totodată e foarte obositor, poți merge câteva ore așa, câteva zile, dar apoi ai nevoie de o pauză pe măsură ca să te refaci. Pe termen lung e foarte sănătos pe cât posibil să eviți asta și să rezolvi totul în timpul orelor de program, dar uneori nu se poate să ajungi la stratul de profunzime necesar și dacă trebuie, trebuie. Faci ce e de făcut și mergi mai departe. Evident, fără să te aștepți să ți se facă o statuie pentru asta 😂&lt;/p&gt;
+&lt;p&gt;Mai e și faptul că de multe ori nu contează ce arde acum, contează la ce lucrezi acum. Ca informatician ai probabil o idee că o să fie lucrurile la un moment dat într-un anume fel. Ca să fie în acel fel lucrezi ca și cum ești deja acolo. Un mic exemplu, pur arbitrar. Ești pe Windows, e un sistem de operare limitat pentru problema la care lucrezi, încât tot backendul e pe Linux. Dar nimeni nu are mașini pe Linux. Toți au Windows. Tu lucrezi deja pe Linux când încă nu știi ce consecințe ar putea apărea și în același timp când ceilalți lucrează pe Windows. Abilitatea ta de a ține mai multe idei contradictorii în același timp e de neprețuit. De multe ori din exterior asta se vede ca ceva idealist, dar niciodată nu vei ajunge într-un loc nou rezolvând incendiile de azi. E o meserie super abstractă, încât lucrezi cu incendiile de mâine. E o muncă super preventivă. Abilitatea ta de a fi un informatician bun este aceea de a vedea problemele dinainte să apară și să le rezolvi încă dinainte să apară. Ești plătit pentru asta. Viitorul e complex. Nu poți știi ce merge rău. De multe ori asta înseamnă efectiv să iei toate șansele posibile pentru care ceva ar putea merge rău. Și eventual după asta să vorbești de soluția ta că e cea mai bună metodă posibilă pentru cazul specific pe care îl rezolvi. Cam ca într-un paradox. Toată viața ți-o petreci să îți demontezi ideea, ca mai apoi vorbești de ea că e cea mai bună metodă posibilă.&lt;/p&gt;
+&lt;p&gt;Asta face diferența dintre un tunzător de iarbă și un programator. Ca tunzător de iarbă poți avea ani de zile experiență, dar practic diferența între tine și unul care tocmai și-a luat prima mașină de tuns e practic insesizabilă. Și salariul stă pe loc și nu poți cere mai mult, pentru că atât se poate merge de departe cu tunsul de iarbă. În IT, dacă faci ce trebuie, cu cât crește experiența ta cu atât crește și abilitatea ta de a rezolva probleme din ce în ce mai complexe, mai grele, mai bine, și de aici sunt și mai bine plătite.&lt;/p&gt;
+&lt;p&gt;Un programator știe că își sacrifică timpul și energia pentru a rezolva problema la care lucrează așa că dacă face asta probabil o face pentru că vede un beneficiu pe termen mediu-lung și nu doar pentru el. Niciun om sănătos nu renunță la viața lui doar de dragul de a munci, sau pentru a i se construi o statuie. Face poate de dragul lucrului bine făcut și pentru că poate face un pic mai bine acolo unde e. E multă muncă din umbră. De multe ori nu se vede munca asta din afară și nici nu trebuie.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/just-push-it-to-production/">
+    <title type="text">Just push it to production</title>
+    <id>urn:uuid:b0975362-e611-3608-b575-3c1cec408198</id>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/just-push-it-to-production/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Se întâmplă des ca proiectele în IT să nu treacă deloc de faza de idee. Sunt atât de abstracte încât cu cât te gândești mai mult la ele, cu atât devin mai imposibile de făcut.&lt;/p&gt;
+&lt;p&gt;Ca să miște de la idee la chestie concretă e nevoie de ceea îi zice experiență hands-on. Ai ceva de făcut, te pui și faci. Doar așa începi să miști ideea spre execuție. Așa apare prima versiune, care e foarte rușinoasă, e groaznică chiar, dar ai ceva deja făcut, peste care ai ce îmbunătăți. Să ai doar o idee e atât de abstract, încât doar gândindu-te mai mult, progresul se oprește. Devine fantezie. Ideea ar trebui să fie doar un mic foc ca să te pună în mișcare spre următorii pași de execuție.&lt;/p&gt;
+&lt;p&gt;Ca acest lucru să se întâmple, scrie cod, scrie documentație, mută ideile spre concret, ca să devină lucruri realizate.&lt;/p&gt;
+&lt;p&gt;De exemplu, pentru acest blog, am schimbat tema de la &lt;a href=&quot;https://github.com/daattali/beautiful-jekyll&quot;&gt;Beautiful Jekyll&lt;/a&gt; la ceva mai simplu &lt;a href=&quot;https://github.com/Andrew-Shay/lektor-theme-simple-strap&quot;&gt;Bootstrap&lt;/a&gt; și am trecut de la engine-ul &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; hostat de &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; la &lt;a href=&quot;https://www.getlektor.com/&quot;&gt;Lektor&lt;/a&gt;. Jekyll e fain și se integrează nativ cu GitHub Pages, dar mi s-a părut foarte nenatural să fac modificări de template, să scriu articole pe el și să împing noi modificări pe site. Deși soluția funcționa, nu am mai scris pe blog de foarte mult timp în special din cauza că nu se simțea bine tot procesul de a publica noi articole.&lt;/p&gt;
+&lt;p&gt;Trecerea pe Lektor am tot avut-o în minte, cel puțin jumate de an, dar părea prea multă energie de pus deodată ca să fac trecerea pe noul engine. Ar fi însemnat:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;găsit sau implementat o temă pentru noul engine&lt;/li&gt;
+&lt;li&gt;import articole vechi&lt;/li&gt;
+&lt;li&gt;automatizat proces de builduit site / împins noi modificări&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Deși nu pare nimic complicat, între timp au mai apărut și:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;suport site multilanguage&lt;/li&gt;
+&lt;li&gt;optimizări seo&lt;/li&gt;
+&lt;li&gt;salvat/creat redirect-uri pentru a păstra compatibilitatea cu linkurile vechi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sunt o groază de alte mici lucruri care au apărut și pe care nu le-aș fi putut vedea doar în faza de idee. Un proiect IT include multe astfel de detalii, de multe ori trecute cu vederea. Sunt chestii care iau timp, dar nu ai cum niciodată să le prevezi. Ca să ai totuși ceva la sfârșitul zilei, focusul e pe funcționalitate. Orice altceva mai poate sta.&lt;/p&gt;
+&lt;p&gt;De exemplu, dacă vreau să fac un blog, care e lucrul cel mai important pe care să îl aibe... Să poți să scrii articole. Orice altceva e ignorat complet. Așa am și făcut. Așa că azi e prima versiune super rușionasă a noului blog. 😌 Just push it to production!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/">
+    <title type="text">Ce să faci la 20 de ani ca să nu regreţi la 26?</title>
+    <id>urn:uuid:189eca7e-8e05-39db-a2a2-b5f1f8f83fcc</id>
+    <updated>2018-07-03T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;La 20 de ani mintea te duce în plaiuri îndepărtate, ba în viitor, ba în trecut, dar realitatea e doar în prezent, aici, fără imaginație, fără vise, fără vârstă. Indiferent în ce stadiu te afli în viaţa asta iată câteva momente cheie pentru a îţi aminti să trăieşti.&lt;/p&gt;
+&lt;h1&gt;Începe cu sfârșitul&lt;/h1&gt;
+&lt;p&gt;Erau deja 2 ani trecuţi de când lăsasem facultatea, părinţii nu m-au mai primit acasă iar eu încă nu îmi găseam niciun loc în lume. Păreau cei mai 2 ani risipiţi din viaţa mea în care părea că nu sunt al nimănui, nici măcar al străzii. Au fost cei mai groaznici ani trăiţi.&lt;/p&gt;
+&lt;p&gt;Mă întrebam dacă nu cumva toate astea se vor termina vreodată. Se vor termina, evident (şi iată că s-au terminat) dar a mai durat un pic. La 20 de ani, depinde cât de mult mai poţi extinde acel un pic până să ajungi înapoi la 'normalitate' şi te rog din toată inima, în tot timpul pe care îl ai în acest timp fragil, nu te întoarce de unde ai plecat, mai mergi un pic, mai încearcă ceva. Vei avea tot timpul să te întorci înapoi şi toate lucrurile vor fi ca şi cum nimic nu s-ar fi întâmplat. Mai rămâi acum aici un pic. Îţi vei mulţumi de 1000 de ori mai încolo.&lt;/p&gt;
+&lt;p&gt;Ideea esenţială e să anticipezi unde vei fi în următorii ani şi încet încet să iei hotărâri care îţi vor permite să te uiţi înapoi cu bucurie şi satisfacţie deplină. Ştiind că vei putea face asta toţi anii 20 devin infinit mai plăcuţi şi interesanţi.&lt;/p&gt;
+&lt;p&gt;E prea trist să închei prea devreme aventura anilor 20 fără să rişti nimic. Toate într-o zi se vor termina aşa că mai rămâi un pic acum, mai fă ceva. Chiar dacă nu ai un acoperiş deasupra, chiar dacă nu ai ce mânca deseară şi chiar dacă, în general, nu ar putea ieşi nimic, totuşi există o mică mică mică mică mică şansă să se schimbe ceva, doar pentru simplul fapt că încerci ceva diferit. Doar nu renunţa prea repede. 2 ani ca să încerci ceva înseamnă foarte puţin. Mai stai un pic. După cum zice un proverb chinezesc:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;The temptation to quit will be greatest just before you are about to succeed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;Întinde-te numai cât ţi-e plapuma&lt;/h1&gt;
+&lt;p&gt;Tot ce crezi tu că poți să faci nu e și neapărat adevărat. E la modă să gândești fără limite, dar mai realist e să îți vezi de lungul nasului și să nu te arunci niciodată mai mult decât poți duce.&lt;/p&gt;
+&lt;p&gt;Când te bagi în ceva şi încet dar sigur începi să simţi consecinţele, fără să te fi aşteptat la ele dinainte să fi luat decizia, deja e prea grav. Nu ţi-ai dat seama indicii de la început, indicii subtili dar clari şi uşor de văzut dacă te-ai fi gândit puţin înainte.&lt;/p&gt;
+&lt;p&gt;Fiecare mai păţim şi dintr-astea. E bine totuşi la 20 de ani să nu îţi faci datorii de aşa fel. E prea devreme şi sunt lucruri prea ale adulţilor. Nu e încă momentul. La 20 de ani încă nu ai nevoie de responsabilităţi dintr-astea.&lt;/p&gt;
+&lt;p&gt;De multe ori în viaţă e bine să zici nu şi la 20 de ani ar fi bine să înveţi din timp bine asta.&lt;/p&gt;
+&lt;h1&gt;Viaţa e preţioasă... nu fi stupid să pui altceva mai sus decât viaţa&lt;/h1&gt;
+&lt;p&gt;Viața pe care o ai prețuiește-o. Alta nu mai ai. Dacă eşti azi aici, nu înseamnă că vei fi şi mâine. La un moment dat, mai curând decât crezi, vei avea de ales între viață și ceea ce ești. Sper că vei alege viața.&lt;/p&gt;
+&lt;p&gt;Poate sunt prea vag, dar exemple sunt mii.&lt;/p&gt;
+&lt;p&gt;Atunci când traversezi strada, sper că va fi mai important să trăiești decât să te grăbești să sari în faţa maşinii.&lt;/p&gt;
+&lt;p&gt;Atunci când alegi ceva în interesul tău, poate nu e în interesul tuturor şi ar fi mai bine să laşi de la tine ca să fie bine şi în jur, nu numai pentru tine.&lt;/p&gt;
+&lt;h1&gt;Pleacă cât mai repede de acasă&lt;/h1&gt;
+&lt;p&gt;Nu pentru că vrei să fugi. Nu pentru că vrei să-ți lași familia deoparte. Ci pentru că e momentul să începi să faci ce poți tu cu viața ta. Să fugi după ceea ce vrei să realizezi. Asta poate va înseamna să îți lași familia deoparte. Trist, dar la 18 ani ar trebui să îți iei traista in spate și te duci în lume să-ți câștigi existența. Gata cu milogeala. Nimic în lumea asta nu se dă pe gratis iar la vârsta asta ar trebui să înveți să produci cel puțin pentru tine.&lt;/p&gt;
+&lt;p&gt;E greu, dar va fi și mai greu mai încolo dacă te obișnuiești că alții îți pot oferi cele necesare traiului iar tu mai poți sta un pic fără să faci nimic.&lt;/p&gt;
+&lt;p&gt;Sunt atâtea exemple care şi la 40 de ani încă mai stau pe capul părinţilor. Nu fii şi tu unul din ele.&lt;/p&gt;
+&lt;h1&gt;Mută-te singur cât mai repede&lt;/h1&gt;
+&lt;p&gt;Lasă vrăjeala că poți sta cu mama acasă, sau cu colegi de apartament. Pur și simplu ai nevoie de spațiul tău. Un loc unde sa te simţi ca acasă, să ajungi când vrei, să așezi cum vrei, să nu dai socoteală la nimeni pentru ce faci.&lt;/p&gt;
+&lt;p&gt;Costă poate zici... dar nu uita.&lt;/p&gt;
+&lt;p&gt;Cel mai important e să ai locul tău sacru de odihnă și de lucru peste care să nu se bage nimeni. Este indiscutabil.&lt;/p&gt;
+&lt;h1&gt;Cea mai ciudată meserie&lt;/h1&gt;
+&lt;p&gt;Pentru mine a fost când dădeam reviewuri la hoteluri de 4 si 5 stele, homeless fiind. Beam o cafea şi notam atmosfera din hotelul respectiv. A fost pe departe cea mai contradictorie meserie. Au mai urmat si altele. Printre care vândutul de tigăi din uşă în uşă. Toate astea evident, după ce am lăsat facultatea. Dacă astea nu sunt lucruri extreme, abia după mult timp mi-am dat seama că defapt oricât de mult aş vrea să aleg şi altă meserie decât cea de programator, nu am cum... nu am fost făcut de aşa natură. Aşa m-am născut. N-am ce să îmi fac. Îmi voi fi dorit mai degrabă să nu mă fi născut dacă aş fi ştiut că sunt aşa de complicat.&lt;/p&gt;
+&lt;h1&gt;Atunci când ai acoperiş desupra capului şi nu mai trăieşti de pe o zi pe alta&lt;/h1&gt;
+&lt;p&gt;La un moment dat lucrurile încep să se mai şi liniştească. Nu peste noapte, ci încet încet, viaţa nu mai e chiar o luptă continuă şi începi să te gândeşti şi la altele decât acoperiş şi mâncarea pe ziua de mâine. Nu uita că ai muncit pentru fiecare clipă pe care o trăieşti viaţa asta. Fiecare zi este muncită şi nu ai nici măcar o secundă de pierdut. Atunci când eram homeless mi se păreau atât de wow oamenii care aveau timp la prânz să se oprească 20 minute să bea o cafea rapid din care să nu înţeleagă nimic. Iar seara să nu aibe grija unde să pună capul pe o pernă iar în general să aibe o viaţă nu grozavă, dar ok cu care să poată merge mai departe. Era atât de wow. Acum iată-mă că fac şi eu astea fără să mă gândesc dar îmi dau seama în acelaşi timp că dacă nu sunt atent viaţa trece pe lângă mine şi eu însumi nu reuşesc să mă bucur de momentele preţioase din jur.&lt;/p&gt;
+&lt;h1&gt;Pe cealaltă parte, încă nu e momentul să fii extravagant&lt;/h1&gt;
+&lt;p&gt;Pe cealaltă parte, problema e să stai prea relaxat şi să te bucuri de câmp, de flori, să savurezi tot ce e în jur ca şi cum n-ai avea nimic altceva de făcut. Ei bine, acest moment cu siguranţă nu e la 20 de ani! La 20 de ani, îţi bei repede halba de bere şi mergi mai departe. Nu ai timp  de mirosit flori. Deşi ai cel mai mult timp liber la dispoziţie în mod paradoxal, acest timp ai face bine să îl foloseşti la maxim ca să încerci lucruri noi.&lt;/p&gt;
+&lt;h1&gt;Dacă vrei responsabilităţi iată-le că şi vin&lt;/h1&gt;
+&lt;p&gt;Vrei sau nu, iată că acum ai nevoie să îţi porţi singur de griji. Îţi cauţi singur dentistul. Nesatisfacerile de la servici sunt 100% responsabilitatea ta. Dacă vrei mai mult numai de tine depinde. Dacă nu eşti fericit iarăşi e numai răspunderea ta. Poţi merge şi până la dacă cei din jurul tău nu sunt fericiţi... e responsabilitatea ta şi asta :) Discutabil, dar... dacă într-o mică mică mică măsură ai putea fi răspunzător de starea celor din jur, ai face ceva diferit?&lt;/p&gt;
+&lt;h1&gt;Sănătate&lt;/h1&gt;
+&lt;p&gt;Bolile nu sunt altceva decât probleme nerezolvate care se adună pe un card de credit şi la un moment dat vine nota de plată. Spune-mi un om echilibrat care suferă de ceva şi e suficient ca să retrag acest paragraf. Medicina nu e numai ceea ce se întâmplă la spital dar e şi despre igiena gândurilor pe care le ai faţă de tine şi faţă de cei din jur. De asta unii stau toată ziua cu drumuri la spitale iar alţii abia dacă văd medicii.&lt;/p&gt;
+&lt;p&gt;Indiferent de ce cred eu sau nu ţine cu dinţii de sănătatea ta. Dacă o pierzi se duce tot, şi te duci şi tu cu ea. E cel mai de preţ lucru pe care îl ai cu tine şi totodată cel mai uşor de ignorat în anii 20.&lt;/p&gt;
+&lt;h1&gt;Cu orice preţ nu te lăsa pradă minţii&lt;/h1&gt;
+&lt;p&gt;Mintea abia aşteaptă să profite de orice moment ca să îţi distragă atenţia şi să te ducă pe plaiuri îndepărate. E treaba ta să o aduci înapoi şi să o disciplinezi. Îţi va face foarte multe zile negre. Nu ai vrea să ia decizii în locul tău. Mintea la 20 de ani e ca un pui de Rottweiler, încă o mai poţi dresa, dar dacă nu acţionezi rapid, mai încolo te va controla ea pe tine în toate deciziile pe care le vei lua viaţa asta.&lt;/p&gt;
+&lt;p&gt;Sub orice preţ, la 20 de ani nu ai nimic de apărat, ai numai de învăţat. Nu e vreme de orgoliu, nu ai nimic de protejat şi nici de demonstrat. E o încercare sinceră de a îţi face viaţa cu propriii termeni şi nu cei impuşi de cei din jur. Şi în toată această aventură ai grijă să scapi cu viaţă, să îţi asiguri cele necesare traiului şi să mai rămâi şi cu un pic de sănătate mintală, haha.&lt;/p&gt;
+&lt;p&gt;Mintea ar trebui să fie aliatul tău, dar cred că asta e doar o glumă bună la 20 de ani.&lt;/p&gt;
+&lt;h1&gt;Ţine strictul necesar împachetat într-o geantă şi fii pregătit să pleci la drum oricând pentru câteva zile neaşteptat&lt;/h1&gt;
+&lt;p&gt;O geantă în spate cu toate necesităţile pe câteva zile, să ai tot timpul la tine. Nu şti cum te poartă viaţa, în caz de ceva, ai o geantă cu tine să poţi pleca lejer. S-a întâmplat de atâtea ori şi se va mai întâmpla de nenumărate ori. Renunţă la cât de multe posesii poţi. Orice nu ai folosit în ultimele 6 luni aruncă. Dacă ai mai folosit un lucru din când în când dă-l mai departe. Fă-ţi un obicei din a avea întotdeauna loc liber cu tine oriunde ai fi. Aşa vor veni lucruri noi tot timpul în viaţa ta. Şi nu vei căra prea multe cu tine, decât doar strictul necesar.&lt;/p&gt;
+&lt;h1&gt;Donează lucruri de care ai nevoie celor care au nevoie de ele&lt;/h1&gt;
+&lt;p&gt;Nu ai nevoie chiar de tot ce ai. Ce nu ai folosit în ultimele 6 luni, aruncă fără resentiment. Fiecare lucru pe care îl ai ocupă un spaţiu în minte. Cu cât ai mai multe lucruri, cu atât ai mai puţin spaţiu la dispoziţie pentru lucruri noi. Renunţă la tot ce nu foloseşti fără să te gândeşti de 2 ori.&lt;/p&gt;
+&lt;p&gt;Poate sună uşor, dar nu e chiar aşa, am renunţat la laptop când chiar aveam nevoie de el. L-am donat pentru că nu puteam să-l car în spate. Bine, poate puteam să îl las la cineva cunoscut. Dar whatevăr. 2 ani i-am dus lipsa. Mai încolo, &lt;a href=&quot;https://www.adrianharabula.ro/2016/03/primul-venit-din-freelancing/&quot;&gt;primul venit din freelancing&lt;/a&gt; l-am făcut cu un calculator împrumutat. Încet încet lucrurile, dacă ai nevoie de ele vin înapoi, iar dacă nu, pleacă şi lasă spaţiu liber pentru altceva.&lt;/p&gt;
+&lt;h1&gt;Lasă vacanțele deoparte, cel puțin nu acum este momentul&lt;/h1&gt;
+&lt;p&gt;Bill Gates avea o vorbă...&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I never took a day off in my twenties. Not one. And I'm still fanatical, but now I'm a little less fanatical&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Poate nu are rost să menţionez, dar gândeşte-te că sunt unele zile în care abia te duşezi, abia mănânci şi toate astea sunt la normă!!! Poate nu are rost să povestesc mai în detaliu... Să dai tot ce poţi la 20 de ani nu are nevoie de descrieri... Înseamnă foarte muuult sacrificiu. Când tot ceilalţi sunt în weekend plimbându-se sau în vacanţe tu rămâi să mai lucrezi în plus la ceva al tău care nu şti cum va fi şi nu îţi poţi pune decât doar speranţa.&lt;/p&gt;
+&lt;p&gt;Poate că nu e cea mai grozavă descriere, dar dacă vrei să obţii ceva trebuie să şi munceşti pentru acel ceva. Nimeni nu face excepţie şi nu se naşte cu lucruri de-a gata meritate.&lt;/p&gt;
+&lt;p&gt;Pe lângă vacanţe, mai sunt şi weekendurile. Nici ele nu sunt zile libere, şi nici zilele libere de la stat nu sunt zile libere. Sunt zile care trebuie bine puse la punct dinainte şi folosite la maxim. Ai nevoie de timp lung neîntrerupt ca să gândeşti bine şi pătrunzător. Foloseşte orice şansă ca să beneficiezi la maxim de acest timp. O zi în care eşti întrerupt de 10 ori e o zi pierdută, pe când o zi în care te izolezi să te ocupi de un singur mic lucru e o zi bine plănuită.&lt;/p&gt;
+&lt;h1&gt;În loc de final&lt;/h1&gt;
+&lt;p&gt;Da, anii 20 se termină şi ei, prin simplul fapt că au început. Deşi pot fi cea mai instabilă, tulburătoare şi emoţionantă perioadă din viaţa unui om, e o şansă numai bună ca să devii stăpânul propriei tale vieţi şi ca să dai o şansă cinsită vieţii aşa cum poţi. Dacă nu iese cum ai vrut, nu ai pierdut nimic, problema e mai degrabă pe cealaltă parte când fără să rişti nimic te conformezi şi faci ce faci doar pentru că toţi cei din jur fac asta. Treaba ta e să îţi găseşti calităţile bune şi să le foloseşti zi de zi. Nu e făcută lumea în aşa fel încât să mergi spre asemenea direcţie, dar nimeni nu te opreşte. Nici inamicul tuturor nu trebuie să devii şi nici peştele care înoată împotriva curentului. Iubeşte viaţa şi bucură-te de anii 20!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/">
+    <title type="text">Cum să renunţi la concediu ca să munceşti mai mult</title>
+    <id>urn:uuid:0892cfa2-561c-3e25-b6b1-7c95df6477d7</id>
+    <updated>2018-04-18T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Nu e chiar aşa de teribil pe cum sună şi nici nebun nu trebuie să fii.&lt;/p&gt;
+&lt;p&gt;După cum &lt;strong&gt;Charles T. Munger&lt;/strong&gt; spune,&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;To get what you want, you have to deserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dacă îţi iei oricând 3 zile de concediu, cu tot cu weekend, înseamnă 5 zile neîntrerupte în care poţi lucra într-un mediu izolat la ceva important. Sunt 14 ore pe zi în care lucrezi la o singură problemă, 5 zile la rând. Cam în 70 de ore poţi rezolva o problemă importantă ce nu poate fi abordată în zgomotul de zi cu zi, sau doar în weekenduri. La 21 zile de concediu, înseamnă că poţi rezolva 7 astfel de probleme pe an.&lt;/p&gt;
+&lt;p&gt;În IT nu trebuie să te gândeşti prea mult ca să găseşti o astfel de problemă. Dar sunt şi alte exemple. Poate vrei să îţi pui sănătatea la punct, sau poate să planifici ce faci cu familia pe termen mediu-lung. Poate vrei să plănuieşti cât să pui deoparte până să ieşi la pensie şi să vezi dacă ce faci azi te duce mai aproape acolo, cât de puţin.&lt;/p&gt;
+&lt;p&gt;În 10 ani poţi rezolva 70 de probleme mari care te apasă azi. Cum te-ai simţi dacă ai şti sigur că timpul trece în favoarea ta şi rezolvi probleme din ce în ce mai provocatoare?&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/04/enable-watchdog-on-rpi3/">
+    <title type="text">How to enable watchdog on Raspberry Pi 3</title>
+    <id>urn:uuid:cfc49617-db61-3295-a8bf-9a025ed80c20</id>
+    <updated>2018-04-09T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/04/enable-watchdog-on-rpi3/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Here, a real quick setup of the watchdog on Raspberry Pi.&lt;/p&gt;
+&lt;p&gt;It is a hardware counter. If OS becomes unresponsive and the counter is not reset, Pi will automatically reboot.&lt;/p&gt;
+&lt;p&gt;First enable watchdog from &lt;code&gt;/boot/config.txt&lt;/code&gt;, adding the following line:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;dtparam=watchdog=on
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then install watchdog service:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo apt install watchdog
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Uncomment the following line from &lt;code&gt;/etc/watchdog.conf&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;max-load-1              = 24
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Restart your Raspberry.&lt;/p&gt;
+&lt;p&gt;After restart, test watchdog with bomb fork:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:(){ :|: &amp;amp; };:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This command will render your Pi unusable, and watchdog will kick in and reboot your Raspberry!&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/cum-sa-faci-2018-un-an-super-productiv/">
+    <title type="text">Cum să faci 2018 un an super productiv?</title>
+    <id>urn:uuid:91fe41a5-94fc-3ae5-a2b7-f78ddf8cf847</id>
+    <updated>2018-01-15T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/cum-sa-faci-2018-un-an-super-productiv/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Dacă vrei să ai un 2018 super productiv, uite un simplu trick.&lt;/p&gt;
+&lt;p&gt;Închide toate notificările. De la telefon, toate.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;facebook - OFF&lt;/li&gt;
+&lt;li&gt;oţap - OFF&lt;/li&gt;
+&lt;li&gt;mail - OFF&lt;/li&gt;
+&lt;li&gt;orice altceva - OFF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Puneţi chiar şi telefonul pe mut. Dacă nu aştepţi vreun curier, de ce să ai telefonul pe sonor? În 2018 există WhatsApp, scrii la om când ai nevoie de ceva, sau îi laşi un mesaj audio. Omul, răspunde şi el când poate.&lt;/p&gt;
+&lt;p&gt;Multe lucruri pot fi super urgente acum. Dar dacă peste 5 ani nu mai contează absolut deloc ce arde acum, te numeşti pompier, nu om care îşi face 2018 cum vrea el.&lt;/p&gt;
+&lt;p&gt;Ai numai atâta capacitate de a face lucruri. Cu cât ai mai multe pe cap, cu atât faci mai puţin, ce mai poate încape într-un pahar deja plin? Cu cât eşti mai reactiv faţă de lucrurile care se întâmplă acum, cu atât eşti mai puţin inovativ în a-ţi face viaţa.&lt;/p&gt;
+&lt;p&gt;Cum vrei să înveţi dacă nu ai spaţiul necesar?&lt;/p&gt;
+&lt;p&gt;Cum vrei să schimbi, dacă nu ai loc pentru schimbare?&lt;/p&gt;
+&lt;p&gt;Nu mai aştepta, nu ai nevoie de acordul nimănui. Acordul e 100% al tău. Dacă ai un 2018 mizerabil, ghici cine e de vină şi responsabil fără dar şi poate?&lt;/p&gt;
+&lt;p&gt;Prima dată când eşti focusat cu adevărat îţi dai seama atunci când rămâi în urmă cu restul lucrurilor.&lt;/p&gt;
+&lt;p&gt;Da, e normal. Când faci ceva. Rămân în urmă familia, timpul liber, sănătatea. Poţi jongla numai cu atâtea la un moment dat. Dacă faci prea multe le strici pe toate, dacă ignori unele e posibil să le pierzi definitiv. Timpul cu familia nu se mai poate recupera. Sănătatea dacă se duce, se duc toate cu ea. Banii în schimb se pot reface.&lt;/p&gt;
+&lt;p&gt;E nasol, dar ce poţi face? :)&lt;/p&gt;
+&lt;p&gt;Articole suplimentare:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.earlytorise.com/identifies-what-really-matters&quot;&gt;Cum ştii ce e cu adevărat important&lt;/a&gt; de Craig Ballantyne&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.stevepavlina.com/blog/2013/01/please-dont-interrupt/&quot;&gt;Please Don’t Interrupt&lt;/a&gt; de Steve Pavlina&lt;/li&gt;
+&lt;li&gt;cartea &lt;a href=&quot;https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776&quot;&gt;One thing&lt;/a&gt; sau &lt;a href=&quot;http://www.elefant.ro/carti/carte/self-help/dezvoltare-personala/un-singur-lucru-adevarul-neasteptat-de-simplu-de-la-baza-oricarei-reusite-235878.html&quot;&gt;Un singur lucru&lt;/a&gt; de Gary Keller şi Jay Papasan&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/clone-all-bitbucket-repositories-locally/">
+    <title type="text">Clone all your Bitbucket repositories locally</title>
+    <id>urn:uuid:40f4ab84-18f9-30b7-8693-3fc394aa26a9</id>
+    <updated>2018-01-10T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/clone-all-bitbucket-repositories-locally/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Following &lt;a href=&quot;https://status.bitbucket.org/incidents/z029156p1svh&quot;&gt;latest Bitbucket incident&lt;/a&gt;, you may ask what could happen if the service would crash? You'll loose all your repos? How could you prevent this?&lt;/p&gt;
+&lt;p&gt;Last year GitLab had a &lt;a href=&quot;https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/&quot;&gt;serious incident with one of their databases&lt;/a&gt; and they lost six hours of database data (issues, merge requests, users, comments, snippets, etc.) for GitLab.com.&lt;/p&gt;
+&lt;p&gt;No matter what you are using, if the service goes down, what can you do to save your data and how can you protect yourself in case of a service failure?&lt;/p&gt;
+&lt;p&gt;Let's start with the simplest measurement you can take. We will clone all your Bitbucket repos locally.&lt;/p&gt;
+&lt;p&gt;Using Bitbucket API:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D&quot;&gt;/2.0/repositories/{username}&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can get a list of repos under your account. Having this list you can iterate &lt;code&gt;git clone&lt;/code&gt; over project names.&lt;/p&gt;
+&lt;p&gt;For this we will use the &lt;code&gt;bitbucket-backup&lt;/code&gt; python script, made by &lt;a href=&quot;https://github.com/samkuehn/bitbucket-backup&quot;&gt;samkuehn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Install Python, if you don't have it already in your system. &lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;Download binaries here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Clone / download &lt;code&gt;bitbucket-backup&lt;/code&gt; python script:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git clone https://github.com/samkuehn/bitbucket-backup.git
+cd bitbucket-backup
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Run the script:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;# use -u to specify username user to log in
+# use -l to specify download location
+# use -t to specify the team you want to download repositories from
+# use --http to clone repositories with https instead of ssh
+# see full list of parameters here https://github.com/samkuehn/bitbucket-backup/blob/master/README.md#quickstart
+python bitbucket-backup -u bitbucket_user -l repos --http
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Enter password and wait... your repositories will be downloaded and cloned locally in &lt;code&gt;repos&lt;/code&gt; folder.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;2018-01-10 09:18:38.949947 - Backing up [repo1]...
+2018-01-10 09:18:41.641931 - Backing up [repo2]...
+2018-01-10 09:18:43.937138 - Finished!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Running the same command again will update the existing repositories.&lt;/p&gt;
+&lt;p&gt;Even more info:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;usage: bitbucket-backup [-h] [-u USERNAME] [-p PASSWORD] [-k OAUTH_KEY]
+                        [-s OAUTH_SECRET] [-t TEAM] [-l LOCATION] [-v] [-q]
+                        [-c] [-a ATTEMPTS] [--mirror] [--with-wiki] [--http]
+                        [--skip-password] [--prune]
+                        [--ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]]
+
+Usage: %prog [options]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -u USERNAME, --username USERNAME
+                        Bitbucket username
+  -p PASSWORD, --password PASSWORD
+                        Bitbucket password
+  -k OAUTH_KEY, --oauth-key OAUTH_KEY
+                        Bitbucket oauth key
+  -s OAUTH_SECRET, --oauth-secret OAUTH_SECRET
+                        Bitbucket oauth secret
+  -t TEAM, --team TEAM  Bitbucket team
+  -l LOCATION, --location LOCATION
+                        Local backup location
+  -v, --verbose         Verbose output of all cloning commands
+  -q, --quiet           No output to stdout
+  -c, --compress        Creates a compressed file with all cloned repositories
+                        (cleans up location directory)
+  -a ATTEMPTS, --attempts ATTEMPTS
+                        max. number of attempts to backup repository
+  --mirror              Clone just bare repositories with git clone --mirror
+                        (git only)
+  --with-wiki           Includes wiki
+  --http                Fetch via https instead of SSH
+  --skip-password       Ignores password prompting if no password is provided
+                        (for public repositories)
+  --prune               Prune repo on remote update
+  --ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]
+                        specify list of repo slug names to skip
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The following script is tested and working on Windows with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Git for Windows 12.15.1&lt;/li&gt;
+&lt;li&gt;Python 3.6.4&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/mod-your-huawei-p8-lite/">
+    <title type="text">Mod your Huawei p8 lite</title>
+    <id>urn:uuid:8d799cfa-f542-3a81-ae0d-5544dba4da9b</id>
+    <updated>2018-01-09T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/mod-your-huawei-p8-lite/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;h1&gt;1. Get bootloader unlock code&lt;/h1&gt;
+&lt;p&gt;First, create an account here:
+&lt;a href=&quot;https://emui.huawei.com&quot;&gt;https://emui.huawei.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Log in and complete this form to get unlock code for your phone:
+&lt;a href=&quot;https://emui.huawei.com/en/plugin/unlock/detail&quot;&gt;https://emui.huawei.com/en/plugin/unlock/detail&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You'll get a 16 digits code, save it, we'll use it in the next step.&lt;/p&gt;
+&lt;h1&gt;2. Unlock bootloader&lt;/h1&gt;
+&lt;p&gt;Connect phone to pc, and run:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo adb devices
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Reboot phone into fastboot mode:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;adb reboot bootloader
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Install fastboot on ubuntu:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt install android-tools-fastboot
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As phone is in fastboot mode, check if device is detected:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo fastboot devices
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Unlock phone's bootloader&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo fastboot oem unlock 16_DIGIT_UNLOCK_CODE_HERE
+...
+OKAY [  2.359s]
+finished. total time: 2.359s
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Also see &lt;a href=&quot;https://emui.huawei.com/en/plugin/unlock/step&quot;&gt;official instructions&lt;/a&gt; for unlocking bootloader.&lt;/p&gt;
+&lt;h1&gt;3. Install TWRP&lt;/h1&gt;
+&lt;p&gt;Download TWRP 3.1.1-0 from &lt;a href=&quot;https://forum.xda-developers.com/p8lite/orig-development/twrp-t3583180&quot;&gt;xda-developers&lt;/a&gt;.
+Double check md5sum of the file, it should be: 29e1c65cf48803892946e858ebe950cf.&lt;/p&gt;
+&lt;p&gt;Flash the image:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo fastboot flash recovery recovery.img 
+target reported max download size of 471859200 bytes
+sending &amp;#39;recovery&amp;#39; (25152 KB)...
+OKAY [  0.628s]
+writing &amp;#39;recovery&amp;#39;...
+OKAY [  0.735s]
+finished. total time: 1.363s
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, as mentioned &lt;a href=&quot;https://forum.xda-developers.com/showpost.php?p=71429023&amp;amp;postcount=73&quot;&gt;here&lt;/a&gt;, next step is to reboot device in this way:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;press &amp;amp; keep pressed volume UP button&lt;/li&gt;
+&lt;li&gt;run &lt;code&gt;sudo fastboot reboot&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;unplug usb cable from phone&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TWRP will now load!&lt;/p&gt;
+&lt;p&gt;Leave phone as is and go to next step.&lt;/p&gt;
+&lt;h1&gt;2. Update phone to stock EMUI 4.1&lt;/h1&gt;
+&lt;p&gt;While in TWRP mode, from Wipe screen, do a &lt;code&gt;Format Data&lt;/code&gt; and then a &lt;code&gt;Factory Reset&lt;/code&gt; to wipe dalvik/cache.&lt;/p&gt;
+&lt;p&gt;Download &lt;a href=&quot;https://forum.xda-developers.com/showpost.php?p=73230358&amp;amp;postcount=2&quot;&gt;stock EMUI 4.1 ROM&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;b895_update.zip for single sim version, md5 0868fab65e2a38bff95408c02ffa0aba&lt;/li&gt;
+&lt;li&gt;B896_update.zip for dual sim version, md5 2b3d6b4b0945592ce506d44874f00d73&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, create an empty &lt;code&gt;b895_update.zip.md5&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;0868fab65e2a38bff95408c02ffa0aba
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;OR &lt;code&gt;B896_update.zip.md5&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;2b3d6b4b0945592ce506d44874f00d73
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You will see the phone as a removable device. Copy the downloaded zip and md5 file to internal memory.&lt;/p&gt;
+&lt;p&gt;Md5 file will check for zip integrity before flashing on the phone.&lt;/p&gt;
+&lt;p&gt;From the Install menu, select zip file and then &lt;code&gt;Swipe to confirm Flash&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Reboot phone.&lt;/p&gt;
+&lt;p&gt;If phone freezes with Huawei logo for more than 5 minutes, reboot phone by pressing power button for 10 seconds.&lt;/p&gt;
+&lt;h2&gt;Warning!&lt;/h2&gt;
+&lt;p&gt;After this step, in TWRP you will see 0MB internal storage.&lt;/p&gt;
+&lt;h1&gt;3. Install Custom ROM Android 7.1.2 / 8.0 BETA&lt;/h1&gt;
+&lt;p&gt;Download one of these:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;android 7.1.2 &lt;a href=&quot;https://forum.xda-developers.com/p8lite/development/rom-t3606568&quot;&gt;https://forum.xda-developers.com/p8lite/development/rom-t3606568&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;android 8.0 BETA &lt;a href=&quot;https://forum.xda-developers.com/p8lite/development/rom-t3707374&quot;&gt;https://forum.xda-developers.com/p8lite/development/rom-t3707374&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Download &lt;a href=&quot;http://opengapps.org/&quot;&gt;opengapps&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ARM64, android 7.1, nano &lt;/li&gt;
+&lt;li&gt;ARM64, android 8.0, nano&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reboot phone into recovery. Do a &lt;code&gt;Format Data&lt;/code&gt; and a &lt;code&gt;Wipe cache/dalvik&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Copy ROM zip and opengapps zip to internal memory.&lt;/p&gt;
+&lt;p&gt;From Install screen, add ROM zip. Then choose &lt;code&gt;Add more Zips&lt;/code&gt; and add opengapps zip. Then &lt;code&gt;Swipe to confirm Flash&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Reboot system.&lt;/p&gt;
+&lt;p&gt;You should now boot in your new Custom ROM.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/remove-changed-files-in-git-working-folder/">
+    <title type="text">Remove changed files in git working folder</title>
+    <id>urn:uuid:407ade4b-d615-3651-a96d-fb6695eca609</id>
+    <updated>2018-01-08T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/remove-changed-files-in-git-working-folder/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Git has &lt;a href=&quot;https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#_the_three_states&quot;&gt;three states&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;working directory&lt;/li&gt;
+&lt;li&gt;staging area (index), files marked to be included in the next commit&lt;/li&gt;
+&lt;li&gt;.git directory, for files already in the git tree&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometimes you may want to restore changed or staged files back as they were in last commit.&lt;/p&gt;
+&lt;h3&gt;To remove changed files use:&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;# this will discard changes to existing files
+# and switch back to master branch
+# works even for staged changes
+git checkout -f master
+
+# this will remove untracked files
+# add -d to remove untracked folders
+# add -x to remove .gitignored files
+git clean -f
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;Example from scratch&lt;/h3&gt;
+&lt;p&gt;Clone a sample repo &lt;code&gt;hello-world/php&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git clone git@labs.moneysmart.top:hello-world/php.git hello-world-php
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Create and edit some files:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;cd hello-world-php
+
+# create new file
+touch new_file
+
+# modify existing file
+echo &amp;quot;Add new line to existing file&amp;quot; &amp;gt;&amp;gt; README.md
+
+# stage README.md file
+git add README.md
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To see current repository status:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git status
+On branch master
+Your branch is up to date with &amp;#39;origin/master&amp;#39;.
+
+Changes to be committed:
+  (use &amp;quot;git reset HEAD &amp;lt;file&amp;gt;...&amp;quot; to unstage)
+
+        modified:   README.md
+
+Untracked files:
+  (use &amp;quot;git add &amp;lt;file&amp;gt;...&amp;quot; to include in what will be committed)
+
+        new_file
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now run the &lt;code&gt;git checkout -f master&lt;/code&gt; and &lt;code&gt;git clean -f&lt;/code&gt; commands to get back to last commit.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/">
+    <title type="text">Dynamic DNS with ddclient and Cloudflare</title>
+    <id>urn:uuid:803bde49-e760-3450-a5cc-b03661f57ed4</id>
+    <updated>2018-01-04T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;From the Cloudflare side, add desired subdomain you want to map.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/cloudflare_add_subdomain.png&quot; alt=&quot;add subdomain&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Put a dummy IP address (127.0.0.1), deactivate orange cloud and click Add Record.&lt;/p&gt;
+&lt;p&gt;Next, from &lt;a href=&quot;https://www.cloudflare.com/a/profile&quot;&gt;My profile&lt;/a&gt; page get Global API Key.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/cloudflare_get_global_api_key.png&quot; alt=&quot;get global api key&quot;&gt;&lt;/p&gt;
+&lt;p&gt;On a machine with a dynamic public ip, install ddclient with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt update
+sudo apt install ddclient libjson-any-perl
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Update &lt;code&gt;/etc/default/ddclient&lt;/code&gt;:&lt;br&gt;
+Check for &lt;strong&gt;run_daemon=&quot;true&quot;&lt;/strong&gt; and update &lt;strong&gt;daemon_interval&lt;/strong&gt; to preferred value, default is 300 seconds.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# Configuration for ddclient scripts
+# generated from debconf on Fri 24 Nov 21:37:56 EET 2017
+#
+# /etc/default/ddclient
+
+# Set to &quot;true&quot; if ddclient should be run every time DHCP client ('dhclient'
+# from package isc-dhcp-client) updates the systems IP address.
+run_dhclient=&quot;false&quot;
+
+# Set to &quot;true&quot; if ddclient should be run every time a new ppp connection is
+# established. This might be useful, if you are using dial-on-demand.
+run_ipup=&quot;false&quot;
+
+# Set to &quot;true&quot; if ddclient should run in daemon mode
+# If this is changed to true, run_ipup and run_dhclient must be set to false.
+run_daemon=&quot;true&quot;
+
+# Set the time interval between the updates of the dynamic DNS name in seconds.
+# This option only takes effect if the ddclient runs in daemon mode.
+daemon_interval=&quot;60&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Insert valid email, API Key and update the subdomains you want to update in &lt;code&gt;/etc/ddclient.conf&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# Configuration file for ddclient generated by debconf
+#
+# /etc/ddclient.conf
+
+##
+### CloudFlare config
+###
+
+ssl=yes
+use=web, web=dyndns
+protocol=cloudflare,
+server=www.cloudflare.com
+login=INSERT_CLOUDFLARE_EMAIL
+password=INSERT_CLOUDFLARE_API_TOKEN
+
+# set domain and subdomain to update
+zone=domain1.com
+sub1.domain1.com
+
+# OPTIONAL
+# sub2.domain1.com
+
+# OPTIONAL
+# zone=domain2.com
+# sub1.domain2.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Test current config with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo ddclient -daemon=0 -debug -verbose -noquiet
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Restart ddclient service:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo service ddclient restart
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now ddclient is up and running as is checking for DNS updates every 60 seconds.&lt;/p&gt;
+&lt;p&gt;Check service status with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo service ddclient start
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;These instructions have been tested on ubuntu 16.04 and raspberry pi with raspbian stretch.&lt;/p&gt;
+&lt;p&gt;Future work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pack the service as a docker container, run service from a single command.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more in depth instructions read &lt;a href=&quot;https://samhobbs.co.uk/2015/01/dynamic-dns-ddclient-raspberry-pi-and-ubuntu&quot;&gt;Dynamic DNS with ddclient on Raspberry Pi and Ubuntu&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/install-and-run-github-pages-locally/">
+    <title type="text">Install and run GitHub Pages locally</title>
+    <id>urn:uuid:89abd7c2-d7fa-3f0f-9928-b88ea7ac822a</id>
+    <updated>2018-01-03T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/install-and-run-github-pages-locally/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;This site is powered by Jekyll &amp;amp; GitHub Pages.&lt;/p&gt;
+&lt;p&gt;To run your own copy locally install ruby &amp;amp; bundler:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt-get update -y
+sudo apt-get install -y ruby ruby-dev zlib1g-dev
+sudo gem install bundler
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Install git:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt-get install -y git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Clone site repository locally:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git clone https://github.com/adrianharabula/adrianharabula.github.io.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Install necessary GitHub Pages dependencies:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;cd adrianharabula.github.io
+bundle install
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Serve your own copy locally:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;bundle exec jekyll serve
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now site is accesible locally at &lt;a href=&quot;http://localhost:4000&quot;&gt;localhost:4000&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Future work&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Automate dependencies installation with Docker.&lt;/li&gt;
+&lt;li&gt;Make a demo how to make a pull request to update site&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/how-to-wake-on-lan/">
+    <title type="text">How to Wake On Lan</title>
+    <id>urn:uuid:2c2b4cae-964d-3b90-b8be-40899cec3df6</id>
+    <updated>2018-01-02T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/how-to-wake-on-lan/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;First, you need to have WOL enabled in bios. See &lt;a href=&quot;https://www.howtogeek.com/70374/how-to-geek-explains-what-is-wake-on-lan-and-how-do-i-enable-it/&quot;&gt;What Is Wake-on-LAN, and How Do I Enable It?&lt;/a&gt; for instructions.&lt;/p&gt;
+&lt;p&gt;Second, you need &lt;a href=&quot;https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan&quot;&gt;Wake on Lan&lt;/a&gt; app on Android to wake up your PC's.&lt;/p&gt;
+&lt;p&gt;As the PC you want to control is turned on, open the Android app and scan the network.&lt;/p&gt;
+&lt;p&gt;Add the desired PC (MAC address) to the bookmark list.&lt;/p&gt;
+&lt;p&gt;Suspend the PC with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo systemctl suspend
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, from Android phone, click to Wake on LAN your PC.&lt;/p&gt;
+&lt;p&gt;See demo video:&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;480px&quot; src=&quot;https://www.youtube.com/embed/-jBCUAHkNlM&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;h3&gt;Warning!&lt;/h3&gt;
+&lt;p&gt;WOL is not working through a OpenVPN TUN setup, need more documenting how to make this work.&lt;/p&gt;
+&lt;p&gt;Future work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://bish.co.uk/2013/04/25/raspberry-pi-as-a-wol-server/&quot;&gt;#1&lt;/a&gt; if option above not working, make a WOL server so that you can remote wake up pc from the internet through VPN&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dferg/WakeProxyd&quot;&gt;#2&lt;/a&gt; make WOL work even if your BIOS is not capable (by using a router/raspberry GPIO port connected to PC power switch)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/linux-in-your-home-router/">
+    <title type="text">Linux in your home router</title>
+    <id>urn:uuid:4128d8c7-c751-395e-90a6-050abebc659d</id>
+    <updated>2018-01-01T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2018/01/linux-in-your-home-router/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;When you have some old routers lying around,&lt;/p&gt;
+&lt;p&gt;And default interface is not enough...&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2018/01/linux-in-your-home-router/standard_router_firmware.jpg&quot; alt=&quot;standard_router_firmware.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;You can bring old routers back to life, by installing Linux! :D&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2018/01/linux-in-your-home-router/a_bunch_of_routers_and_a_raspberry_pi.jpg&quot; alt=&quot;a_bunch_of_routers_and_a_raspberry_pi.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Some things you can do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/&quot;&gt;#1&lt;/a&gt; transform router into a reverse proxy and access it from outsite a firewalled network with ssh&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4GlFipedUrs&quot;&gt;#2&lt;/a&gt; solder more RAM to your router&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7Dwfdhn0nJM&quot;&gt;#3&lt;/a&gt; solder new chip with more memory &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://forum.openwrt.org/viewtopic.php?id=60707&quot;&gt;#4&lt;/a&gt; add usb ports to your router&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BMMz_KJMwTk&quot;&gt;#5&lt;/a&gt; use router gpio led ports to control stuff remotely&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi&quot;&gt;#6&lt;/a&gt; make you DIY router with OpenWrt and Raspberry Pi &lt;/li&gt;
+&lt;li&gt;and many more :D&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/11/dece-facultate/">
+    <title type="text">De ce o facultate</title>
+    <id>urn:uuid:977f5a78-51f2-3de6-9cdb-82532b67dc9a</id>
+    <updated>2016-11-10T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2016/11/dece-facultate/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Încă nu știu de ce ocupându-mă full time de startup m-am întors la facultate.&lt;/p&gt;
+&lt;p&gt;Poate am crezut că nu strică ceva statut social căci ăsta a lipsit total cât am lucrat pe cont propriu sau poate m-am gândit să fac părinții să salte în sus de bucurie că în sfârșit fac ceva cu viața mea sau poate pur și simplu am venit să termin ceva ce am lăsat neterminat mai demult și ar fi frumos să rezolv acum.&lt;/p&gt;
+&lt;p&gt;Sau poate am vrut să iau o vacanță de la săptămânile de lucru de 90 de ore, căci după un timp, uzura se adună... afacerile nu sunt cel mai ușor lucru de pe lume.&lt;/p&gt;
+&lt;p&gt;Nu știu să dau un răspuns de ce m-am întors, pentru că nu îl am.&lt;/p&gt;
+&lt;p&gt;Dar ce pot să zic, e că &lt;strong&gt;viața asta nu poți face numai ce îți place. Vor fi o groază de lucruri pe care nu îți va face plăcere să le faci, dar va trebui să le faci.&lt;/strong&gt; Facultatea e unul din ele.&lt;/p&gt;
+&lt;p&gt;În afara facultății, povestea e aceeași, nu scapi de aceste lucruri. Atunci când lucram la startup, pe cât de mult mi-a plăcut să concep aplicația, să-i scriu codul și să prezint asta la un client care să plătească pentru ea, pe atât de mult mi-a displăcut să dau telefoanele de vânzare, să iau zecile de refuzuri și să fac asta în timpul în care mai degrabă aș fi scris cod.&lt;/p&gt;
+&lt;p&gt;Dar dacă vrei să mergi mai departe, unele lucruri trebuie duse la capăt. Nu e plăcut, dar e ceva ce trebuie făcut, &lt;em&gt;stuff to get done&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Și mai mult decât atât, va trebui să-ți dai tot interesul față de acest &lt;em&gt;stuff to get done&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Au trecut cam 5 ani de când am ajuns prima dată la facultate și cu puțini colegi am păstrat legătura constant de-a lungul acestui timp. Unii din ei, habar nu aveau IT dar azi au un job în IT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unul din lucrurile care i-a diferențiat față de cei care nici azi nu au un job în IT, este capabilitatea de a face lucruri care trebuie făcute, chiar dacă nu sunt plăcute.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pentru unii a însemnat să meargă la un job nelegat de IT în paralel cu facultatea. Asta a implicat la un moment dat să facă și saltul, acel moment când anii de experiență într-un anume domeniu i-au aruncat pentru un job entry level în IT, plătit cu mult mai puțin decât vechiul lor job. Plăcut? În niciun caz. Dar era &lt;em&gt;stuff to get done&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Alții au început lucrând aproape pe gratis. Mai încolo ce au lucrat și-au dat seama că au făcut pe peanut money... Și-au dat seama că ar fi putut face și ei asta pe cont propiu și ar fi luat mai mulți bani, ar fi avut mai mult timp liber și ar fi avut o idee mai bună. Dar nu regretă pentru că și un job sub plătit e mai bun decât niciun job, asta le-a oferit tracțiune să meargă mai departe. Și în plus au și o lecție învățată...&lt;/p&gt;
+&lt;p&gt;Dar pe departe cea mai interesantă categorie mi se pare că sunt cei care pur și simplu nu puteau digera concepte IT. Dar au continuat, cu orice preț. Au făcut ca înțelegerea acelor concepte să fie singura opțiune. Au făcut asta, găsind ceva ce le place atât de mult încât restul problemelor să fie irelevante.
+Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor, dar au găsit acel ceva care le place atât de mult încât i-a pus să facă și lucrurile care nu le plac, dar care trebuie făcute pentru a merge înainte.&lt;/p&gt;
+&lt;p&gt;Încă nu știu să zic de ce am ajuns la facultate, sau de ce am ajuns să dau telefoanele când lucram la startup. Dar ce pot să zic e că erau stuff to get done. Nu erau plăcute, dar dacă erau făcute mergeai mai departe. Dacă nu, apăreau probleme.&lt;/p&gt;
+&lt;p&gt;Cam asta e.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/">
+    <title type="text">De ce Rent A Pet au câștigat și ceilalți nu?</title>
+    <id>urn:uuid:f5484a8c-b7e4-31a3-a357-c13d8243652c</id>
+    <updated>2016-11-01T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/" />
+    <author>
+      <name></name>
+    </author>
+    <content type="html">&lt;p&gt;Îmi amintesc pitchul... Era prezentat bine, era ceva scos pe moment, era vorba de un app unde să cauți oameni la care poți să îți lași animăluțul atunci când pleci pe undeva. De aici și numele, Rent a Pet.&lt;/p&gt;
+&lt;p&gt;Pe moment, nu ai fi zis că ar putea fi ceva interesant, erau și alte idei în sală... Dar nu era vorba de persoana care prezenta și nici de idee. Pentru că un singur lucru conta mai mult decât amândouă la un loc, și anume echipa.&lt;/p&gt;
+&lt;p&gt;2 zile mai încolo, &lt;a href=&quot;https://www.facebook.com/rentapet&quot;&gt;Rent A Pet&lt;/a&gt; au luat locul 1 la Startup Weekend Iași. Voi prezenta în continuare câteva lucruri, pe care ei le făceau și celelalte echipe nu, încă dinainte de a fi premiați.&lt;/p&gt;
+&lt;h1&gt;1. În primul rând, echipa&lt;/h1&gt;
+&lt;p&gt;Având 10 membrii, au fost una din cele mai numeroase echipe. Perechi de câte 2 se cunoșteau dinainte și au ajuns în aceeași echipă. Faptul că erau astfel de subgrupuri, i-a ajutat să fie uniți până la sfârșit. Dar cum au reușit să ducă la capăt un produs câștigător într-un weekend?&lt;/p&gt;
+&lt;h1&gt;2. Fiecare a avut treaba lui, de care era responsabil.&lt;/h1&gt;
+&lt;p&gt;Se știa foarte bine fiecare ce are de făcut. Când un mentor trecea pe lângă masă, vedea exact ce lucrează fiecare. Se știa exact persoana căruia să te adresezi pentru ceva anume.&lt;/p&gt;
+&lt;p&gt;Nu era vorba despre idee în sine ci despre fiecare ce poate face ca echipa să ajungă către destinația comună.&lt;/p&gt;
+&lt;p&gt;Știau de la început unde vor fi la sfârșit. Doar și-au împărțit sarcinile și au mers mai departe.&lt;/p&gt;
+&lt;h1&gt;3. Orice lucru început, era terminat.&lt;/h1&gt;
+&lt;p&gt;Au avut chestii terminate. Stickere terminate, app de android terminat, sait terminat. Au dus la capăt tot ceea ce au început, tot ceea ce a fost prezentat, era la stadiul finished. Nimic nu era lăsat pe mai încolo. Orice a fost prezentat se putea confirma cu hard workul din spate.&lt;/p&gt;
+&lt;h1&gt;4. Nu au avut niciodată impresia că vor câștiga.&lt;/h1&gt;
+&lt;p&gt;Nici măcar după prezentările finale! Asta i-a determinat să lucreze la foc continuu, oriunde, oricând, indiferent de moment, la orice minut. Tot timpul era ceva ce se putea face un pic mai bine, și au folosit fiecare minut pentru astfel de ajustări mici.&lt;/p&gt;
+&lt;p&gt;Știau că are valoare ceea ce fac, dar niciodată nu au crezut peste măsură asta. Nu înainte să munceasă din greu. Nu înainte să asculte și părerea altora. Știau că cineva ar putea știi mai multe decât ei și au folosit fiecare conversație să afle mai mult. Din fiecare conversație plecau cu ceva în plus pentru că... ascultau!&lt;/p&gt;
+&lt;h1&gt;5. Proiectul era real. Au construit un brand.&lt;/h1&gt;
+&lt;p&gt;Au fost singurii care la sfârșit au avut stickere cu logoul lor, flyere cu Rent A Pet în toată sala, singurii care au avut chiar și mape cu logoul lor. Poate însemna o nimica toată asta, pentru că toată lumea face deja asta, dar în situația dată, au fost singurii din cele 8 echipe participante care au avut asta.&lt;/p&gt;
+&lt;p&gt;Toată lumea știa cine sunt cei cu Rent A Pet la sfârșit. Oricine vedea logoul, vizita pagina de facebook, descărca aplicația Android, absolut oricine știa despre ce era vorba. Au adunat oameni interesați. O comunitate în jurul idei deja se forma.&lt;/p&gt;
+&lt;p&gt;Astea sunt pe scurt lucrurile care ei le făceau și ceilalți nu. Făcând cele de mai sus au pus ca șansele să lucreze pentru ei, nu împotriva lor.&lt;/p&gt;
+&lt;p&gt;Pe cealaltă parte, restul făceau lucrurile pe dos, cum ar fi:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;era despre ideea lor, credeau peste măsură că ceea ce lucrează este grozav, neavând o imagine precisă și conformă cu realitatea asupra a ceea ce făceau&lt;/li&gt;
+&lt;li&gt;nu știa fiecare ce are de făcut și încotro se merge, direcția nu era clară&lt;/li&gt;
+&lt;li&gt;nu aveau un brand, tot ceea ce făceau se putea copia ușor&lt;/li&gt;
+&lt;li&gt;purtau pică celor care erau mai buni ca ei, nu se bucurau de succesul altora.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;se pricepeau la nimicuri, și nu se pricepeau la lucrurile care contau cu adevărat. Lucrau la logo, mai mult decât la lucruri cheie care să facă oamenii să plătească pentru ceea ce ofereau.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rentapet.co&quot;&gt; &lt;img src=&quot;../../../../../en/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg&quot; alt=&quot;Rent A Pet&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/03/primul-venit-din-freelancing/">
+    <title type="text">Primul venit din freelancing</title>
+    <id>urn:uuid:4be6d229-3ec1-3e07-9240-5c5af3fbcf2d</id>
+    <updated>2016-03-24T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2016/03/primul-venit-din-freelancing/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Acum un an, în ianuarie ajunsesem în Iaşi cu 5 lei în buzunar, după ce fusesem &lt;a href=&quot;http://www.meditatie.ro&quot;&gt;la Dumbrava la meditat&lt;/a&gt; o lună înainte. Nu am făcut prea multe cu ei, mi-am luat nişte mămăligă şi paste. A fost mâncarea mea 2 săptămâni.&lt;/p&gt;
+&lt;p&gt;Pentru prima dată am început să înţeleg eu cu adevărat pe-atunci cam ce înseamnă să ai încredere în tine. În mai puţin de 30 de zile avea să mi se decidă soarta. &lt;a href=&quot;http://crististefan.com/tenerife&quot;&gt;Ajung din nou homeless&lt;/a&gt;, sau reuşesc în sfârşit să mă susţin de unul singur?&lt;/p&gt;
+&lt;p&gt;De zeci de astfel de încercări am mai avut parte în ultimii ani, însă de fiecare dată am eşuat. Să fi reuşit acum… nu prea era aşteptat, însă nu mai conta.&lt;/p&gt;
+&lt;p&gt;Nimic nu mai aveam de pierdut oricum…&lt;/p&gt;
+&lt;p&gt;Iar eşecul cel mai mare, nu era chiar atât de înfricoşător, căci te puteai obişnui cu el rapid şi până la urmă, nu era chiar aşa greu de suportat. Ba din contra era chiar mai eliberator, căci mai degrabă regreți ce nu ai încercat decât ce ai făcut şi a mers prost.&lt;/p&gt;
+&lt;p&gt;Normal că nu e cel mai uşor lucru să te rupi de tot şi să fii pe pielea ta, dar dacă te aştepţi să urmeze vremuri grele, parcă vorbim pe altă limbă 🙂&lt;/p&gt;
+&lt;p&gt;Iar încă o încercare, cine ştie, ar fi putut fi încercarea care îmi arată în sfârşit calea…&lt;/p&gt;
+&lt;p&gt;Aşa că m-am pus pe treabă. Nu munceam intens, dar când eram la lucru, eram la lucru. Mi-am ales o platformă ce am crezut că are ceva potenţial la momentul de atunci… &lt;a href=&quot;https://hackhands.com/adrianharabula/&quot;&gt;hackhands.com&lt;/a&gt; şi am stat cu ea… până am sângerat!&lt;/p&gt;
+&lt;p&gt;Timpul tot trecea, o zi, două zile, o săptămână…&lt;/p&gt;
+&lt;p&gt;Rezultate nu prea erau…&lt;/p&gt;
+&lt;p&gt;Pastele erau gata deja, mămăliga se ducea şi ea…&lt;/p&gt;
+&lt;p&gt;Eventual a trebuit să fac greul… Pentru prima dată am cerut de mâncare… De la cine-am cerut, mi-a zis că bine am făcut deşi nu prea am înţeles eu pe atunci ce putea fi atât de bine în asta. Binele era că mi-am dat seama că eu credeam că mă descurc dar în realitate nu mă descurcam, iar primind mâncare am lăsat mândria deoparte și am început să îmi evaluez mai realist capabilitățile.&lt;/p&gt;
+&lt;p&gt;Niciodată nu reuşeşti de unul singur şi ăsta e unul din acele exemple.&lt;/p&gt;
+&lt;p&gt;Juma de lună deja trecuse, însă veştile bune erau că mai aveam încă 7 zile de mâncare asigurate.&lt;/p&gt;
+&lt;p&gt;Încă ceva zile rămase, însemnau încă ceva şanse de reuşită.&lt;/p&gt;
+&lt;p&gt;Evident, tot acest timp, a fost şi o zi mai specială, ca în orice poveste frumoasă.&lt;/p&gt;
+&lt;p&gt;Era ziua în care aşteptam clienţi, ca şi cele 15 zile precedente, nimic special sau diferit nu făcusem. Însă dintr-o dată, pac! a apărut primul client. 50$ făcuţi… 30 de zile de chirie înainte le aveam garantate.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prima dată în viaţă când am avut garanţia că 30 de zile am un acoperiş deasupra capului a fost pe de parte cel mai nepreţuit moment!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Luna a trecut de-atunci, încet, încet. La finele ei aveam per total 300$ făcuţi, cam de 6 ori mai mult decât cei 50$ pe care estimasem eu că am nevoie până la sfârşitul lunii ca să o duc mai departe încă o lună.&lt;/p&gt;
+&lt;p&gt;Era de altfel şi luna record de venit. 300$ într-o lună era un venit masiv, având în vedere că mai mult de 100$ nu-mi amintesc să fi scos vreodată din freelancing.&lt;/p&gt;
+&lt;p&gt;Mult credit reuşitei il atribui faptului că am ales o platformă şi am stat cu ea, chiar şi când lucrurile nu mergeau.&lt;/p&gt;
+&lt;p&gt;Începeam să mă gândesc pe unde să călătoresc, cum să dau o fugă pe acasă repede să le zic la părinți cum m-a lovit succesul peste noapte, ce buget să setez pentru mâncare, cât să pun deoparte pentru calculator…&lt;/p&gt;
+&lt;p&gt;Şi de la a te gândi că mâine nu mai ai acoperiş, era un salt… Era altă mentalitate…&lt;/p&gt;
+&lt;p&gt;Începuse să-mi placă… 🙂&lt;/p&gt;
+&lt;p&gt;Apropo… până atunci nu am avut PC, lucrasem de pe un calculator împrumutat…&lt;/p&gt;
+&lt;p&gt;2 luni mai încolo, abia prin martie îmi luasem un laptop, dar asta pe un articol viitor unde voi mai scrie ce a urmat după 😉&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/02/depresia-in-cautarea-sensului-vietii/">
+    <title type="text">Depresia în căutarea sensului vieţii</title>
+    <id>urn:uuid:2ef4e421-8eba-3e0f-bb03-5c338ee0c15a</id>
+    <updated>2016-02-08T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2016/02/depresia-in-cautarea-sensului-vietii/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Depresia e subiect sensibil, căci e foarte greu de descris. Nu m-am gândit vreodată că voi scrie despre depresie… Nu m-am gândit vreodată că sufăr de aşa ceva.&lt;/p&gt;
+&lt;p&gt;De cele mai multe ori eşti singur, gândindu-te despre viaţă şi ce sens are ea ore întregi. Şi dormind mult, mult prea mult, 9-12h.&lt;/p&gt;
+&lt;p&gt;Întrebând în jur de ce nu te sinucizi, sau care este motivul pentru care trăieşti acum, răspunsurile pot varia de la trăiesc pentru prieteni, familie sau pentru că vreau să devin ceva.&lt;/p&gt;
+&lt;p&gt;Cei din jurul tău te fac probabil să încă mai fii pe aici. Faptul că cineva depinde de tine sau te găseşte oarecum interesant e un motiv suficient ca să continui să fii.&lt;/p&gt;
+&lt;p&gt;În depresie te presează gândurile pe care le ai şi de care vrei să scapi…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;de ce să te ridici din pat… încă o zi naşpa de îndurat&lt;/li&gt;
+&lt;li&gt;de ce să scrii o linie de cod, s-ar putea să nu iasă… oricum e timp pierdut&lt;/li&gt;
+&lt;li&gt;de ce să mai scrii un articol, iar o să fie uitat, şters eventual necitit&lt;/li&gt;
+&lt;li&gt;de ce să ieşi afară, ce să faci? ai mai tot ieşit, nu are rost, oricum nu va schimba cu nimic…&lt;/li&gt;
+&lt;li&gt;iar să citeşti o carte!? Pentru ce? Cu ce crezi că te ajută?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;E greu să fii în capul tău…&lt;/p&gt;
+&lt;p&gt;Sentimentul de goliciune, sentimentul că după atâta mers şi chin, tot nu există o soluţie…&lt;/p&gt;
+&lt;p&gt;Plus catalizatorul magic, nu eşti ca ei, probabil nu ai un job ca toată lumea… ca să te ţină ocupat cu lucruri triviale.&lt;/p&gt;
+&lt;p&gt;De-a lungul timpului, orice aş fi făcut, eventual tot gol m-aş fi simţit niciodată nu aş fi fost suficient de bun. Niciun ţel anume nu m-ar fi scăpat. Şi nu e ca şi cum îţi doreşti să fii fericit îţi doreşti doar să scapi de sentimentul că nu eşti suficient de bun.&lt;/p&gt;
+&lt;p&gt;Aşa că fără prea multe adaosuri, şi azi depresia e tot acolo ea, dar am învăţat să co-trăiesc cu ea. Ştiu că există şi lucruri mai importante, care chiar mă fac să trăiesc cu adevărat. Lucruri simple de altfel cum ar fi:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;o întâlnire cu un vechi prieten&lt;/li&gt;
+&lt;li&gt;citit o carte&lt;/li&gt;
+&lt;li&gt;scris un articol, cum e acesta&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ştiu şi că unii oameni sunt fericiţi şi cu lucruri foarte simple, dar pentru mine se pare că nu funcţionează asta. Să fi avut un job stabil 9-5 cred că aş fi înnebunit. Totodată aventurile de-a lungul timpului mi-au dat un sens să merg mai departe de fiecare dată, într-un mod ciudat.&lt;/p&gt;
+&lt;p&gt;Şi se pare că tocmai pentru că toată aventura asta nu se termină, asta mă face şi să continui…&lt;/p&gt;
+&lt;p&gt;Prietenii, conversaţiile simple, atenţia acordată altora poate sunt unul din cele mai mari lucruri care m-au ajutat vreodată să trec peste.&lt;/p&gt;
+&lt;p&gt;Poate tot odată depresia te ajută să îţi dai seama cât de singur eşti, şi înţelegi mai bine că şi cei din jurul tău sunt cel puţin la fel de singuri.&lt;/p&gt;
+&lt;p&gt;Poate asta îţi dă un sens dincolo de tine, să vezi că şi cel de lângă tine suferă şi el, diferit, dar la fel…&lt;/p&gt;
+&lt;p&gt;O carte interesantă pe acest subiect este &lt;a href=&quot;http://www.amazon.co.uk/Reasons-Stay-Alive-Matt-Haig/dp/1782115080&quot;&gt;Reasons to stay alive@Matt Haig&lt;/a&gt;.
+&lt;img src=&quot;../../../../../en/blog/2016/02/depresia-in-cautarea-sensului-vietii/2c61652c4eb44f9b11667f5edce39f81.jpg&quot; alt=&quot;Reasons to Stay Alive@Matt Haig&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/01/multe-cifre-cont-super-dar-nu-uita-de-vechii-prieteni/">
+    <title type="text">Multe cifre în cont, super… Dar nu uita de vechii prieteni</title>
+    <id>urn:uuid:790abfaf-5ff2-3440-9175-7877c178c2a0</id>
+    <updated>2016-01-26T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2016/01/multe-cifre-cont-super-dar-nu-uita-de-vechii-prieteni/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Partea bună la freelancing e că unele luni sunt chiar bune 🙂&lt;/p&gt;
+&lt;p&gt;Nu poţi ştii dinainte când urmează o lună bună sau când una rea însă poţi ştii cu siguranţă, că pentru moment, că e lună bună sau lună rea, ambele sunt trecătoare.&lt;/p&gt;
+&lt;p&gt;Asta te face să mai rezişti puţin în momentele dificile, să mai scrii o linie de cod în plus seara până să te bagi la somn, iar atunci când te relaxezi şi lucrurile stau bine pentru moment, să te relaxezi cu adevărat bucurându-te de clipa pentru care ai muncit din greu.&lt;/p&gt;
+&lt;p&gt;Totuşi nu despre asta este vorba…&lt;/p&gt;
+&lt;p&gt;Azi avem mai multe cifre în cont, super…
+Dar tot vechile prietenii înseamnă mai mult!&lt;/p&gt;
+&lt;p&gt;Pentru că poţi câştiga frumos, dar să fi gol pe interior. Şi atunci nu ai făcut nimic, tot în jos te duci, chiar dacă ai portofelul plin.&lt;/p&gt;
+&lt;p&gt;Vechii prieteni sunt cei mai buni prieteni pe care îi poţi face. Asta nu înseamnă să reînvii prietenia cu cineva doar pentru că este vechi prieten, ci să cauţi acolo mai întâi. Mulţi sunt prieteni, dar puţin fac parte din „familia ta”.&lt;/p&gt;
+&lt;p&gt;Asta mi-am dat seama subtil. De când m-am mutat la Bucureşti sunt mult mai fericit. Chiar dacă trec prin caruselul vieţii, aruncat pe toate părţile în toate extremele, am observat că sunt cu mult mai fericit.&lt;/p&gt;
+&lt;p&gt;În Bucureşti am o groază de prieteni… Prieteni din liceu, prieteni din facultate, prieteni de-ai prietenilor. Ultimul an m-am reconectat cu ei, sunt mulţi… De 3-4x mai mulţi decât obişnuiam să ţin legătura…&lt;/p&gt;
+&lt;p&gt;Sentimentul e de familie, de uniune, de acceptare. Ştii că poţi trece prin lucruri grele cu ei împreună şi asta defapt întăreşte relaţia.&lt;/p&gt;
+&lt;p&gt;Ianuarie a fost o lună şmecheră, deşi grozavă din punct de vedere financiar, puţin mi-a păsat. Vechile prietenii au contribuit cam de 10x mai puternic la nivelul de fericire.&lt;/p&gt;
+&lt;p&gt;Pe viitor, poate revin şi cu ceva studii, date legate de vechile prietenii.&lt;/p&gt;
+&lt;p&gt;Până atunci, vechii prieteni, găseşte-i, căci dacă vrei să fii mai fericit, cu ei ai de discutat 🙂&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/01/programare-humanum-est/">
+    <title type="text">Hello World: Programare humanum est</title>
+    <id>urn:uuid:96e2dbd3-ac35-34ad-8466-0dcdd376fcf9</id>
+    <updated>2016-01-23T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/en/blog/2016/01/programare-humanum-est/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Mi-am dorit de mic să fac programare. Încă nu prea erau calculatoare şi aveam cam 4 ani.&lt;/p&gt;
+&lt;p&gt;Primul calculator arăta cam aşa:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2016/01/programare-humanum-est/primul_pc_cip.jpg&quot; alt=&quot;Primul PC,  Electronica CIP 03&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Iar „CD-ROM”-ul pe-atunci era:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2016/01/programare-humanum-est/casetofon-302-2m.jpg&quot; alt=&quot;Casetofon cu casete prin 1996&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Îmi amintesc cum aşteptam să se încarce BASIC de pe casetă, evident, ca să scriu ce avea să fie primul meu program Hello World:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;PRINT &quot;Hello, world!&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Nu mai îmi aduc aminte ce s-a întâmplat de-atunci înainte, au urmat o serie de evenimente. Am fost la şcoala generală, la liceu, apoi la facultate. Am făcut programare în acest timp, dar nu prea mult, doar ceva să fie. Oricum erau teme de făcut, nu prea aveam eu timp de dintr-astea.&lt;/p&gt;
+&lt;p&gt;Niciodată nu a funcţionat se pare, fă tema şi apoi în timpul liber programează. A fost eroarea ce probabil m-a costat ani de zile. Dar până să îmi dau seama că îmi place cu adevărat să fac programare, a fost preţul pe care l-am plătit.&lt;/p&gt;
+&lt;p&gt;Eventual când mi-am dat seama ce-mi place suficient de mult a fost şi momentul când am început să fac ceva în privinţa asta. Cum nu aveam cum să mă întreţin singur atunci, am făcut totuşi saltul periculos de a rămâne fără bani de chirie şi mâncare (şi chiar am şi rămas 🙂 ), programând pe cont propiu, ca „freelancer”.&lt;/p&gt;
+&lt;p&gt;Nu au fost cele mai uşoare vremuri, dar îmi amintesc cu drag că tot acest timp am avut pentru ce lupta şi nicio zi nu a fost pierdută. Orice înfrângere a fost defapt cărămida pentru succesul de mâine. Iar acest MÂINE se pare că există şi îl trăiesc azi aici. Pentru că dacă nu aş fi făcut saltul atunci, probabil acum aş fi fost pe cu totul o altă direcţie, iar această mică plăcere de a scrie cod pentru a face lucruri utile, mai uşor, mai eficient, mai rapid ar fi fost uitată în schimbul a ceva futil.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
