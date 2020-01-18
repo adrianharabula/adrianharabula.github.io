@@ -3,32 +3,32 @@
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
   <updated>2020-01-18T00:00:00Z</updated>
-  <link href="https://adrianharabula.github.io/en/blog/" />
+  <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/chivotul-lui-solomon/">
-    <title type="text">Chivotul lui Solomon</title>
-    <id>urn:uuid:b5702b47-ff7d-396e-a9f7-171d85b972ee</id>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/chivotul-vietii/">
+    <title type="text">Chivotul Vieții</title>
+    <id>urn:uuid:43ce5cb7-7b3f-3ceb-b8eb-8a2ab854b962</id>
     <updated>2020-01-18T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/chivotul-lui-solomon/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/chivotul-vietii/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
-    <content type="html">&lt;p&gt;Astăzi am văzut că a fost făcut public chivotul lui Solomon, un dispozitiv ce l-am încercat curând. Un om trecut prin viață se confruntă cu diverse stresuri, oboseli și uzuri care mai devreme sau mai târziu îl consumă. Deseori din cauza acestor dezechilibre apar și bolile și omul încet încet se duce. Chivotul reface și readuce la nivel energetic corpul la starea lui naturală pentru a funcționa în parametri optimi.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Astăzi am văzut că a fost făcut public chivotul vieții, un dispozitiv ce l-am încercat curând. Un om trecut prin viață se confruntă cu diverse stresuri, oboseli și uzuri care mai devreme sau mai târziu îl consumă. Deseori din cauza acestor dezechilibre apar și bolile și omul încet încet se duce. Chivotul reface și readuce la nivel energetic corpul la starea lui naturală pentru a funcționa în parametri optimi.&lt;/p&gt;
 &lt;p&gt;E o cămăruță mică amenajată în care e așezat chivotul. La o ședință se intră în grup, cam 6 persoane, dar minim 3. Ședința durează 40 minute, sau atât era când am fost eu, posibil să se mai schimbe între timp. Pe durata ședinței, stai liniștit, relaxat, în poziție de meditat și ești atent la tine. În funcție de ce are nevoie corpul, el își va lua energia necesară pentru a se echilibra. Efectele se văd în timp, dar și imediat. Sunt nu neapărat efecte evidente dar și subtile, poate dormi mai bine, poate ești mai relaxat, poate ai mai multă energie să abordezi problemele de zi cu zi.&lt;/p&gt;
 &lt;p&gt;Nu am cum să dau prea multe detalii tehnice, că nu prea mă pricep, dar se pot obține de la &lt;a href=&quot;https://www.facebook.com/delia.burnham.7&quot;&gt;Delia&lt;/a&gt; pentru cine ar fi interesat să afle mai multe.&lt;/p&gt;
 &lt;p&gt;Deși dispozitivul nu ar fi accesibil pentru mulți, la prețul inițial de 150.000E,  nu e nevoie să îl iei la tine acasă... Inventatorii știu că pun pe primul loc sănătatea oamenilor,  așa că pentru cine are nevoie sigur se va găsi o cale să ajungă fără să fie problemă de bani, doar omul să fie deschis să încerce.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/01/chivotul-lui-solomon/screenshot-2020-01-18-at-23.37.22.png&quot; alt=&quot;chivotul-lui-solomon&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/01/chivotul-vietii/screenshot-2020-01-18-at-23.37.22.png&quot; alt=&quot;chivotul-vietii&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/">
     <title type="text">Ar trebui să aștepți weekendul ca programator?</title>
     <id>urn:uuid:505d4f19-18e8-35e3-869d-64a1d26930d5</id>
     <updated>2020-01-17T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -37,11 +37,11 @@
 &lt;p&gt;Ia și tu o pauză și stai cu tine. Nu trebuie să faci ceva anume... Relax. În primul rând nu mai gândi. Numără flori, adună ciuperci... Trăiește weekendul ca și cum nu ai fi IT-st... Caută și viața în afara serviciului.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/top-impedimente-in-proiecte-it/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/top-impedimente-in-proiecte-it/">
     <title type="text">Top 5 impedimente în proiecte IT</title>
     <id>urn:uuid:65c73057-02a3-3847-9ef5-95ac20ac2a16</id>
     <updated>2020-01-16T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/top-impedimente-in-proiecte-it/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/top-impedimente-in-proiecte-it/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -56,11 +56,11 @@
 &lt;/ol&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/">
     <title type="text">Un singur lucru care face treaba să meargă la serviciu</title>
     <id>urn:uuid:ecc0fd25-ee0c-3758-9378-89bdb4c5e843</id>
     <updated>2020-01-15T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -68,14 +68,14 @@
 &lt;p&gt;Zilele sunt cam ocupate, timpul trece repede, ard lucruri, uneori nu prea apuci să vorbești cu oamenii cu care lucrezi în același sediu, poate îi saluți și vorbești de vreme un pic. Nu e ca și cum nu se poate vorbi, dar energia și focusul e pe treaba care e de făcut și nu pe oamenii din jurul nostru, astfel că se întâmplă să stăm cu lunile la birou și să știm foarte puțin despre oamenii pe care îi vedem zilnic. Poate sunt vecini, poate am fost la aceleași interviuri la un moment dat, poate au și ei problemele lor în afara serviciului și nu ai de unde să le știi dacă ești atent doar la treburile de la serviciu.&lt;/p&gt;
 &lt;p&gt;Așa că se mai practică uneori după serviciu ieșiri în oraș, unde oamenii se adună și în alt context decât cel de la birou și focusul de la treabă se schimbă pe oameni. Nu e lucru mai minunat când se întâmplă asta, pentru că dacă cunoști mai bine oamenii cu care lucrezi și încrederea ta în ei crește (și invers) și treaba merge mult mai bine. Am zis mai devreme că suntem focusați pe treabă la serviciu, dar adevărul de la mijloc e că atunci când ne facem treaba, totul depinde de niște oameni undeva, cu care trebuie să vorbești și de la care ai nevoie de ceva ca să îți faci treaba în continuare. Și nu e lucru mai bun care se poate întâmpla ce crește productivitatea la birou atunci când oamenii se cunosc între ei.&lt;/p&gt;
 &lt;p&gt;Dacă la firma la care lucrezi nu sunt ieșiri în oraș, măcar odată la câteva luni, fă ceva, propune tu. Ca treaba să meargă la birou în primul rând trebuie să meargă între oameni.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/ead346ec252bd3fe585cdc937f20ff4d.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/ead346ec252bd3fe585cdc937f20ff4d.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/un-an-in-bucuresti/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/un-an-in-bucuresti/">
     <title type="text">Un an în București</title>
     <id>urn:uuid:d9be6528-b23d-3645-b625-bb7f0514d356</id>
     <updated>2020-01-14T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/un-an-in-bucuresti/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/un-an-in-bucuresti/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -94,11 +94,11 @@
 &lt;p&gt;E frumos Bucureștiul, mai ales dacă ai treabă, știi că ești într-un loc unde și alți oameni au treabă și acesta e un plus foarte mare. Ca dezavantaj, cu siguranță acesta ar fi prețul, e un oraș un pic cam scump, costă viața aici. Dar se compensează cumva prin faptul că ai toate la o aruncătură de băț.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/">
     <title type="text">Cât de direct ar trebui să fii la interviu?</title>
     <id>urn:uuid:aec69b3a-cd04-3cbe-91de-c5559897f823</id>
     <updated>2020-01-13T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -116,11 +116,11 @@ Minunat, avem și răspuns de data asta, scurt și la obiect.
 Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem timp la telefon sau întâlniri față în față?&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/long-term-versus-short-term/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/long-term-versus-short-term/">
     <title type="text">Long Term versus Short Term</title>
     <id>urn:uuid:5088bb4b-1b0b-36fa-96b8-235a9acb58aa</id>
     <updated>2020-01-12T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/long-term-versus-short-term/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/long-term-versus-short-term/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -135,11 +135,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Cu cât prevezi mai mult și mai din timp astfel de situații abstracte, greu de digerat cu mintea, dar care te păcălesc și nu te lasă să mergi mai departe dacă nu ești vigilent cu atât ai mai multe șanse să nu rămâi prea mult pierdut în timp și spațiu.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/1-blog-post-pe-zi-366-zile/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/1-blog-post-pe-zi-366-zile/">
     <title type="text">1 blog post pe zi, 366 zile</title>
     <id>urn:uuid:bc2a51b2-43fa-3f9f-8869-41361981b83d</id>
     <updated>2020-01-11T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/1-blog-post-pe-zi-366-zile/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/1-blog-post-pe-zi-366-zile/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -149,11 +149,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Mi se pare o provocare interesantă, sigur aș avea despre ce să scriu, și asta să o fac în timp ce fac și restul treburilor de zi cu zi. Acesta este deja al 11-lea articol anul acesta, ar mai fi încă 355. Ca plan de teme de dezbătut, nu am. Ele vin oricum, știu doar ce scriu azi, mai mult de atât nu planific.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ceri-marire-la-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-ceri-marire-la-serviciu/">
     <title type="text">Cum să ceri mărire la serviciu?</title>
     <id>urn:uuid:ac44123a-1d05-3271-903a-ed80cd47410f</id>
     <updated>2020-01-10T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ceri-marire-la-serviciu/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-ceri-marire-la-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -183,15 +183,15 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Probabil trebuie să îți evaluezi mai realist capabilitățile, dacă nu primești mărirea înseamnă că ceva nu faci încât să valoreze cât ceri. Mergi înainte, rezultatele astea nu apar peste noapte. Și nu te opri la primul obstacol.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/">
     <title type="text">Ce să faci în timpul unui conflict la serviciu?</title>
     <id>urn:uuid:64928e75-0d17-3693-9049-622716ac7969</id>
     <updated>2020-01-09T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
-    <content type="html">&lt;p&gt;Continuind &lt;a href=&quot;../../../../../blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/&quot;&gt;articolul de ieri&lt;/a&gt;, e posibil ca faptul că ai spus ce aveai de zis să genereze un conflict. Una din urmările fericite e a doua zi când ajungi la birou și te porți ca și cum nimic nu s-a întâmplat. Și tu, dar și cei cu care ai discutat. E un moment ciudat, pe care nu prea ai cum să îl explici dar îți dai seama de el imediat când treci prin el.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Continuind &lt;a href=&quot;../../../../blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/&quot;&gt;articolul de ieri&lt;/a&gt;, e posibil ca faptul că ai spus ce aveai de zis să genereze un conflict. Una din urmările fericite e a doua zi când ajungi la birou și te porți ca și cum nimic nu s-a întâmplat. Și tu, dar și cei cu care ai discutat. E un moment ciudat, pe care nu prea ai cum să îl explici dar îți dai seama de el imediat când treci prin el.&lt;/p&gt;
 &lt;p&gt;Într-un fel nu e neapărat rău că s-a ajuns aici. Conflictul a avut loc, a fost bătaie mare sângeroasă, ai zis ce ai avut de zis, și ceilalți implicați au zis și ei ce aveau de zis. Acum urmează o perioada de liniște, în care vedem ce soluții pot apărea.&lt;/p&gt;
 &lt;p&gt;Posibil ca cei cu care lucrezi să nu fie de acord și să nu meargă nimic mai departe. Caz care probabil te va frustra foarte tare și probabil deși nu ai fost dat afară, vei pleca singur la un moment dat.&lt;/p&gt;
 &lt;p&gt;Cazurile când ești dat afară sunt destul de rare, nu prea se ajunge aici...&lt;/p&gt;
@@ -200,11 +200,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;În cel mai rău caz dacă ești dat afară, nu se moare de la asta, e mai greu, dar măcar ți-ai luat o piatră de pe inimă zicând nu la ceva ce nu era în favoarea ta. Știu că îs multe detalii abstracte în acest post, dar nu găsesc cum să fiu mai specific. Fiecare avem nevoile noastre ca să ne facem treaba mai bine și mai eficient și numai noi știm asta. Dacă apare ceva ce trebuie discutat din cauză că ne afectează productivitatea ar fi bine să aducem la cunoștiință ce ne deranjează. E greu, pentru că implică efort &quot;emoțional&quot;. De multe ori e mai ușor să stai la calculator și să te faci că totul e ok, pentru că e mai &quot;ușor&quot; să te ascunzi și să te faci că totul e ok... dar sper că nu o să faci asta.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/">
     <title type="text">Ar trebui să fii supărat la interviu dacă nu îți convine ceva?</title>
     <id>urn:uuid:5191014c-942e-3f05-8329-266c7d793eed</id>
     <updated>2020-01-08T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -220,11 +220,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;În zilele următoare am să vorbesc despre ce să faci când rămâi fără serviciu. Cred că s-ar potrivi perfect cu tema de azi. 🤣&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/">
     <title type="text">Cum să îți folosești intuiția la interviuri ca să iei decizii bune</title>
     <id>urn:uuid:51edef4c-ce0c-3ade-b83c-af39a195f241</id>
     <updated>2020-01-07T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -237,11 +237,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Baftă, ai încredere în primul rând în tine!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/">
     <title type="text">Ce să faci atunci când ești în căutare de job</title>
     <id>urn:uuid:791c9f2e-e622-3ce9-a853-cabec19593cb</id>
     <updated>2020-01-06T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -263,15 +263,15 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Ar mai fi de zis pe acest subiect, încerc să mai scriu și în articolele din zilele următoare.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/exercitiu-devops-hands-on/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/exercitiu-devops-hands-on/">
     <title type="text">Exercițiu DevOps hands-on</title>
     <id>urn:uuid:e41becf0-54ee-32bf-bd11-97c407c8a876</id>
     <updated>2020-01-05T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/exercitiu-devops-hands-on/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/exercitiu-devops-hands-on/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
-    <content type="html">&lt;p&gt;Să presupunem că vrei să începi ca DevOps. Ce ai putea face, pe lângă tutorialele menționate, în &lt;a href=&quot;../../../../../blog/2020/01/cum-sa-incepi-ca-devops-in-2020/&quot;&gt;articolul precendent&lt;/a&gt;?&lt;/p&gt;
+    <content type="html">&lt;p&gt;Să presupunem că vrei să începi ca DevOps. Ce ai putea face, pe lângă tutorialele menționate, în &lt;a href=&quot;../../../../blog/2020/01/cum-sa-incepi-ca-devops-in-2020/&quot;&gt;articolul precendent&lt;/a&gt;?&lt;/p&gt;
 &lt;p&gt;Trainingul online e doar o mică parte din învățare. Foarte important este să ai contact cu oameni care fac același lucru. Degeaba te uiți la curs, dacă nu poți face legătura și cu oameni din domeniu. Dacă nu ai prieteni sau cunoștiințe cu care să împărtășești ce urmărești în videouri, cam degeaba urmărești trainingurile, oricât ai încerca.&lt;/p&gt;
 &lt;p&gt;Alt lucru, la fel de important este că nu doar cunoașterea teoretică te va aduce undeva, doar simpla realizare că ai terminat cursul nu înseamnă nimic, va trebui să știi tu ale tale, să ai cunoașterea ta. Ca să o obții, propun următorul exercițiu.&lt;/p&gt;
 &lt;p&gt;În următoarele zile, planifică mutarea pe un nou sistem de operare. Dacă ești pe Windows încearcă Mac/Linux, dacă ești pe Linux încearcă Mac, dacă ești pe Mac încearcă Linux.&lt;/p&gt;
@@ -279,11 +279,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;A se observa că nu e nimic foarte precis. Indiferent de motivul tehnic al schimbării sistemului de operare, ce e mai important e că va trebui să găsești noi soluții pentru ca să ai un sistem utilizabil. Problemele ce pot apărea nu le știi, dar știi că sunt și că va trebui să te ocupi de ele. Aplicația de notițe, cum faci cu ea, cu ce deschizi mailul, cum accesezi calculatorul de la distanță sunt doar câteva dintre probleme. Va trebui să mapezi, să planifici, să documentezi tot procesul acesta de research. Asta e munca. Nu contează cât durează exercițiul. Vezi cum te simți. Dacă îți e natural, cu cât depui mai mult timp în astfel de muncă de proiectare cu atât ești mai la un pas pe drumul DevOps. Evident asta e doar o mică parte, dar te va ajuta să intri în mediul de lucru DevOps.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/">
     <title type="text">Cum să începi ca DevOps în 2020</title>
     <id>urn:uuid:e1287347-4968-3b7a-a5f4-757674bbf82d</id>
     <updated>2020-01-04T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -313,14 +313,14 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;h2&gt;înafară de asta ce ar mai trebui să ştiu?&lt;/h2&gt;
 &lt;p&gt;Aplică principiile astea zi de zi în munca ce o faci la calculator. Nu contează ce faci, vezi ce poţi automatiza, indiferent de domeniul în care lucrezi, vezi unde se împotmoleşte munca ce o faci şi vezi dacă poţi veni cu o soluţie să îmbunătăţească procesul. Nu contează limbajul de programare, nu contează domeniul în care lucrezi, principiile rămân aceleaşi.&lt;/p&gt;
 &lt;p&gt;Dacă asta nu e suficient de clar, am să revin mâine cu un exerciţiu mai hands-on.&lt;/p&gt;
-&lt;p&gt;L.E.: Link exercițiu DevOps &lt;a href=&quot;../../../../../blog/2020/01/exercitiu-devops-hands-on/&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;L.E.: Link exercițiu DevOps &lt;a href=&quot;../../../../blog/2020/01/exercitiu-devops-hands-on/&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/unele-zile-sunt-mai-grele/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/unele-zile-sunt-mai-grele/">
     <title type="text">Unele zile sunt mai grele</title>
     <id>urn:uuid:67152893-6479-378d-9dc4-199d53edaffb</id>
     <updated>2020-01-03T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/unele-zile-sunt-mai-grele/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/unele-zile-sunt-mai-grele/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -331,11 +331,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;În principiu, atunci când lucrurile nu mai merg lin... stai liniștit. E normal. Ești pe planeta Pământ. Relaxează-te, întâlnește-te cu un vechi prieten, așează prin casă cu muzica. Mai sunt și perioade în care nu ești în parametrii optimi. E normal. Nu uita pe ce planetă trăiești. Ia-ți timpul și refă-te. Va apărea și soluția.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-tii-pasul-in-informatica/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-tii-pasul-in-informatica/">
     <title type="text">Cum să ții pasul în informatică</title>
     <id>urn:uuid:f576f171-fb10-376e-857e-ce963829f7af</id>
     <updated>2020-01-02T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-tii-pasul-in-informatica/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-tii-pasul-in-informatica/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -347,11 +347,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Un programator știe că își sacrifică timpul și energia pentru a rezolva problema la care lucrează așa că dacă face asta probabil o face pentru că vede un beneficiu pe termen mediu-lung și nu doar pentru el. Niciun om sănătos nu renunță la viața lui doar de dragul de a munci, sau pentru a i se construi o statuie. Face poate de dragul lucrului bine făcut și pentru că poate face un pic mai bine acolo unde e. E multă muncă din umbră. De multe ori nu se vede munca asta din afară și nici nu trebuie.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/just-push-it-to-production/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/just-push-it-to-production/">
     <title type="text">Just push it to production</title>
     <id>urn:uuid:b0975362-e611-3608-b575-3c1cec408198</id>
     <updated>2020-01-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2020/01/just-push-it-to-production/" />
+    <link href="https://adrianharabula.github.io/blog/2020/01/just-push-it-to-production/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -375,11 +375,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;De exemplu, dacă vreau să fac un blog, care e lucrul cel mai important pe care să îl aibe... Să poți să scrii articole. Orice altceva e ignorat complet. Așa am și făcut. Așa că azi e prima versiune super rușionasă a noului blog. 😌 Just push it to production!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/">
     <title type="text">Ce să faci la 20 de ani ca să nu regreţi la 26?</title>
     <id>urn:uuid:189eca7e-8e05-39db-a2a2-b5f1f8f83fcc</id>
     <updated>2018-07-03T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/" />
+    <link href="https://adrianharabula.github.io/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -440,11 +440,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Da, anii 20 se termină şi ei, prin simplul fapt că au început. Deşi pot fi cea mai instabilă, tulburătoare şi emoţionantă perioadă din viaţa unui om, e o şansă numai bună ca să devii stăpânul propriei tale vieţi şi ca să dai o şansă cinsită vieţii aşa cum poţi. Dacă nu iese cum ai vrut, nu ai pierdut nimic, problema e mai degrabă pe cealaltă parte când fără să rişti nimic te conformezi şi faci ce faci doar pentru că toţi cei din jur fac asta. Treaba ta e să îţi găseşti calităţile bune şi să le foloseşti zi de zi. Nu e făcută lumea în aşa fel încât să mergi spre asemenea direcţie, dar nimeni nu te opreşte. Nici inamicul tuturor nu trebuie să devii şi nici peştele care înoată împotriva curentului. Iubeşte viaţa şi bucură-te de anii 20!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/">
     <title type="text">Cum să renunţi la concediu ca să munceşti mai mult</title>
     <id>urn:uuid:0892cfa2-561c-3e25-b6b1-7c95df6477d7</id>
     <updated>2018-04-18T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/" />
+    <link href="https://adrianharabula.github.io/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -457,11 +457,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;În 10 ani poţi rezolva 70 de probleme mari care te apasă azi. Cum te-ai simţi dacă ai şti sigur că timpul trece în favoarea ta şi rezolvi probleme din ce în ce mai provocatoare?&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/04/enable-watchdog-on-rpi3/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/04/enable-watchdog-on-rpi3/">
     <title type="text">How to enable watchdog on Raspberry Pi 3</title>
     <id>urn:uuid:cfc49617-db61-3295-a8bf-9a025ed80c20</id>
     <updated>2018-04-09T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/04/enable-watchdog-on-rpi3/" />
+    <link href="https://adrianharabula.github.io/blog/2018/04/enable-watchdog-on-rpi3/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -483,11 +483,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;This command will render your Pi unusable, and watchdog will kick in and reboot your Raspberry!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/cum-sa-faci-2018-un-an-super-productiv/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/cum-sa-faci-2018-un-an-super-productiv/">
     <title type="text">Cum să faci 2018 un an super productiv?</title>
     <id>urn:uuid:91fe41a5-94fc-3ae5-a2b7-f78ddf8cf847</id>
     <updated>2018-01-15T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/cum-sa-faci-2018-un-an-super-productiv/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/cum-sa-faci-2018-un-an-super-productiv/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -516,11 +516,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;/ul&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/clone-all-bitbucket-repositories-locally/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/clone-all-bitbucket-repositories-locally/">
     <title type="text">Clone all your Bitbucket repositories locally</title>
     <id>urn:uuid:40f4ab84-18f9-30b7-8693-3fc394aa26a9</id>
     <updated>2018-01-10T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/clone-all-bitbucket-repositories-locally/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/clone-all-bitbucket-repositories-locally/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -598,11 +598,11 @@ optional arguments:
 &lt;/ul&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/mod-your-huawei-p8-lite/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/mod-your-huawei-p8-lite/">
     <title type="text">Mod your Huawei p8 lite</title>
     <id>urn:uuid:8d799cfa-f542-3a81-ae0d-5544dba4da9b</id>
     <updated>2018-01-09T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/mod-your-huawei-p8-lite/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/mod-your-huawei-p8-lite/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -690,11 +690,11 @@ finished. total time: 1.363s
 &lt;p&gt;You should now boot in your new Custom ROM.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/remove-changed-files-in-git-working-folder/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/remove-changed-files-in-git-working-folder/">
     <title type="text">Remove changed files in git working folder</title>
     <id>urn:uuid:407ade4b-d615-3651-a96d-fb6695eca609</id>
     <updated>2018-01-08T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/remove-changed-files-in-git-working-folder/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/remove-changed-files-in-git-working-folder/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -750,19 +750,19 @@ Untracked files:
 &lt;p&gt;Now run the &lt;code&gt;git checkout -f master&lt;/code&gt; and &lt;code&gt;git clean -f&lt;/code&gt; commands to get back to last commit.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/">
     <title type="text">Dynamic DNS with ddclient and Cloudflare</title>
     <id>urn:uuid:803bde49-e760-3450-a5cc-b03661f57ed4</id>
     <updated>2018-01-04T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
     <content type="html">&lt;p&gt;From the Cloudflare side, add desired subdomain you want to map.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/cloudflare_add_subdomain.png&quot; alt=&quot;add subdomain&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/cloudflare_add_subdomain.png&quot; alt=&quot;add subdomain&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Put a dummy IP address (127.0.0.1), deactivate orange cloud and click Add Record.&lt;/p&gt;
 &lt;p&gt;Next, from &lt;a href=&quot;https://www.cloudflare.com/a/profile&quot;&gt;My profile&lt;/a&gt; page get Global API Key.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/cloudflare_get_global_api_key.png&quot; alt=&quot;get global api key&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2018/01/dynamic-dns-with-ddclient-and-cloudflare/cloudflare_get_global_api_key.png&quot; alt=&quot;get global api key&quot;&gt;&lt;/p&gt;
 &lt;p&gt;On a machine with a dynamic public ip, install ddclient with:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt update
 sudo apt install ddclient libjson-any-perl
@@ -835,11 +835,11 @@ sub1.domain1.com
 &lt;p&gt;For more in depth instructions read &lt;a href=&quot;https://samhobbs.co.uk/2015/01/dynamic-dns-ddclient-raspberry-pi-and-ubuntu&quot;&gt;Dynamic DNS with ddclient on Raspberry Pi and Ubuntu&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/install-and-run-github-pages-locally/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/install-and-run-github-pages-locally/">
     <title type="text">Install and run GitHub Pages locally</title>
     <id>urn:uuid:89abd7c2-d7fa-3f0f-9928-b88ea7ac822a</id>
     <updated>2018-01-03T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/install-and-run-github-pages-locally/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/install-and-run-github-pages-locally/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -870,11 +870,11 @@ bundle install
 &lt;/ul&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/how-to-wake-on-lan/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/how-to-wake-on-lan/">
     <title type="text">How to Wake On Lan</title>
     <id>urn:uuid:2c2b4cae-964d-3b90-b8be-40899cec3df6</id>
     <updated>2018-01-02T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/how-to-wake-on-lan/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/how-to-wake-on-lan/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -896,19 +896,19 @@ bundle install
 &lt;/ul&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2018/01/linux-in-your-home-router/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/linux-in-your-home-router/">
     <title type="text">Linux in your home router</title>
     <id>urn:uuid:4128d8c7-c751-395e-90a6-050abebc659d</id>
     <updated>2018-01-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2018/01/linux-in-your-home-router/" />
+    <link href="https://adrianharabula.github.io/blog/2018/01/linux-in-your-home-router/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
     <content type="html">&lt;p&gt;When you have some old routers lying around,&lt;/p&gt;
 &lt;p&gt;And default interface is not enough...&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2018/01/linux-in-your-home-router/standard_router_firmware.jpg&quot; alt=&quot;standard_router_firmware.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2018/01/linux-in-your-home-router/standard_router_firmware.jpg&quot; alt=&quot;standard_router_firmware.jpg&quot;&gt;&lt;/p&gt;
 &lt;p&gt;You can bring old routers back to life, by installing Linux! :D&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2018/01/linux-in-your-home-router/a_bunch_of_routers_and_a_raspberry_pi.jpg&quot; alt=&quot;a_bunch_of_routers_and_a_raspberry_pi.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2018/01/linux-in-your-home-router/a_bunch_of_routers_and_a_raspberry_pi.jpg&quot; alt=&quot;a_bunch_of_routers_and_a_raspberry_pi.jpg&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Some things you can do:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/&quot;&gt;#1&lt;/a&gt; transform router into a reverse proxy and access it from outsite a firewalled network with ssh&lt;/li&gt;
@@ -921,11 +921,11 @@ bundle install
 &lt;/ul&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/11/dece-facultate/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2016/11/dece-facultate/">
     <title type="text">De ce o facultate</title>
     <id>urn:uuid:977f5a78-51f2-3de6-9cdb-82532b67dc9a</id>
     <updated>2016-11-10T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2016/11/dece-facultate/" />
+    <link href="https://adrianharabula.github.io/blog/2016/11/dece-facultate/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -947,11 +947,11 @@ Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor
 &lt;p&gt;Cam asta e.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/">
     <title type="text">De ce Rent A Pet au câștigat și ceilalți nu?</title>
     <id>urn:uuid:f5484a8c-b7e4-31a3-a357-c13d8243652c</id>
     <updated>2016-11-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/" />
+    <link href="https://adrianharabula.github.io/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/" />
     <author>
       <name></name>
     </author>
@@ -980,16 +980,16 @@ Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor
 &lt;li&gt;nu aveau un brand, tot ceea ce făceau se putea copia ușor&lt;/li&gt;
 &lt;li&gt;purtau pică celor care erau mai buni ca ei, nu se bucurau de succesul altora.&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;se pricepeau la nimicuri, și nu se pricepeau la lucrurile care contau cu adevărat. Lucrau la logo, mai mult decât la lucruri cheie care să facă oamenii să plătească pentru ceea ce ofereau.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://rentapet.co&quot;&gt; &lt;img src=&quot;../../../../../en/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg&quot; alt=&quot;Rent A Pet&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rentapet.co&quot;&gt; &lt;img src=&quot;../../../../blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg&quot; alt=&quot;Rent A Pet&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/03/primul-venit-din-freelancing/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2016/03/primul-venit-din-freelancing/">
     <title type="text">Primul venit din freelancing</title>
     <id>urn:uuid:4be6d229-3ec1-3e07-9240-5c5af3fbcf2d</id>
     <updated>2016-03-24T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2016/03/primul-venit-din-freelancing/" />
+    <link href="https://adrianharabula.github.io/blog/2016/03/primul-venit-din-freelancing/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -1021,11 +1021,11 @@ Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor
 &lt;p&gt;2 luni mai încolo, abia prin martie îmi luasem un laptop, dar asta pe un articol viitor unde voi mai scrie ce a urmat după 😉&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/02/depresia-in-cautarea-sensului-vietii/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2016/02/depresia-in-cautarea-sensului-vietii/">
     <title type="text">Depresia în căutarea sensului vieţii</title>
     <id>urn:uuid:2ef4e421-8eba-3e0f-bb03-5c338ee0c15a</id>
     <updated>2016-02-08T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2016/02/depresia-in-cautarea-sensului-vietii/" />
+    <link href="https://adrianharabula.github.io/blog/2016/02/depresia-in-cautarea-sensului-vietii/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -1057,14 +1057,14 @@ Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor
 &lt;p&gt;Poate tot odată depresia te ajută să îţi dai seama cât de singur eşti, şi înţelegi mai bine că şi cei din jurul tău sunt cel puţin la fel de singuri.&lt;/p&gt;
 &lt;p&gt;Poate asta îţi dă un sens dincolo de tine, să vezi că şi cel de lângă tine suferă şi el, diferit, dar la fel…&lt;/p&gt;
 &lt;p&gt;O carte interesantă pe acest subiect este &lt;a href=&quot;http://www.amazon.co.uk/Reasons-Stay-Alive-Matt-Haig/dp/1782115080&quot;&gt;Reasons to stay alive@Matt Haig&lt;/a&gt;.
-&lt;img src=&quot;../../../../../en/blog/2016/02/depresia-in-cautarea-sensului-vietii/2c61652c4eb44f9b11667f5edce39f81.jpg&quot; alt=&quot;Reasons to Stay Alive@Matt Haig&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../../blog/2016/02/depresia-in-cautarea-sensului-vietii/2c61652c4eb44f9b11667f5edce39f81.jpg&quot; alt=&quot;Reasons to Stay Alive@Matt Haig&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/01/multe-cifre-cont-super-dar-nu-uita-de-vechii-prieteni/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2016/01/multe-cifre-cont-super-dar-nu-uita-de-vechii-prieteni/">
     <title type="text">Multe cifre în cont, super… Dar nu uita de vechii prieteni</title>
     <id>urn:uuid:790abfaf-5ff2-3440-9175-7877c178c2a0</id>
     <updated>2016-01-26T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2016/01/multe-cifre-cont-super-dar-nu-uita-de-vechii-prieteni/" />
+    <link href="https://adrianharabula.github.io/blog/2016/01/multe-cifre-cont-super-dar-nu-uita-de-vechii-prieteni/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -1084,19 +1084,19 @@ Dar tot vechile prietenii înseamnă mai mult!&lt;/p&gt;
 &lt;p&gt;Până atunci, vechii prieteni, găseşte-i, căci dacă vrei să fii mai fericit, cu ei ai de discutat 🙂&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/en/blog/2016/01/programare-humanum-est/">
+  <entry xml:base="https://adrianharabula.github.io/blog/2016/01/programare-humanum-est/">
     <title type="text">Hello World: Programare humanum est</title>
     <id>urn:uuid:96e2dbd3-ac35-34ad-8466-0dcdd376fcf9</id>
     <updated>2016-01-23T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/en/blog/2016/01/programare-humanum-est/" />
+    <link href="https://adrianharabula.github.io/blog/2016/01/programare-humanum-est/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
     <content type="html">&lt;p&gt;Mi-am dorit de mic să fac programare. Încă nu prea erau calculatoare şi aveam cam 4 ani.&lt;/p&gt;
 &lt;p&gt;Primul calculator arăta cam aşa:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2016/01/programare-humanum-est/primul_pc_cip.jpg&quot; alt=&quot;Primul PC,  Electronica CIP 03&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2016/01/programare-humanum-est/primul_pc_cip.jpg&quot; alt=&quot;Primul PC,  Electronica CIP 03&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Iar „CD-ROM”-ul pe-atunci era:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2016/01/programare-humanum-est/casetofon-302-2m.jpg&quot; alt=&quot;Casetofon cu casete prin 1996&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2016/01/programare-humanum-est/casetofon-302-2m.jpg&quot; alt=&quot;Casetofon cu casete prin 1996&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Îmi amintesc cum aşteptam să se încarce BASIC de pe casetă, evident, ca să scriu ce avea să fie primul meu program Hello World:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;PRINT &quot;Hello, world!&quot;
 &lt;/code&gt;&lt;/pre&gt;
