@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-01-18T00:00:00Z</updated>
+  <updated>2020-01-19T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-manager/">
+    <title type="text">Ar trebui să aștepți mai întâi acordul la șef?</title>
+    <id>urn:uuid:0f6d0341-57b2-35d7-8c37-5031c5c907c1</id>
+    <updated>2020-01-19T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-manager/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;O situație des întâlnită e când ai de mers mai departe, dar nu poți fără să primești mai întâi acordul la șef.&lt;/p&gt;
+&lt;p&gt;Deobicei când se întâmplă asta prezinți situația și spui că ai nevoie de ok-ul ca să mergi mai departe. O dată dacă se întâmplă asta, totul bun și frumos.&lt;/p&gt;
+&lt;p&gt;Dar dacă mai ai nevoie de încă odată și tot așa,  de încă vreo 10-15 ori.  Mai ai nevoie să ceri acordul la șef?&lt;/p&gt;
+&lt;p&gt;Depinde.&lt;/p&gt;
+&lt;p&gt;Sunt foarte lucruri mici care toate contează și unul singur dacă îl scapi se strică toată treaba.&lt;/p&gt;
+&lt;p&gt;Pe cealaltă parte, nu poți tot timpul să nu faci nimic, doar să aștepți acordul. Sau poți, adică majoritatea așa fac... Dar niciodată nu vei deveni șef doar ascultând șeful.&lt;/p&gt;
+&lt;p&gt;Și atunci cum poți să faci ceva la mijloc?&lt;/p&gt;
+&lt;p&gt;Ia decizii cât mai multe. Bineînțeles, asumăți-le, prețul deciziei luate, tu îl vei plăti. În același timp foarte frumos că ai ajuns aici. Înseamnă că ai văzut că se pot face lucruri mult mai bine și că poți găsi soluții. Felicitări! Foarte fain din partea ta!.&lt;/p&gt;
+&lt;p&gt;Un punct fain e când îți dai seama că ce faci e riscant dar în același timp ai calculate și toate lucrurile care s-ar putea întâmpla nașpa și tot mergi înainte, chiar dacă ceva ar putea merge rău.&lt;/p&gt;
+&lt;p&gt;Șeful tău nu e un Dumnezeu... e un simplu partener. Ce poate face el, puteți face împreună... Poate mulți nu or să fie de acord cu asta, dar crezi că e ușor să fii șef? Eu le mulțumesc în fiecare zi tututor managerilor pe care i-am avut pentru toate problemele pe care le-au luat de pe capul meu și m-au lăsat să îmi fac treaba mea. Să îmi dedic prețioasele ore făcând ceea ce știu eu mai bine și nebătându-mi capul cu lucruri urgente și care ard și care nu mă pricep și nu m-ar mai fi lăsat să mă desfășor.&lt;/p&gt;
+&lt;p&gt;Dacă ai o decizie de luat de acum, ești gata să ți-o asumi? Sau te duci la șef, și lași pe el să decidă, că e mai ușor? E loc destul întotdeauna pentru persoane de decizie, așa că nu te ascunde, nu ai de ce.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/chivotul-vietii/">
     <title type="text">Chivotul Vieții</title>
     <id>urn:uuid:43ce5cb7-7b3f-3ceb-b8eb-8a2ab854b962</id>
