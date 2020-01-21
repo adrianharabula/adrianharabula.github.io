@@ -2,13 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-01-20T00:00:00Z</updated>
+  <updated>2020-01-21T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/">
+    <title type="text">Cum să-ți faci viața mai ușoară în IT folosind comunicare asincronă</title>
+    <id>urn:uuid:18701218-9de5-310e-95ab-160684964ed1</id>
+    <updated>2020-01-21T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Rareori ceva ce primești la un moment dat are nevoie de răspuns pe moment. În același timp trebuie tot timpul să fii pe fază. În IT permanent vor arde lucruri, nu știi când vor arde, dar ai face bine să fii primul care știe când ceva arde. Cum să faci față acestui haos ce pare fără de sfârșit?&lt;/p&gt;
+&lt;h2&gt;Comunicarea asincronă&lt;/h2&gt;
+&lt;p&gt;Atunci când apare ceva, nu e musai să dai un răspuns pe loc. Cea mai ineficientă metodă de a obține un răspuns sunt întrebările față în față. Una e la birou să întrebi cum e vremea afară și să răspunzi că e frumos, ninge liniștit, în timp ce lucrezi în continuare ceea ce ai de făcut. Alta e când primești o întrebare care necesită gândire, de exemplu o întrebare gen, ce nume să punem la proiect? te scoate din tot ceea ce făceai înainte și te forțează să te gândești la ce nume să pui la proiect, chiar dacă asta nu e cel mai important lucru de făcut la momentul respectiv. Eficiența unui programator e dată de cât mult timp are la dispoziție fără a fi deranjat cu astfel de întrebări care necesită gândire. Programatorii sunt oameni disciplinați și autonomi, trebuie lăsați în bula lor, știu ei ce au de făcut, sunt multe lucruri care ard și nu ajung niciodată la public, cu asta se ocupă programatorii.&lt;/p&gt;
+&lt;p&gt;Ca să îi ajuți și să ai mai mari șanse să primești vreun răspuns de la ei folosește medii asincrone. Un mediu asincron e orice mediu de comunicare ce nu necesită răspuns pe moment. Poate fi chatul, mailul sau un issue în repository. De cele mai multe ori programatorul va vedea instant notificarea și poate chiar va citi mesajul în secunda aia și răspunde pe moment. Dar diferența e că nu se întrerupe de la ceea ce făcea. E lucru foarte mare chatul sau mailul, pentru că poți avea 10 astfel de conversații în același timp. Nu rezolvi problemele în ordinea în care apar ci după prioritate.&lt;/p&gt;
+&lt;p&gt;Dacă se uită un programator ciudat la tine când îl întrebi ceva, încearcă să îi trimiți un mesaj pe chat sau un mail. Sunt mari șanse să primești răspuns imediat. 😏&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/">
     <title type="text">E prea mult dacă ceri interviul de acasă?</title>
     <id>urn:uuid:ecdd7f1f-70ec-3aba-a1ce-0d54c57d991f</id>
@@ -152,7 +167,7 @@
 &lt;h2&gt;Prima abordare&lt;/h2&gt;
 &lt;p&gt;Începem timid cu faptul că vrem să știm mai multe despre oportunitate înainte de apel.
 &lt;img class=&quot;natural&quot; src=&quot;screenshot-2020-01-13-at-23.17.45.png&quot;/&gt;
-Nu am mai primit răspuns înapoi. Atenție aici, că poți sta ore întregi de vorbă în discuții și polemici. Unii recruiteri doar sunt pe filmul lor. Lasă-i așa. Nu îți bate capul, vezi de drumul tău.&lt;/p&gt;
+Nu am mai primit răspuns înapoi. Atenție aici, că poți sta ore întregi de vorbă în discuții și polemici. Unii recrutori sunt doar pe filmul lor. Lasă-i așa. Nu îți bate capul, vezi-ți de drumul tău.&lt;/p&gt;
 &lt;h2&gt;A doua încercare&lt;/h2&gt;
 &lt;p&gt;&lt;img class=&quot;natural&quot; src=&quot;screenshot-2020-01-13-at-23.30.07.png&quot;/&gt;
 Minunat, avem și răspuns de data asta, scurt și la obiect.
