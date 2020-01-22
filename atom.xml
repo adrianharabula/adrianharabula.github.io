@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-01-21T00:00:00Z</updated>
+  <updated>2020-01-22T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/">
+    <title type="text">Ar trebui să ai zile nașpa la serviciu?</title>
+    <id>urn:uuid:f7088578-381d-34a1-b3cf-2044f16cb102</id>
+    <updated>2020-01-22T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Seara asta am să îți zic ceva la ce nu ai să te aștepți, dar cu siguranță ai să înțelegi despre ce vorbesc. Din păcate, nu numai că o să ai zile nașpa la serviciu, ci majoritatea or să fie așa.&lt;/p&gt;
+&lt;p&gt;De ce?&lt;/p&gt;
+&lt;p&gt;Pentru că multe lucruri nu or să meargă și cel mai rău dintre toate or să apară lucruri neprevăzute care nu or să meargă. Asta se traduce prin faptul că o problemă apărută ieri, ce sperai să se rezolve a doua zi, nu e rezolvată nici după o săptămână! Și asta în timpul în care o săptămână nu aveai nicicum să ghicești că o să stai pe ceva la ce nu te-ai gândit că ar putea merge rău.&lt;/p&gt;
+&lt;p&gt;Da.&lt;/p&gt;
+&lt;p&gt;Majoritatea zilelor de lucru sunt un haos total. O luptă continuă de stingere a incendiilor, care vin unul peste altul.&lt;/p&gt;
+&lt;h2&gt;Și atunci ce să faci?&lt;/h2&gt;
+&lt;p&gt;În primul rând, bătălia nu e doar o zi, ci pe termen lung. Poți avea X zile nașpa, dar contează pe termen lung unde ai tu de ajuns. Azi bate vântul într-o parte, mâine în cealaltă dar tu în 4 săptămâni ești la locul Y. Faptul că ai o direcție spre care mergi te va ajuta să treci peste zilele grele pentru că știi unde ai de ajuns.&lt;/p&gt;
+&lt;h2&gt;Dar cu lucrurile neprevăzute cum rămâne?&lt;/h2&gt;
+&lt;p&gt;În general, un lucru pentru care te lupți, nu îl vei obține din prima, vor apărea tot timpul obstacole. Ca să nu pierzi timpul degeaba, să nu mergi doar pentru faimă, pentru bani sau pentru impresie, mergi pentru lucruri care sunt cu adevărat importante, pentru că prețul plătit e întotdeauna mai mare decât cel estimat, așa că măcar dacă e mai scump și costă mai mult, fă măcar să se merite. Asta se mai traduce și prin să îți alegi proiecte și oameni care vor fi alături de tine (și tu de ei) și când treaba nu merge bine, focusul fiind pe a reuși și a ajunge la destinație în ciuda circumstanțelor, astfel ca treaba să mergă mai departe, oricât de greu ar fi.&lt;/p&gt;
+&lt;h2&gt;Și dacă cedezi?&lt;/h2&gt;
+&lt;p&gt;Se prea paote să treci prin asta. Ce înseamnă să cedezi? Adică precum un copac, de la prea mult vânt, să faci poc. Când cedezi, gata, nu mai vrei. Cu toții trecem prin asta. Relax, se rezolvă cu o doză de anestezic, ca în scena de mai jos (din Star Trek: Voyager, sezonul 6, episodul 4 &quot;Tinker, Tenor, Doctor, Spy&quot;)&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Mz3lWf1fY5c&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/">
     <title type="text">Cum să-ți faci viața mai ușoară în IT folosind comunicare asincronă</title>
     <id>urn:uuid:18701218-9de5-310e-95ab-160684964ed1</id>
