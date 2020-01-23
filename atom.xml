@@ -2,13 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-01-22T00:00:00Z</updated>
+  <updated>2020-01-23T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/faze-in-dezvoltarea-software/">
+    <title type="text">3 faze în dezvoltarea software</title>
+    <id>urn:uuid:d7c23fd1-1308-3017-b3ec-6ad3a51976fc</id>
+    <updated>2020-01-23T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/01/faze-in-dezvoltarea-software/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Un proiect de-a lungul vieții lui trece prin mai multe faze:&lt;/p&gt;
+&lt;h2&gt;1. Ce naiba rezolvăm aici?&lt;/h2&gt;
+&lt;p&gt;Nu știm mai nimic despre proiect sau despre ce problemă rezolvăm. Aici încercăm să ne facem o idee despre ce tehnologii am putea folosi, ce probleme ar apărea și nu în ultimul rând punctul forte al proiectul, cu ce ar trebui să se deosebească în primul rând acest proiect. Este foarte posibil ca în această fază să existe deja o versiune a proiectului gata făcută, dar care să fie atât inutilizabilă încât e foarte posibil să se reia proiectul de la zero. Sau să urmeaze versiunea 2, cu restructurări majore.&lt;/p&gt;
+&lt;h2&gt;2. Ce ar putea fi făcut diferit?&lt;/h2&gt;
+&lt;p&gt;Poate faza cea mai interesantă, pentru că atunci când ai deja ceva ce merge foarte nașpa, tura asta dai mai multă importanță proiectării și lucrurilor care ar putea merge rău. Focusul este pe fiabilitate și nu pe viteza terminării. În același timp este deja o versiune online, groaznică, dar care merge așa cum merge. Acum urmează un val de îmbunătățiri, majoritatea restructurării masive se întâmplă în umbră, în paralel cu versiunea groaznică dar online. Sunt părți care de data asta sunt gândite mult mai bine înainte și nu se mai face rabat la calitate. Este faza cea mai inginerească a proiectului, unde te confrunți cu probleme mari de proiectare și care nu le găsești rezolvarea în alte părți. Totul este pe umerii tăi. Este și cea mai faină fază a unui proiect.&lt;/p&gt;
+&lt;h2&gt;3. Ce ar putea fi făcut mai bine?&lt;/h2&gt;
+&lt;p&gt;După ce e lansată și versiunea 2, cea care ar fi promis schimbări radicale în mai bine, acum ce urmează este o serie constantă de modificări mici  și îmbunătățiri de finețe pe o perioadă nelimitată. Aici proiectul e deja matur, dar încă e nevoie de mentenanță la el. Nu se schimbă mari lucruri, dar se tot îmbunătățește lună de lună și devine mult mai stabil.&lt;/p&gt;
+&lt;p&gt;Cam astea ar fi cele 3 faze ale unui proiect IT. Mai întâi proiectul este unul nașpa, apoi urmează ceva un pic mai bine, iar apoi mentenanță. De la mentenanță, dacă nu se ajunge la rezultatul dorit, se poate trece iar la faza 2, unde se schimbă ceva major, până când problemele mari ale proiectului sunt rezolvate.&lt;/p&gt;
+&lt;p&gt;Până la urmă nu contează că e prost făcut proiectul ci mai degrabă pentru cât timp va trăi proiectul, pentru că un proiect prost azi, dar care va fi și peste 10 ani, are șanse să ajungă foarte stabil în timp, dat fiind că cineva va fi acolo de-a lungul celor 3 faze și va gândi pe termen lung încă din prima zi a proiectului.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/">
     <title type="text">Ar trebui să ai zile nașpa la serviciu?</title>
     <id>urn:uuid:f7088578-381d-34a1-b3cf-2044f16cb102</id>
