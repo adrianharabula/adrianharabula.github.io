@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-01-23T00:00:00Z</updated>
+  <updated>2020-01-24T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/provocarea-fara-cv/">
+    <title type="text">Este CV-ul esențial pentru a ajunge la interviu?</title>
+    <id>urn:uuid:08326769-39ce-3887-b634-9357e01319fc</id>
+    <updated>2020-01-24T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/01/provocarea-fara-cv/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;De prea multe ori am pățit să nu merg mai departe la un interviu pentru că nu am avut CV la mine... În mod paradoxal la fiecare job pe care l-am avut până acum, nu am prezentat vreun CV. Acesta a fost fie la recomandarea unei cunoștiințe (pur și simplu, prin simpla recomandare, îl știu pe X, s-ar putea să se potrivească postului și am fost, și m-am potrivit) fie prin alte medii care nu a fost nevoie de CV. De exemplu mesaj direct la mailul de recrutare al companiei, sau alteori doar prin profilul LinkedIn, am zis că e singura cea mai actualizată variantă a istoricului meu.&lt;/p&gt;
+&lt;p&gt;E prea mult să te organizezi să faci un document. Oricât de sumar, îți ia foarte mult timp și ești foarte subiectiv. Nu numai că poți avea o imagine foarte distorsionată despre tine, dar nici măcar nu știi ce să scrii. Sunt lucruri pe care le faci zi de zi, nu vezi nimic wow în ele și e foarte greu să vorbești despre ele tocmai pentru că sunt atât de banale și fac parte din viața ta de zi cu zi încât nu ai cum să le consideri măcar să fie nevoie să fie specificate.&lt;/p&gt;
+&lt;p&gt;CV-ul nu numai că nu e necesar, dar ia prea mult timp ca să justifice orele dedicate. Sigur, 90% din recrutori nu vor merge mai departe cu tine dacă nu le arăți un CV, doar poate e vorba despre acele firme cu care nu ai fi vrut să lucrezi cu ele în primul rând.&lt;/p&gt;
+&lt;h2&gt;Dacă nu CV, atunci ce?&lt;/h2&gt;
+&lt;p&gt;Sunt multe alte lucruri cu care te poți afirma, și asta fără să dedici prea mult timp unui CV, care rămâne permanent în urmă:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;profilul LinkedIn, în 2020 e una din platformele care merge foarte bine, dacă nu ai CV; trebuie măcar să ai un profil aici și în plus au o opțiune, 'save as pdf' la profil, e tocmai ca un CV, în așa fel ai toate datele într-un singur loc, când ai ceva de actualizat, actualizezi profilul LinkedIn și așa știe toată lumea cine ești și cu ce te ocupi, fără pdf-uri trimise pe mail.&lt;/li&gt;
+&lt;li&gt;profilul GitHub, tot ce ține de cod publicat, repository-uri la care ai contribuit, e foarte bine să ai la tine cod să arăți / despre care să vorbești cu prima ocazie care se ivește. În primul rând asta se va discuta la interviul tehnic, dacă va fi unul.&lt;/li&gt;
+&lt;li&gt;într-un CV, probabil se va omite cel mai important lucru, și anume caracterul omului. E foarte greu să te descrii obiectiv pe propriul CV; dar tot ce trebuie e doar să emiți lucrurile care trebuie și anume să ai dorința de a învăța lucruri noi, de a face mai bine, de a colabora cu oameni. Astea sunt lucruri pe care nu ai cum de unul singur să ți le scrii, dar care cei cu care lucrezi ar trebui să se uite la tine că le ai.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mai e și faptul că munca de a face un CV, e total diferită față de munca pe care o faci zi de zi. Cu cât cineva depune mai mult efort în a își scrie un CV, cu atât înseamnă că în loc să își facă treaba lui pentru care e angajat face exact opusul. Tu dacă ai treabă și ești ocupat cu ce zici că faci în CV, nu mai ai timp de CV. Boom! 💥&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/faze-in-dezvoltarea-software/">
     <title type="text">3 faze în dezvoltarea software</title>
     <id>urn:uuid:d7c23fd1-1308-3017-b3ec-6ad3a51976fc</id>
