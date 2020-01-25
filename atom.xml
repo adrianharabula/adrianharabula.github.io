@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-01-24T00:00:00Z</updated>
+  <updated>2020-01-25T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/">
+    <title type="text">Este programarea doar pentru cei introvertiți?</title>
+    <id>urn:uuid:053dd856-9f67-3cbd-9d6c-723407bb3346</id>
+    <updated>2020-01-25T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;O mare parte din treburile de zi cu zi ale unui programator implică multă muncă făcută în fața unui PC. Mai pui și că acea muncă necesită un mediu cât de cât izolat de restul lumii, pentru că doar așa poți fi atent pe deplin la problemele ce le rezolvi și uite așa rezultă rețeta perfectă pentru care un programator în mediul lui ideal nu iese cu zilele din casă.&lt;/p&gt;
+&lt;h2&gt;Este oare viața unui programator atât de introvertită pe cât pare?&lt;/h2&gt;
+&lt;p&gt;Deși cele mai mari probleme sunt rezolvate în acest mod, totul este împărțit în perioade temporare de izolare. În acele perioade, într-adevăr multe lucruri rămân în urmă, dar totul este temporar. Inevitabil ieși din mediul izolat și ai de-a face și cu viața. Apar facturi de plătit, gunoiul de dus, cumpărături de făcut, meetinguri cu clienții, interviuri, mers la birou, vizite la prieteni și multe alte activități normale și umane. Ele doar sunt puse pe pauză atât timp cât e nevoie ca să termini o treabă mai importantă care necesită un pic mai mult de efort. E o muncă foarte intensă în care dacă toată ziua ești la curent cu toate nimicurile de zi cu zi, ce e mai important rămâne niciodată abordat.&lt;/p&gt;
+&lt;h2&gt;Ce înseamnă să te izolezi?&lt;/h2&gt;
+&lt;p&gt;Prin izolare înseamnă că nu vei mai face lucruri lipsite de importanță, care nu contează decât pe termen scurt. Toate activitățile de mentenanță din viața de zi cu zi, sunt puse pe pauză până când treaba este considerată terminată. Dar ce înseamnă acest mod focus? Te izolezi complet de lume? În niciun caz. Dacă ai prieteni în vizită în oraș și te invită și pe tine? Ce faci? Zici pas că ai treabă? Deși există acest mod izolat de lucru al unui programator, viața nu poate fi pusă niciodată pe pauză. Dacă ai un prieten în vizită în oraș în timp ce tu lucrezi, ar fi frumos, atât cât poți să te dedici, să ieși în oraș cu el și să lași din lucru un pic. Progresul proiectului nu e în faptul că renunți la viața din jur, ci în faptul că rezolvi probleme importante și că te și ocupi de viață, așa cum e ea între timp.&lt;/p&gt;
+&lt;h2&gt;De ce e așa important să te izolezi?&lt;/h2&gt;
+&lt;p&gt;Într-o zi normală de lucru, ai anumite priorități. Dimineața când te trezești, te pregătești pentru zi, îți alegi hainele, te dușezi, te aranjezi, te pregătești să fii om printre oameni. De-a lungul zilei te aștepți să interacționezi cu oameni și știi că inevitabil vor apărea lucruri neașteptate de care va trebui să te ocupi. Chiar dacă ele nu ar apărea, pentru simplul fapt că știi că ar apărea te deranjează un pic și nu poți face treabă ziua aia atât cât ar trebui. Hai să dau un exemplu mai concret. Dacă știi că ai meeting la 3 după-amiaza, dimineața când ajungi la birou nu te poți apuca de o treaba serioasă pentru că știi că nu poți termina până la 3 și dacă nu termini până la 3 nu are rost să începi, pentru că iarăși zic, este o muncă intensă, nu se poate face 1 oră aici, o oră mai încolo, uneori e nevoie de ore întregi, neîntrerupte ca să duci la capăt treaba. Faptul că știi că ai meetingul după-amiază îți blochează tot timpul ziua respectivă de a aborda problema importantă. Și așa se duce productivitatea pe 1 zi, cu un simplu meeting de 1 oră.&lt;/p&gt;
+&lt;h2&gt;Cât de mult de poți izola?&lt;/h2&gt;
+&lt;p&gt;Abilitatea ta de a fi programator constă și în faptul cât de mult poți pune deoparte tot pentru a te putea ocupa de lucruri importante. În exemplul de mai sus era vorba de un meeting care ar strica productivitatea pe o zi. Un task mediu, abordat de programator necesită, nu de puține ori și 3 zile de muncă intensă. Asta înseamnă 3 zile fără meetinguri sau fără evenimente majore. Dacă mai rămâi și acasă, simplul fapt că nu te mai aranjezi, nu te mai pregătești de interacțiune cu oamenii, nu mai pierzi timp să mergi la birou și nu mai duci gunoiul, timp de 3 zile ai timpul necesar să rezolvi o problemă medie în IT. Productivitatea ta ca programator depinde de asta. Da, după asta, va trebui să te ocupi și de ce nu te-ai ocupat în astea 3 zile, dar e foarte important să îți rezervi activ aceste perioade de focus. Din experiența proprie, niciodată această perioadă de focus nu ar trebui să depășească 7 zile, e deja prea mult și productivitatea ta scade dramatic unde mai pui și că te ia cu burnout. O perioadă de focus ce o recomand e de 3 zile de lucru intens, măcar la 2 săptămâni. Degeaba muncești 7 zile intens, dacă 3 săptămâni după asta ești legumă. Nu uita că jocul este pe termen lung, așa că dacă lucrezi până te consumi de tot și nu mai lași nimic pentru tine nu ai făcut nimic, decât rău ție.&lt;/p&gt;
+&lt;h2&gt;Trăiești izolat ca programator?&lt;/h2&gt;
+&lt;p&gt;Nu, doamne ferește, ba chiar de multe ori e total opusul. Dacă toată lumea te vede izolat începe să devină curioasă de ce ești izolat. Ține cât mai secret acest lucru și nu mai spune la nimeni. 🙄&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/este-cvul-esential-pentru-a-ajunge-la-interviu/">
     <title type="text">Este CV-ul esențial pentru a ajunge la interviu?</title>
     <id>urn:uuid:4eda39e9-a2da-3956-9dce-85cb13408a01</id>
