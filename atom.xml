@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-01-27T00:00:00Z</updated>
+  <updated>2020-01-28T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-faci-fata-intreruperilor/">
+    <title type="text">Cum să faci față întreruperilor?</title>
+    <id>urn:uuid:e7eb5b87-a280-30e7-86fc-716367ba8b3b</id>
+    <updated>2020-01-28T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-faci-fata-intreruperilor/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;De-a lungul zilei e idealist să crezi că totul va merge lin și îți vei face treaba așa cum ți-ai propus. Nu, nu se va întâmpla asta. Tot timpul vor apărea lucruri care să te întrerupă de la ce faci și tot timpul vor fi incendii de rezolvat, incendii de orice fel.&lt;/p&gt;
+&lt;p&gt;Problemele medii/mari pe care le rezolvi de-a lungul carierei vor necesita să îți faci loc pentru un mediu care să minimalizeze întreruperile pe o perioadă limitată. Și va fi nevoie de timp pe care o să ți-l acorzi ca să intri în profunzime în problemele mari de care te ocupi. Acest timp ți-l vei găsi cu orice preț, inclusiv și în afara orelor de serviciu dacă nu se poate altfel. Poate fi noaptea târziu sau dimineața devreme, dacă e nevoie, va trebui să o faci și pe asta.&lt;/p&gt;
+&lt;p&gt;În rest, de-a lungul zilei, întreruperi vor apărea oricum, de orice fel. Sunt totuși ceva lucruri ce poți să le ai în vedere pentru a lucra mai eficient.&lt;/p&gt;
+&lt;p&gt;De exemplu interacțiunile față în față ar trebui evitate pe cât posibil dacă nu sunt necesare. Acestea necesită să te întrerupi complet din ce făceai și să revii foarte greu înapoi. Mediul scris e mult mai eficient pentru că așa, poți să răspunzi și fără să te întrerupi de la treabă.&lt;/p&gt;
+&lt;p&gt;La fel de deranjante sunt și apelurile telefonice. Și ele dacă se poate trebuie reduse la mediul scris.&lt;/p&gt;
+&lt;p&gt;Acum că toată lumea te caută pe chat, și primești zeci de mesaje pe zi, problema e că trebuie să te ocupi și de ele. Asta o faci, imediat, sau cât mai repede când ai un răspuns. Majoritatea lucrurilor sunt chestii mărunte la care poți da un răspuns instant fără să te deranjezi. Dacă lași pe mai încolo, doar se adună un teanc de mesaje nescrise. Eficiența aici constă în faptul că tratezi mesajele pe măsură ce vin și așa nu ai niciodată chestii de făcut pe mai încolo, totul se rezolvă pe moment. Așa îți faci un mediu de lucru în care deși nu ești super focusat, pentru că te aștepți să citești un mesaj dacă apare, în același timp îți faci și treaba, pentru că dacă necesită prea mare investiție pe moment, răspunzi mai încolo, fără să te întrerupi și fără să rămâi în urmă cu ce se întâmplă. Este o prioritizare în timp real.&lt;/p&gt;
+&lt;p&gt;Dacă ai nevoie de ceva mai în profunzime, rămâne varianta dimineața devreme sau seara târziu când e activitate umană mai rară. Nu trebuie să fugi de întreruperi sau să aduni lucruri de făcut mai încolo care să te streseze că nu apuci să le faci, majoritatea problemelor ce apar de-a lungul zilei, dacă sunt bine compartimentate se pot rezolva pe moment și poți să faci față la multe requesturi.&lt;/p&gt;
+&lt;p&gt;De-a lungul zilei vei avea multe interacțiuni cu oamenii și singurul mod prin care să le eficientizezi și să nu o iei razna e să ai în vedere că un simplu mesaj scris în loc de o interacțiune față în față ușurează foarte mult treaba!&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-daca-ramai-fara-serviciu/">
     <title type="text">Ce să faci dacă rămâi fără serviciu?</title>
     <id>urn:uuid:d0f7f9ec-e589-35c0-b773-8c3f2c720b8a</id>
