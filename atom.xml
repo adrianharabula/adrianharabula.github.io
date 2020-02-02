@@ -2,15 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-01T00:00:00Z</updated>
+  <updated>2020-02-02T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itisti-termen-lung/">
+    <title type="text">Time tips pentru ITiști pe termen lung</title>
+    <id>urn:uuid:0dcf7dc1-6b45-35f9-8a3e-9fd29663394e</id>
+    <updated>2020-02-02T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itisti-termen-lung/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Ca să fii mai productiv și pe termen lung, iată ce ar trebui să ai în vedere în plus față de &lt;a href=&quot;../../../../blog/2020/02/time-tips-pentru-itsti-termen-scurt/&quot;&gt;organizarea pe termen scurt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Munca de-a lungul unui proiect se împarte în 3 faze:&lt;/p&gt;
+&lt;h2&gt;Faza de arhitectură&lt;/h2&gt;
+&lt;p&gt;Este faza cea mai abstractă pentru că nimic nu e clar. Nu se știe ce rezolvi, nu se știe ce tehnologii vei folosi și nu se știe ce probleme pot apărea. E taskul cel mai greu pentru că din mijlocul oceanului trebuie să ajungi la țărm cu pluta, viu. Este un timp foarte bun pentru a studia cum alte mari proiecte au abordat ce vrei tu să rezolvi și să te inspiri din ele. Nu este exclus, ba chiar recomandat să apelezi la alți experți din domeniu pentru a obține idei de proiectare. Poți merge chiar și la meetups pe domeniu. Toate astea fac parte din timpul de lucru. Faci munca de arhitectură asupra ce va fi peste 2-5-10 ani într-o firmă. Este foarte mult de gândit și e un proiect complex. Aici dacă te implici găsești proiectele de cele mai lungă durată, pot fi și proiecte pe zeci de ani.&lt;/p&gt;
+&lt;h2&gt;Faza de implementare&lt;/h2&gt;
+&lt;p&gt;Aici începe să fie clară direcția, pașii de făcut și proiectul e doar o chestiune de timp. Foarte important în această fază este timpul neîntrerupt al programatorilor pentru a putea duce la capăt treaba. Un plan foarte bun este de a se începe întotdeauna cu sfârșitul. Pentru un proiect de 6 luni, se începe cu ce vrem să facem în astea 6 luni, apoi 3 luni, apoi dacă astea sunt clare, lună de lună ne putem focusa pe ce e de abordat. Cu cât e mai clar obiectivul final pe 6 luni, de cu atât mai puțin e nevoie de discuții cu ce să facem zi de zi, săptămână de săptămână, lună de lună. Dar nu e o regulă, au loc aceste discuții ori de câte ori e nevoie. Meetingurile clasice standup în care în fiecare zi echipa se întâlnește la un call în care fiecare zice ce are de făcut e doar cel mai prost nivel de organizare pentru că focusul e pe ce e de făcut azi și nu se vorbește niciodată ce se face în 6 luni. Ce se întâmplă azi rareori contează într-un proiect IT, ci ce va fi peste 6 luni e mult mai important în primul rând pentru că de acolo vine și valoarea pe care o oferă proiectul la care lucrezi și foarte posibil și încasările pentru a acoperi salariul tău.&lt;/p&gt;
+&lt;h2&gt;Faza de mentenanță&lt;/h2&gt;
+&lt;p&gt;Spre final, proiectul e deja pus de picioare, dar, există foarte multe modificări mici de făcut acum, de finețe. Acestea pot dura foarte mult și pot fi împrăștiate pe o perioadă lungă de timp, Proiectul e în stadiu final, dar încă se mai lucrează la el. Este faza cea mai frumoasă a proiectului, pentru că oferă mai multă liniște și stabilitate. Dacă ai ajuns aici, știi că proiectul va mai fi și peste 2-5-10 ani măcar, ce e de lucru la el nu te mai surprinde și dacă apare o problemă se rezolvă pe loc pentru că știi de la ce e și cum să repari. De altfel nu mai e atât de mult cantitativ de lucru, iar cu timpul liber rămas poți planifica proiecte următoare, poți urma traininguri noi sau pur și simplu poți a lua o pauză, un concediu.&lt;/p&gt;
+&lt;p&gt;Eficiența este despre a avea un drum comun de-a lungul unui proiect, de a ști exact unde vrem să ajungem și despre comunicarea între membrii echipei. Dacă astea sunt bine puse la punct, șansele ca ceva să meargă rău sunt mult mai mici. Dacă oamenii se înțeleg și știu încotro se îndreaptă proiectul este unul mult mai eficient.&lt;/p&gt;
+&lt;p&gt;La interviuri mai sunt și întrebări de genul, &quot;cât de confortabil ești cu schimbarea priorităților și trecerea de la un proiect la altul de-a lungul unei zile?&quot;. Fugi cât poți de acea firmă, bătaia este întotdeauna pe termen lung. Focusul nu este pe a controla angajatul și a verifica în mod amănunțit ce face zi de zi. Deși abordarea asta presupune multă încredere și libertate pentru oamenii cu care lucrezi, fără să le dai taskuri, există un simplu mod pentru a vedea dacă se face treabă sau nu. La sfârșitul lunii, este gata treaba? După ce au trecut 6 luni, a ajuns proiectul unde trebuia să fie? Dacă da, ce mai contează ce face angajatul zi de zi?&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itsti-termen-scurt/">
-    <title type="text">Time tips pentru ITști pe termen scurt</title>
+    <title type="text">Time tips pentru ITiști pe termen scurt</title>
     <id>urn:uuid:46500ff0-f661-37f4-a6c7-40c355249d83</id>
     <updated>2020-02-01T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itsti-termen-scurt/" />
