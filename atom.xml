@@ -2,13 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-02T00:00:00Z</updated>
+  <updated>2020-02-03T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/">
+    <title type="text">Poți să închei ziua la serviciu și dacă nu ai terminat treaba?</title>
+    <id>urn:uuid:443a7714-2d61-39de-8dcf-3fa8eecde31e</id>
+    <updated>2020-02-03T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Poate un lucru greu pentru programatori este să își încheie ziua. Tot timpul e ceva de făcut, tot timpul se mai poate face încă ceva și totuși sunt doar 8h într-o zi de lucru. Cum să închei ziua? Trebuie neapărat să termini treaba?&lt;/p&gt;
+&lt;p&gt;De cele mai multe ori, se poate pune stop și da, e și mâine o zi. Nu se supără nimeni dacă pleci primul de la birou. Doar cei care se întrec care muncește mai mult și nu știu încă că fiecare avem rolurile noastre și ritmurile noastre proprii de lucru și viețile noastre personale.&lt;/p&gt;
+&lt;p&gt;Poți rămâne mai mult, dar s-ar putea să nu rezolvi mare lucru oricum. Bine poate ești norocos într-o seară și ești mai productiv, dar asta ar trebui să fie excepția nu regula.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itisti-termen-lung/">
     <title type="text">Time tips pentru ITiști pe termen lung</title>
     <id>urn:uuid:0dcf7dc1-6b45-35f9-8a3e-9fd29663394e</id>
@@ -1377,28 +1390,6 @@ Dar tot vechile prietenii înseamnă mai mult!&lt;/p&gt;
 &lt;p&gt;Ianuarie a fost o lună şmecheră, deşi grozavă din punct de vedere financiar, puţin mi-a păsat. Vechile prietenii au contribuit cam de 10x mai puternic la nivelul de fericire.&lt;/p&gt;
 &lt;p&gt;Pe viitor, poate revin şi cu ceva studii, date legate de vechile prietenii.&lt;/p&gt;
 &lt;p&gt;Până atunci, vechii prieteni, găseşte-i, căci dacă vrei să fii mai fericit, cu ei ai de discutat 🙂&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2016/01/programare-humanum-est/">
-    <title type="text">Hello World: Programare humanum est</title>
-    <id>urn:uuid:96e2dbd3-ac35-34ad-8466-0dcdd376fcf9</id>
-    <updated>2016-01-23T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2016/01/programare-humanum-est/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;Mi-am dorit de mic să fac programare. Încă nu prea erau calculatoare şi aveam cam 4 ani.&lt;/p&gt;
-&lt;p&gt;Primul calculator arăta cam aşa:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2016/01/programare-humanum-est/primul_pc_cip.jpg&quot; alt=&quot;Primul PC,  Electronica CIP 03&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Iar „CD-ROM”-ul pe-atunci era:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2016/01/programare-humanum-est/casetofon-302-2m.jpg&quot; alt=&quot;Casetofon cu casete prin 1996&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Îmi amintesc cum aşteptam să se încarce BASIC de pe casetă, evident, ca să scriu ce avea să fie primul meu program Hello World:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;PRINT &quot;Hello, world!&quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Nu mai îmi aduc aminte ce s-a întâmplat de-atunci înainte, au urmat o serie de evenimente. Am fost la şcoala generală, la liceu, apoi la facultate. Am făcut programare în acest timp, dar nu prea mult, doar ceva să fie. Oricum erau teme de făcut, nu prea aveam eu timp de dintr-astea.&lt;/p&gt;
-&lt;p&gt;Niciodată nu a funcţionat se pare, fă tema şi apoi în timpul liber programează. A fost eroarea ce probabil m-a costat ani de zile. Dar până să îmi dau seama că îmi place cu adevărat să fac programare, a fost preţul pe care l-am plătit.&lt;/p&gt;
-&lt;p&gt;Eventual când mi-am dat seama ce-mi place suficient de mult a fost şi momentul când am început să fac ceva în privinţa asta. Cum nu aveam cum să mă întreţin singur atunci, am făcut totuşi saltul periculos de a rămâne fără bani de chirie şi mâncare (şi chiar am şi rămas 🙂 ), programând pe cont propiu, ca „freelancer”.&lt;/p&gt;
-&lt;p&gt;Nu au fost cele mai uşoare vremuri, dar îmi amintesc cu drag că tot acest timp am avut pentru ce lupta şi nicio zi nu a fost pierdută. Orice înfrângere a fost defapt cărămida pentru succesul de mâine. Iar acest MÂINE se pare că există şi îl trăiesc azi aici. Pentru că dacă nu aş fi făcut saltul atunci, probabil acum aş fi fost pe cu totul o altă direcţie, iar această mică plăcere de a scrie cod pentru a face lucruri utile, mai uşor, mai eficient, mai rapid ar fi fost uitată în schimbul a ceva futil.&lt;/p&gt;
 </content>
   </entry>
 </feed>
