@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-05T00:00:00Z</updated>
+  <updated>2020-02-06T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/">
+    <title type="text">De ce ar trebui minim 10 ani dedicați dacă vrei să fii programator?</title>
+    <id>urn:uuid:ab0b6e8a-b7ee-3c5c-afc2-701a008a5a89</id>
+    <updated>2020-02-06T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Poate nu e cel mai fancy subiect de discutat, dar dacă vrei să fii serios pe acest drum, va trebui o oarecare dedicare. Nu e suficient doar să vrei să faci un site, sau o aplicație, acestea sunt doar niște bune începuturi, dar nicicum un țel dacă vrei să fii serios în domeniu.&lt;/p&gt;
+&lt;p&gt;Să zicem că vrei să începi de la zero în IT. O facultate în domeniu necesită 3/4 ani, timp în care vei fi abia familiar în ansamblu cam cu ce e prin IT, ce tehnologii, ce domenii și ce posibile direcții ar putea fi. Mai mult de atât, majoritatea informațiilor de acolo nu te ajută în ce vei face zi de zi la serviciu, sunt doar o inițiere.&lt;/p&gt;
+&lt;p&gt;Mai încolo, după facultate, te angajezi la o firmă și în primii 2 ani, reușești să devii familiar cam cu ce se face într-o companie IT. Până acum sunt 5 ani și încă ești la nivel începător. Poate ai o direcție, dar încă se mai poate schimba. Începi poate să stăpânești o tehnologie, și descoperi ceva la care te pricepi. Dar iarăși, este abia începutul.&lt;/p&gt;
+&lt;p&gt;În următorii 5 ani, înveți că tehnologiile folosite nu sunt defapt așa importante și că deciziile mari, sunt despre ce proiecte să fie luate, dacă sunt suficienți oameni pentru acele proiecte și dacă proiectul ar putea avea succes suficient cât salariile plătite către programatori să se justifice.&lt;/p&gt;
+&lt;p&gt;În plus, în tot acești ani, va trebui să fii la curent cu toate tehnologiile noi, să înveți cât mai multe, despre orice ține de domeniul IT, dar va trebui să știi și multe altele, despre cum să prezinți o idee, cum să lucrezi cu oameni într-o echipă, cum să vinzi.&lt;/p&gt;
+&lt;p&gt;Nu e suficient să te chinui 2 ani să îți iei un job în IT doar pentru că e mai bine plătit, trebuie chiar să vrei să faci asta și să fii implicat dacă nu 20 de ani, măcar 10 ani...&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/unde-esuam-cand-ascultam-sefii/">
     <title type="text">Unde eșuăm când ascultăm șefii?</title>
     <id>urn:uuid:bd5902ed-6585-3f6b-8e37-8241b205f903</id>
@@ -1336,42 +1352,6 @@ Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor
 &lt;p&gt;&lt;a href=&quot;http://rentapet.co&quot;&gt; &lt;img src=&quot;../../../../blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg&quot; alt=&quot;Rent A Pet&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2016/03/primul-venit-din-freelancing/">
-    <title type="text">Primul venit din freelancing</title>
-    <id>urn:uuid:4be6d229-3ec1-3e07-9240-5c5af3fbcf2d</id>
-    <updated>2016-03-24T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2016/03/primul-venit-din-freelancing/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;Acum un an, în ianuarie ajunsesem în Iaşi cu 5 lei în buzunar, după ce fusesem &lt;a href=&quot;http://www.meditatie.ro&quot;&gt;la Dumbrava la meditat&lt;/a&gt; o lună înainte. Nu am făcut prea multe cu ei, mi-am luat nişte mămăligă şi paste. A fost mâncarea mea 2 săptămâni.&lt;/p&gt;
-&lt;p&gt;Pentru prima dată am început să înţeleg eu cu adevărat pe-atunci cam ce înseamnă să ai încredere în tine. În mai puţin de 30 de zile avea să mi se decidă soarta. &lt;a href=&quot;http://crististefan.com/tenerife&quot;&gt;Ajung din nou homeless&lt;/a&gt;, sau reuşesc în sfârşit să mă susţin de unul singur?&lt;/p&gt;
-&lt;p&gt;De zeci de astfel de încercări am mai avut parte în ultimii ani, însă de fiecare dată am eşuat. Să fi reuşit acum… nu prea era aşteptat, însă nu mai conta.&lt;/p&gt;
-&lt;p&gt;Nimic nu mai aveam de pierdut oricum…&lt;/p&gt;
-&lt;p&gt;Iar eşecul cel mai mare, nu era chiar atât de înfricoşător, căci te puteai obişnui cu el rapid şi până la urmă, nu era chiar aşa greu de suportat. Ba din contra era chiar mai eliberator, căci mai degrabă regreți ce nu ai încercat decât ce ai făcut şi a mers prost.&lt;/p&gt;
-&lt;p&gt;Normal că nu e cel mai uşor lucru să te rupi de tot şi să fii pe pielea ta, dar dacă te aştepţi să urmeze vremuri grele, parcă vorbim pe altă limbă 🙂&lt;/p&gt;
-&lt;p&gt;Iar încă o încercare, cine ştie, ar fi putut fi încercarea care îmi arată în sfârşit calea…&lt;/p&gt;
-&lt;p&gt;Aşa că m-am pus pe treabă. Nu munceam intens, dar când eram la lucru, eram la lucru. Mi-am ales o platformă ce am crezut că are ceva potenţial la momentul de atunci… &lt;a href=&quot;https://hackhands.com/adrianharabula/&quot;&gt;hackhands.com&lt;/a&gt; şi am stat cu ea… până am sângerat!&lt;/p&gt;
-&lt;p&gt;Timpul tot trecea, o zi, două zile, o săptămână…&lt;/p&gt;
-&lt;p&gt;Rezultate nu prea erau…&lt;/p&gt;
-&lt;p&gt;Pastele erau gata deja, mămăliga se ducea şi ea…&lt;/p&gt;
-&lt;p&gt;Eventual a trebuit să fac greul… Pentru prima dată am cerut de mâncare… De la cine-am cerut, mi-a zis că bine am făcut deşi nu prea am înţeles eu pe atunci ce putea fi atât de bine în asta. Binele era că mi-am dat seama că eu credeam că mă descurc dar în realitate nu mă descurcam, iar primind mâncare am lăsat mândria deoparte și am început să îmi evaluez mai realist capabilitățile.&lt;/p&gt;
-&lt;p&gt;Niciodată nu reuşeşti de unul singur şi ăsta e unul din acele exemple.&lt;/p&gt;
-&lt;p&gt;Juma de lună deja trecuse, însă veştile bune erau că mai aveam încă 7 zile de mâncare asigurate.&lt;/p&gt;
-&lt;p&gt;Încă ceva zile rămase, însemnau încă ceva şanse de reuşită.&lt;/p&gt;
-&lt;p&gt;Evident, tot acest timp, a fost şi o zi mai specială, ca în orice poveste frumoasă.&lt;/p&gt;
-&lt;p&gt;Era ziua în care aşteptam clienţi, ca şi cele 15 zile precedente, nimic special sau diferit nu făcusem. Însă dintr-o dată, pac! a apărut primul client. 50$ făcuţi… 30 de zile de chirie înainte le aveam garantate.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Prima dată în viaţă când am avut garanţia că 30 de zile am un acoperiş deasupra capului a fost pe de parte cel mai nepreţuit moment!!!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Luna a trecut de-atunci, încet, încet. La finele ei aveam per total 300$ făcuţi, cam de 6 ori mai mult decât cei 50$ pe care estimasem eu că am nevoie până la sfârşitul lunii ca să o duc mai departe încă o lună.&lt;/p&gt;
-&lt;p&gt;Era de altfel şi luna record de venit. 300$ într-o lună era un venit masiv, având în vedere că mai mult de 100$ nu-mi amintesc să fi scos vreodată din freelancing.&lt;/p&gt;
-&lt;p&gt;Mult credit reuşitei il atribui faptului că am ales o platformă şi am stat cu ea, chiar şi când lucrurile nu mergeau.&lt;/p&gt;
-&lt;p&gt;Începeam să mă gândesc pe unde să călătoresc, cum să dau o fugă pe acasă repede să le zic la părinți cum m-a lovit succesul peste noapte, ce buget să setez pentru mâncare, cât să pun deoparte pentru calculator…&lt;/p&gt;
-&lt;p&gt;Şi de la a te gândi că mâine nu mai ai acoperiş, era un salt… Era altă mentalitate…&lt;/p&gt;
-&lt;p&gt;Începuse să-mi placă… 🙂&lt;/p&gt;
-&lt;p&gt;Apropo… până atunci nu am avut PC, lucrasem de pe un calculator împrumutat…&lt;/p&gt;
-&lt;p&gt;2 luni mai încolo, abia prin martie îmi luasem un laptop, dar asta pe un articol viitor unde voi mai scrie ce a urmat după 😉&lt;/p&gt;
 </content>
   </entry>
 </feed>
