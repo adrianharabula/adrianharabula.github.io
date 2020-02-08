@@ -2,13 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-06T00:00:00Z</updated>
+  <updated>2020-02-07T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/">
+    <title type="text">De ce nu e suficient să știi doar programare?</title>
+    <id>urn:uuid:a1aba2e2-ba88-3b71-9a7c-61c1c210dc5c</id>
+    <updated>2020-02-07T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Programarea este doar ceva ce te ajută să descoperi ceva îți place ție să faci. E ceva prețios cu care îți ocupi timpul și pentru că mulți nu or să înțeleagă ce faci și ce reprezintă, ajungi să o protejezi, ca pe o artă. Rămâne ceva cu care poate nu te-ai lăuda zi de zi, și ai prefera anumite detalii să rămână doar între cunoscători.&lt;/p&gt;
+&lt;p&gt;Dar blogul l-am pornit tocmai din cauza asta, pentru că nu vreau ca programarea să fie doar într-un cerc închis. Informația ar trebui să fie liberă și oricine are un interes minim să aibă contact cu ce se întâmplă în domeniu. Provocarea este să expun aceste idei, la un public, care să fie receptiv, la calitățile subtile de a fi programator și nu la prea multe detalii tehnice. Articolele tehnice sunt valabile doar un anumit timp, în câțiva ani tehnologiile ușor se schimbă și articolele devin irelevante. Caut să expun acele principii atemporale ale unui programator care au fost valabile acum 10 ani și vor fi și următorii 10 ani, 20 de ani.&lt;/p&gt;
+&lt;p&gt;Este programarea o artă, dar nu e nimic secret, trebuie doar avut grijă cu cine împărtășești această artă. De exemplu, ești super pasionat de programare și găsești o firmă unde să îți afirmi din plin această pasiune dar șeful tău nu înțelege asta, pentru el este doar un proiect care trebuie terminat. Nu e nici om tehnic, nici un om cu care vorbești prea mult, doar îți zice că trebuie gata proiectul și că nu contează așa mult detaliile specifice ale implementării, trebuie ceva cât mai simplu.&lt;/p&gt;
+&lt;p&gt;Aici e un caz comun în care să știi programare, nu e suficient. Majoritatea timpului de aici încolo îl vei dedica luptând pentru ideile tale în care crezi și ți le asumi. Deși proiectul te pasionează mult, defapt munca este de convingere a șefului, de ce durează atât, de ce abordăm problema așa și ce probleme ar putea apărea dacă simplificăm mai mult decât trebuie proiectul. Toată această imensă cantitate de energie este dedicată convingerii șefului. De multe ori se prea poate ca proiectul să fi fost gata foarte eficient și rapid dacă nu ar mai fi fost necesare prea multe explicații. Dar proiectul vine la pachet și cu asta. Când alegi proiectul, per ansamblu parte din estimarea ta trebuie să includă și această muncă de convingere.&lt;/p&gt;
+&lt;p&gt;Și nu e suficient doar să fii programator bun, pentru că vei avea și o viață în afara serviciului, și faptul că ești bun la serviciu, nu înseamnă neapărat că e la fel de bună și viața ta personală. Sunt multe lucruri de care ar trebui să te ocupi și care nu au legătură cu serviciul. Sănătatea ta, prietenii din jur, lucrurile care te provoacă în afara serviciului, de toate astea trebuie să te ocupi, oricât de pasionat ai fi de programare, în primul rând trebuie să te ocupi și de aspectele vieții care mai apar din când în când.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/">
     <title type="text">De ce ar trebui minim 10 ani dedicați dacă vrei să fii programator?</title>
     <id>urn:uuid:ab0b6e8a-b7ee-3c5c-afc2-701a008a5a89</id>
@@ -1314,44 +1329,6 @@ bundle install
 Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor, dar au găsit acel ceva care le place atât de mult încât i-a pus să facă și lucrurile care nu le plac, dar care trebuie făcute pentru a merge înainte.&lt;/p&gt;
 &lt;p&gt;Încă nu știu să zic de ce am ajuns la facultate, sau de ce am ajuns să dau telefoanele când lucram la startup. Dar ce pot să zic e că erau stuff to get done. Nu erau plăcute, dar dacă erau făcute mergeai mai departe. Dacă nu, apăreau probleme.&lt;/p&gt;
 &lt;p&gt;Cam asta e.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/">
-    <title type="text">De ce Rent A Pet au câștigat și ceilalți nu?</title>
-    <id>urn:uuid:f5484a8c-b7e4-31a3-a357-c13d8243652c</id>
-    <updated>2016-11-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/" />
-    <author>
-      <name></name>
-    </author>
-    <content type="html">&lt;p&gt;Îmi amintesc pitchul... Era prezentat bine, era ceva scos pe moment, era vorba de un app unde să cauți oameni la care poți să îți lași animăluțul atunci când pleci pe undeva. De aici și numele, Rent a Pet.&lt;/p&gt;
-&lt;p&gt;Pe moment, nu ai fi zis că ar putea fi ceva interesant, erau și alte idei în sală... Dar nu era vorba de persoana care prezenta și nici de idee. Pentru că un singur lucru conta mai mult decât amândouă la un loc, și anume echipa.&lt;/p&gt;
-&lt;p&gt;2 zile mai încolo, &lt;a href=&quot;https://www.facebook.com/rentapet&quot;&gt;Rent A Pet&lt;/a&gt; au luat locul 1 la Startup Weekend Iași. Voi prezenta în continuare câteva lucruri, pe care ei le făceau și celelalte echipe nu, încă dinainte de a fi premiați.&lt;/p&gt;
-&lt;h1&gt;1. În primul rând, echipa&lt;/h1&gt;
-&lt;p&gt;Având 10 membrii, au fost una din cele mai numeroase echipe. Perechi de câte 2 se cunoșteau dinainte și au ajuns în aceeași echipă. Faptul că erau astfel de subgrupuri, i-a ajutat să fie uniți până la sfârșit. Dar cum au reușit să ducă la capăt un produs câștigător într-un weekend?&lt;/p&gt;
-&lt;h1&gt;2. Fiecare a avut treaba lui, de care era responsabil.&lt;/h1&gt;
-&lt;p&gt;Se știa foarte bine fiecare ce are de făcut. Când un mentor trecea pe lângă masă, vedea exact ce lucrează fiecare. Se știa exact persoana căruia să te adresezi pentru ceva anume.&lt;/p&gt;
-&lt;p&gt;Nu era vorba despre idee în sine ci despre fiecare ce poate face ca echipa să ajungă către destinația comună.&lt;/p&gt;
-&lt;p&gt;Știau de la început unde vor fi la sfârșit. Doar și-au împărțit sarcinile și au mers mai departe.&lt;/p&gt;
-&lt;h1&gt;3. Orice lucru început, era terminat.&lt;/h1&gt;
-&lt;p&gt;Au avut chestii terminate. Stickere terminate, app de android terminat, sait terminat. Au dus la capăt tot ceea ce au început, tot ceea ce a fost prezentat, era la stadiul finished. Nimic nu era lăsat pe mai încolo. Orice a fost prezentat se putea confirma cu hard workul din spate.&lt;/p&gt;
-&lt;h1&gt;4. Nu au avut niciodată impresia că vor câștiga.&lt;/h1&gt;
-&lt;p&gt;Nici măcar după prezentările finale! Asta i-a determinat să lucreze la foc continuu, oriunde, oricând, indiferent de moment, la orice minut. Tot timpul era ceva ce se putea face un pic mai bine, și au folosit fiecare minut pentru astfel de ajustări mici.&lt;/p&gt;
-&lt;p&gt;Știau că are valoare ceea ce fac, dar niciodată nu au crezut peste măsură asta. Nu înainte să munceasă din greu. Nu înainte să asculte și părerea altora. Știau că cineva ar putea știi mai multe decât ei și au folosit fiecare conversație să afle mai mult. Din fiecare conversație plecau cu ceva în plus pentru că... ascultau!&lt;/p&gt;
-&lt;h1&gt;5. Proiectul era real. Au construit un brand.&lt;/h1&gt;
-&lt;p&gt;Au fost singurii care la sfârșit au avut stickere cu logoul lor, flyere cu Rent A Pet în toată sala, singurii care au avut chiar și mape cu logoul lor. Poate însemna o nimica toată asta, pentru că toată lumea face deja asta, dar în situația dată, au fost singurii din cele 8 echipe participante care au avut asta.&lt;/p&gt;
-&lt;p&gt;Toată lumea știa cine sunt cei cu Rent A Pet la sfârșit. Oricine vedea logoul, vizita pagina de facebook, descărca aplicația Android, absolut oricine știa despre ce era vorba. Au adunat oameni interesați. O comunitate în jurul idei deja se forma.&lt;/p&gt;
-&lt;p&gt;Astea sunt pe scurt lucrurile care ei le făceau și ceilalți nu. Făcând cele de mai sus au pus ca șansele să lucreze pentru ei, nu împotriva lor.&lt;/p&gt;
-&lt;p&gt;Pe cealaltă parte, restul făceau lucrurile pe dos, cum ar fi:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;era despre ideea lor, credeau peste măsură că ceea ce lucrează este grozav, neavând o imagine precisă și conformă cu realitatea asupra a ceea ce făceau&lt;/li&gt;
-&lt;li&gt;nu știa fiecare ce are de făcut și încotro se merge, direcția nu era clară&lt;/li&gt;
-&lt;li&gt;nu aveau un brand, tot ceea ce făceau se putea copia ușor&lt;/li&gt;
-&lt;li&gt;purtau pică celor care erau mai buni ca ei, nu se bucurau de succesul altora.&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;se pricepeau la nimicuri, și nu se pricepeau la lucrurile care contau cu adevărat. Lucrau la logo, mai mult decât la lucruri cheie care să facă oamenii să plătească pentru ceea ce ofereau.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://rentapet.co&quot;&gt; &lt;img src=&quot;../../../../blog/2016/11/dece-rentapet-au-castigat-si-ceilalti-nu/rentapet.jpg&quot; alt=&quot;Rent A Pet&quot;&gt; &lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
