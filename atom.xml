@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-07T00:00:00Z</updated>
+  <updated>2020-02-08T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/">
+    <title type="text">Cum să nu faci burnout ca programator?</title>
+    <id>urn:uuid:1526226a-6aef-30e4-ba4b-dff358cca7a8</id>
+    <updated>2020-02-08T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Viața de programator este una foarte palpitantă, pentru că chiar și după mulți ani poți încă să nu îți știi limitele și tot să muncești mai mult decât poți duce. Când se întâmplă asta productivitatea scade brusc și devii o legumă câteva zile în funcție de severitate, timp în care nu vei mai putea face muncă intelectuală.&lt;/p&gt;
+&lt;p&gt;Ca să eviți asta, iată câteva tipsuri pentru a evita burnout-ul:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;o problemă dacă durează prea mult, e bine să fie lăsată în pace. În acel timp iei o pauză, faci și altceva. Cum îți dai seama că durează prea mult? Te enervezi, cu cât încerci prea mult, cu atât vezi că nu iese, și dacă se întâmplă asta de 2 zile deja, e semn că poate mai bine te distanțezi un pic de problemă și să lași un timp de relaxare în care să faci și altceva. Nu ai fi surprins dacă în acel timp de relaxare, ideea care ar rezolva problema ar veni din senin.&lt;/li&gt;
+&lt;li&gt;dacă bagi 10-14h pe zi de lucru, mare grijă la ce rămâne în urmă în viața ta personală. Lași în primul rând activitățile extra după serviciu, apoi sănătatea și ea devine pe locul doi sau trei, și mai lași și din odihnă, e clar, un ritm riguros de lucru nu este compatibil cu viața pe termen lung! Trebuie avut în vedere toate astea când se trece o limită să știi să te retragi.&lt;/li&gt;
+&lt;li&gt;ultimul lucru, e să stai de veghe la birou, adică nici să rezolvi o problemă anume, dar nici să nu stai liber, trec orele, nu faci nimic productiv, dar nici relaxat nu ești, acesta e poate inamicul cel mai demotivant dintre toate, pentru că tu se pare că te zbați și ești prezent și te dedici, dar în realitate trec ani și nu faci nimic, doar te păcălești pe tine, doar stând pe net și navigând pe net nu îți va aduce nimic benefic, nici ție, nici firmei pentru care lucrezi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Am zis mai sus de program de lucru 10-14h pe zi, nu, nu e un typo, e pe bune. Uneori e de băgat lucru. Nu ai ce să faci. Trebuie doar să știi să te retragi înainte să fii nevoit să îți iei concediu cu forța. Un țel pe termen lung foarte bun de avut în vedere, e ca tot ce ține de serviciu să fie rezolvat în cele 8h dintr-o zi. Restul încet încet trebuie să îți găsești și alte activități ce țin de viața personală. Primii 10 ani serviciul va fi prioritar, dar nu poate fi pe primul loc tot timpul, la un moment dat va ajunge altceva pe primul loc, o familie sau orice altceva și atunci vei folosi toată experiența adunată de până acum ca să rezolvi problemele într-un alt mod, fără ca să mai fie nevoie să depui cele 10-14h de lucru pe zi.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/">
     <title type="text">De ce nu e suficient să știi doar programare?</title>
     <id>urn:uuid:a1aba2e2-ba88-3b71-9a7c-61c1c210dc5c</id>
@@ -1303,32 +1321,6 @@ bundle install
 &lt;li&gt;&lt;a href=&quot;https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi&quot;&gt;#6&lt;/a&gt; make you DIY router with OpenWrt and Raspberry Pi &lt;/li&gt;
 &lt;li&gt;and many more :D&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2016/11/dece-facultate/">
-    <title type="text">De ce o facultate</title>
-    <id>urn:uuid:977f5a78-51f2-3de6-9cdb-82532b67dc9a</id>
-    <updated>2016-11-10T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2016/11/dece-facultate/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;Încă nu știu de ce ocupându-mă full time de startup m-am întors la facultate.&lt;/p&gt;
-&lt;p&gt;Poate am crezut că nu strică ceva statut social căci ăsta a lipsit total cât am lucrat pe cont propriu sau poate m-am gândit să fac părinții să salte în sus de bucurie că în sfârșit fac ceva cu viața mea sau poate pur și simplu am venit să termin ceva ce am lăsat neterminat mai demult și ar fi frumos să rezolv acum.&lt;/p&gt;
-&lt;p&gt;Sau poate am vrut să iau o vacanță de la săptămânile de lucru de 90 de ore, căci după un timp, uzura se adună... afacerile nu sunt cel mai ușor lucru de pe lume.&lt;/p&gt;
-&lt;p&gt;Nu știu să dau un răspuns de ce m-am întors, pentru că nu îl am.&lt;/p&gt;
-&lt;p&gt;Dar ce pot să zic, e că &lt;strong&gt;viața asta nu poți face numai ce îți place. Vor fi o groază de lucruri pe care nu îți va face plăcere să le faci, dar va trebui să le faci.&lt;/strong&gt; Facultatea e unul din ele.&lt;/p&gt;
-&lt;p&gt;În afara facultății, povestea e aceeași, nu scapi de aceste lucruri. Atunci când lucram la startup, pe cât de mult mi-a plăcut să concep aplicația, să-i scriu codul și să prezint asta la un client care să plătească pentru ea, pe atât de mult mi-a displăcut să dau telefoanele de vânzare, să iau zecile de refuzuri și să fac asta în timpul în care mai degrabă aș fi scris cod.&lt;/p&gt;
-&lt;p&gt;Dar dacă vrei să mergi mai departe, unele lucruri trebuie duse la capăt. Nu e plăcut, dar e ceva ce trebuie făcut, &lt;em&gt;stuff to get done&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Și mai mult decât atât, va trebui să-ți dai tot interesul față de acest &lt;em&gt;stuff to get done&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Au trecut cam 5 ani de când am ajuns prima dată la facultate și cu puțini colegi am păstrat legătura constant de-a lungul acestui timp. Unii din ei, habar nu aveau IT dar azi au un job în IT.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Unul din lucrurile care i-a diferențiat față de cei care nici azi nu au un job în IT, este capabilitatea de a face lucruri care trebuie făcute, chiar dacă nu sunt plăcute.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pentru unii a însemnat să meargă la un job nelegat de IT în paralel cu facultatea. Asta a implicat la un moment dat să facă și saltul, acel moment când anii de experiență într-un anume domeniu i-au aruncat pentru un job entry level în IT, plătit cu mult mai puțin decât vechiul lor job. Plăcut? În niciun caz. Dar era &lt;em&gt;stuff to get done&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Alții au început lucrând aproape pe gratis. Mai încolo ce au lucrat și-au dat seama că au făcut pe peanut money... Și-au dat seama că ar fi putut face și ei asta pe cont propiu și ar fi luat mai mulți bani, ar fi avut mai mult timp liber și ar fi avut o idee mai bună. Dar nu regretă pentru că și un job sub plătit e mai bun decât niciun job, asta le-a oferit tracțiune să meargă mai departe. Și în plus au și o lecție învățată...&lt;/p&gt;
-&lt;p&gt;Dar pe departe cea mai interesantă categorie mi se pare că sunt cei care pur și simplu nu puteau digera concepte IT. Dar au continuat, cu orice preț. Au făcut ca înțelegerea acelor concepte să fie singura opțiune. Au făcut asta, găsind ceva ce le place atât de mult încât restul problemelor să fie irelevante.
-Acești oameni sunt oameni normali, ca mine, ca tine și au și ei defectele lor, dar au găsit acel ceva care le place atât de mult încât i-a pus să facă și lucrurile care nu le plac, dar care trebuie făcute pentru a merge înainte.&lt;/p&gt;
-&lt;p&gt;Încă nu știu să zic de ce am ajuns la facultate, sau de ce am ajuns să dau telefoanele când lucram la startup. Dar ce pot să zic e că erau stuff to get done. Nu erau plăcute, dar dacă erau făcute mergeai mai departe. Dacă nu, apăreau probleme.&lt;/p&gt;
-&lt;p&gt;Cam asta e.&lt;/p&gt;
 </content>
   </entry>
 </feed>
