@@ -34,6 +34,24 @@
 &lt;p&gt;Dacă ar merge mai departe aplicația, ar face deținerea unei mașini personale inutile...&lt;/p&gt;
 </content>
   </entry>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/">
+    <title type="text">Cum să treci cu brio provocărilor care implică interacțiune umană?</title>
+    <id>urn:uuid:438ee762-ba58-3797-9b35-53bf7e39101c</id>
+    <updated>2020-02-10T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Uneori, când programezi, nu vrei să ai de-a face cu oameni. În loc să scrii cod, ar trebui să fii atent la ei. Am crezut că e doar la programatori, dar se pare că mai sunt și alții care pur și simplu nu au chef să cunoască oameni noi sau să se angajeze în interacțiuni.&lt;/p&gt;
+&lt;p&gt;Nu e vorba despre a fi introvertit sau extrovertit, ci mai mult de starea generală pe care o ai. Dacă ești obosit, nedormit și mai ai vreo 2 la viață, e normal să eviți interacțiunile umane.&lt;/p&gt;
+&lt;p&gt;Dacă se întâmplă asta prea mult, înseamnă că în general ești cam obosit. Izolarea este un mod de mentenanță în care doar întreții sistemele vitale și va trebui să găsești să te pui înapoi pe picioare, în paremetrii optimi.&lt;/p&gt;
+&lt;p&gt;E adevărat că munca în IT este intensă și abstractă, adică niciodată nu o să poți explica cât ai muncit în termeni prea concreți. Și tocmai de asta mulți muncesc peste măsură, fără să știe când să se oprească și ajungând foarte ușor la &lt;a href=&quot;../../../../blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/&quot;&gt;burn out&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Iată un hint revoluționar dacă știi că urmează un meeting mai important. E general valabil și un caz concret în care îl poți folosi e când lucrezi la un proiect și trebuie să prezinți la șef ce ai făcut.&lt;/p&gt;
+&lt;p&gt;Dacă știi că săptămâna respectivă urmează meetingul, nu vei mai scrie o singură linie de cod săptămâna aia. Exact, niciuna. Cel mai mare consum de energie acolo se întâmplă și dacă e vorba despre a prezenta ce faci, va trebui să îți schimbi contextul de la a programa la a prezenta. Ca să faci asta nu vei mai scrie cod, vei comuta pe alte activități care te vor ajuta să prezinți.&lt;/p&gt;
+&lt;p&gt;Poate că e un timp bun pentru a scrie documentația, deși e tot un task tehnic, simplul fapt că pui idei într-un document, te va face pe tine să înțelegi mai bine la ce lucrezi și poți explica mult mai clar. Mai poți vorbi cu colegii, simplul fapt că discuți și încerci să explici diverși termeni, faci ca ideile să ajungă în plan mai concret și începi să te prinzi cum să explici ca cel din fața ta să înțeleagă.&lt;/p&gt;
+&lt;p&gt;Secretul metodei e că energia pe care ai fi folosit-o ca să codezi, o redirecționezi acum către interacțiuni umane, către prezentare. Sunt 2 moduri diferite, a programa și a prezenta și acum tocmai ai făcut comutarea între cele două. Nu ar trebui ca interacțiunile umane să te sperie, doar ia-ți timpul și pregătește-te pentru ele!&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/">
     <title type="text">Cum să nu uiți să îți iei timp liber?</title>
     <id>urn:uuid:410e68b2-bdfb-3a01-b45a-f5ed9375f7d9</id>
@@ -1279,41 +1297,6 @@ sub1.domain1.com
 &lt;li&gt;pack the service as a docker container, run service from a single command.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For more in depth instructions read &lt;a href=&quot;https://samhobbs.co.uk/2015/01/dynamic-dns-ddclient-raspberry-pi-and-ubuntu&quot;&gt;Dynamic DNS with ddclient on Raspberry Pi and Ubuntu&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/install-and-run-github-pages-locally/">
-    <title type="text">Install and run GitHub Pages locally</title>
-    <id>urn:uuid:89abd7c2-d7fa-3f0f-9928-b88ea7ac822a</id>
-    <updated>2018-01-03T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/01/install-and-run-github-pages-locally/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;This site is powered by Jekyll &amp;amp; GitHub Pages.&lt;/p&gt;
-&lt;p&gt;To run your own copy locally install ruby &amp;amp; bundler:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt-get update -y
-sudo apt-get install -y ruby ruby-dev zlib1g-dev
-sudo gem install bundler
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Install git:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt-get install -y git
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Clone site repository locally:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git clone https://github.com/adrianharabula/adrianharabula.github.io.git
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Install necessary GitHub Pages dependencies:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;cd adrianharabula.github.io
-bundle install
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Serve your own copy locally:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;bundle exec jekyll serve
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Now site is accesible locally at &lt;a href=&quot;http://localhost:4000&quot;&gt;localhost:4000&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Future work&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Automate dependencies installation with Docker.&lt;/li&gt;
-&lt;li&gt;Make a demo how to make a pull request to update site&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
