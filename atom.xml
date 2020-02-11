@@ -2,13 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-08T00:00:00Z</updated>
+  <updated>2020-02-11T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/">
+    <title type="text">Am încercat Teleport, de ce este atât de tare carsharingul?</title>
+    <id>urn:uuid:0b8d1967-3448-361c-a540-d27a87a5c63d</id>
+    <updated>2020-02-11T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/social.png&quot; alt=&quot;Teleport carsharing&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Am descoperit de curând serviciul de carsharing &lt;a href=&quot;https://goteleport.ro&quot;&gt;Teleport&lt;/a&gt;. De mai multe ori m-am lovit de problema că nu vreau neapărat să dețin o mașină personal, dar uneori am nevoie de una și deși am mai încercat diverse servicii de închiriere mașini niciunul nu m-a dat pe spate.&lt;/p&gt;
+&lt;p&gt;Cu ce se deosebește Teleport, e că alegi o mașină disponibilă din apropiere, pe care o deblochezi, cu telefonul!&lt;/p&gt;
+&lt;p&gt;Serviciul este 100% self-service așa că poți face asta oricând ai nevoie, 24/7. Dacă ai nevoie de o mașină în timpul zilei, poți chema una și un valet o va livra la adresa menționată. Cât de tare este asta? Toate sunt mașini electrice.&lt;/p&gt;
+&lt;p&gt;Hai să vedem ce e așa tare:&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/JCPWM4HSjys?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;p&gt;A durat cam mult drumul cu mașina, cam de 2 ori mai mult decât aș fi făcut cu metroul, dar recunosc, a fost mult mai confortabil și o să mă cam gândesc la asta de acum de fiecare dată când folosesc transportul public. Ca preț tot atât aș fi dat și pe Uber. Cam așa arată o cursă:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/teleport-trip.jpeg&quot; alt=&quot;teleport trip costs&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Mașinile pot fi luate pe oricât timp ai nevoie. Dacă depășești mai mult de 10h pe ceas cu mașina, adică dacă o returnezi oricând după 10-24h prețul e cel de 1 zi întreagă, 150lei.&lt;/p&gt;
+&lt;p&gt;Mașina poate fi luată și pe drumuri mai lungi, oriunde în România, singura condiție e să fie returnată în București în zona albastră (se vede din aplicație).&lt;/p&gt;
+&lt;p&gt;Zone unde poți încărca gratuit se găsesc pe &lt;a href=&quot;https://www.plugshare.com/&quot;&gt;PlugShare&lt;/a&gt;, mufa care te interesează estea cea Type 2. Cu parcările nu prea mă pricep, dar majoritatea sunt gratuite, fiind mașină electrică. Pentru București, lista cu parcări disponibile este &lt;a href=&quot;http://www.aspmb.ro/Parcaje/LISTAPARCAJE.pdf&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Suportul mi se pare de altfel excelent, este un live chat în aplicație, dar și pe site, tot timpul este cineva acolo să îți răspundă.&lt;/p&gt;
+&lt;p&gt;În spatele aplicație este o echipă de &lt;a href=&quot;https://goteleport.ro/about.html&quot;&gt;6 ingineri&lt;/a&gt; români, majoritatea trecuți prin firme mari Google, Facebook, Twitter, Uber care au deja ceva ani experiență în domeniul carsharing.&lt;/p&gt;
+&lt;p&gt;Dacă ar merge mai departe aplicația, ar face deținerea unei mașini personale inutile...&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/">
+    <title type="text">Cum să nu uiți să îți iei timp liber?</title>
+    <id>urn:uuid:410e68b2-bdfb-3a01-b45a-f5ed9375f7d9</id>
+    <updated>2020-02-09T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Pauzele nu sunt doar importante, fără ele nu ajungi nicăieri pe termen lung. Orice proiect mare este extenuant și trebuie să înveți să pui la loc măcar cât consumi astfel încât întotdeauna să rămâi pe plus.&lt;/p&gt;
+&lt;p&gt;Dacă lucrezi și lucrezi și dintr-o dată ești nevoit forțat să îți iei 2-3 zile libere, pentru că nu mai poți funcționa ca om, e clar că ai depășit de mult limitele umane.&lt;/p&gt;
+&lt;p&gt;Totuși când se întâmplă asta, de ce ne dăm prea târziu seama că am muncit prea mult?&lt;/p&gt;
+&lt;p&gt;Atunci când suntem atenți la problemele ce le rezolvăm, toată acea energie se duce spre ele, inclusiv parte din energie care ar trebui să rămână pentru noi. Dacă cu acea energie cu care lucrăm la serviciu, am folosi parte din ea să mai verificăm și dacă am mâncat ziua respecitvă, dacă suntem un pic obosiți, sau dacă este o parte a corpului mai încordată și poate că trebuie să ne schimbăm poziția de pe scaun, am fi din start bine. Acea mică parte din energie nu trebuie niciodată cedată la serviciu, pentru că fără ea începi să slăbești, îți scade din viață.&lt;/p&gt;
+&lt;p&gt;Pot fi excese pe alocuri, dar trebuie să fii conștient de ele și să ai în vedere să pui tot timpul înapoi, cel puțin cât ai folosit extra.&lt;/p&gt;
+&lt;p&gt;Paradoxul este că dacă ești prea atent la serviciu, nu mai ai energie să realizezi că lucrezi prea mult, și așa îți consumi toate rezervele până când organismul cedează și nu mai rămâne decât să îți iei zile libere cu forța prin nu știu ce evenimente majore.&lt;/p&gt;
+&lt;p&gt;Așa că primă parte ca să îți dai seama că lucrezi prea mult, este să nu mai lucrezi așa mult o vreme, până pui la loc ceva rezerve, pe care să le folosești pentru tine să mai verifici dacă ești ok din când în când.&lt;/p&gt;
+&lt;p&gt;Deși nu sunt fan al lucrului în weekend, și nu doresc nimănui asta, din păcate pe alocuri (majoritatea weekendurilor) vei lucra și extra, nu neapărat legat de serviciu. Și în acest timp se poate aduna multă oboseală în timp. Așa că dacă nu îți poți lua un weekend liber, măcar încearcă o seară într-o duminică să te deconectezi total de la lucru. Cum munca în IT este una intelectuală, creierul este cel mai uzat dintre toate așa că mai acordă-i și lui o mică pauză în care îl lași în pace și nu mai faci lucruri care să necesite forță intelectuală.&lt;/p&gt;
+&lt;p&gt;Totul trebuie calculat și să fii atent să fii în parametrii optimi. Altfel nu ai cum să dai randament. Te consumi, cazi și caput.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/">
     <title type="text">Cum să nu faci burnout ca programator?</title>
     <id>urn:uuid:1526226a-6aef-30e4-ba4b-dff358cca7a8</id>
@@ -1269,57 +1313,6 @@ bundle install
 &lt;ul&gt;
 &lt;li&gt;Automate dependencies installation with Docker.&lt;/li&gt;
 &lt;li&gt;Make a demo how to make a pull request to update site&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/how-to-wake-on-lan/">
-    <title type="text">How to Wake On Lan</title>
-    <id>urn:uuid:2c2b4cae-964d-3b90-b8be-40899cec3df6</id>
-    <updated>2018-01-02T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/01/how-to-wake-on-lan/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;First, you need to have WOL enabled in bios. See &lt;a href=&quot;https://www.howtogeek.com/70374/how-to-geek-explains-what-is-wake-on-lan-and-how-do-i-enable-it/&quot;&gt;What Is Wake-on-LAN, and How Do I Enable It?&lt;/a&gt; for instructions.&lt;/p&gt;
-&lt;p&gt;Second, you need &lt;a href=&quot;https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan&quot;&gt;Wake on Lan&lt;/a&gt; app on Android to wake up your PC's.&lt;/p&gt;
-&lt;p&gt;As the PC you want to control is turned on, open the Android app and scan the network.&lt;/p&gt;
-&lt;p&gt;Add the desired PC (MAC address) to the bookmark list.&lt;/p&gt;
-&lt;p&gt;Suspend the PC with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo systemctl suspend
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Now, from Android phone, click to Wake on LAN your PC.&lt;/p&gt;
-&lt;p&gt;See demo video:&lt;/p&gt;
-&lt;iframe width=&quot;100%&quot; height=&quot;480px&quot; src=&quot;https://www.youtube.com/embed/-jBCUAHkNlM&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;h3&gt;Warning!&lt;/h3&gt;
-&lt;p&gt;WOL is not working through a OpenVPN TUN setup, need more documenting how to make this work.&lt;/p&gt;
-&lt;p&gt;Future work:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://bish.co.uk/2013/04/25/raspberry-pi-as-a-wol-server/&quot;&gt;#1&lt;/a&gt; if option above not working, make a WOL server so that you can remote wake up pc from the internet through VPN&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/dferg/WakeProxyd&quot;&gt;#2&lt;/a&gt; make WOL work even if your BIOS is not capable (by using a router/raspberry GPIO port connected to PC power switch)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/linux-in-your-home-router/">
-    <title type="text">Linux in your home router</title>
-    <id>urn:uuid:4128d8c7-c751-395e-90a6-050abebc659d</id>
-    <updated>2018-01-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/01/linux-in-your-home-router/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;When you have some old routers lying around,&lt;/p&gt;
-&lt;p&gt;And default interface is not enough...&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2018/01/linux-in-your-home-router/standard_router_firmware.jpg&quot; alt=&quot;standard_router_firmware.jpg&quot;&gt;&lt;/p&gt;
-&lt;p&gt;You can bring old routers back to life, by installing Linux! :D&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2018/01/linux-in-your-home-router/a_bunch_of_routers_and_a_raspberry_pi.jpg&quot; alt=&quot;a_bunch_of_routers_and_a_raspberry_pi.jpg&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Some things you can do:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/&quot;&gt;#1&lt;/a&gt; transform router into a reverse proxy and access it from outsite a firewalled network with ssh&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4GlFipedUrs&quot;&gt;#2&lt;/a&gt; solder more RAM to your router&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7Dwfdhn0nJM&quot;&gt;#3&lt;/a&gt; solder new chip with more memory &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://forum.openwrt.org/viewtopic.php?id=60707&quot;&gt;#4&lt;/a&gt; add usb ports to your router&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BMMz_KJMwTk&quot;&gt;#5&lt;/a&gt; use router gpio led ports to control stuff remotely&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi&quot;&gt;#6&lt;/a&gt; make you DIY router with OpenWrt and Raspberry Pi &lt;/li&gt;
-&lt;li&gt;and many more :D&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
