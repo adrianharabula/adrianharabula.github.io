@@ -23,6 +23,22 @@
 &lt;p&gt;Abia pe la jumătatea proiectului productivitatea crește exponențial și lucrurile încep să se stabilizeze. Este și perioada cea mai faină a proiectului. Nu durează totdeauna asta, mai apoi spre final, productivitatea stagnează iar. Atunci este și momentul ca să treci la următorul proiect.&lt;/p&gt;
 </content>
   </entry>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/">
+    <title type="text">Ar trebui să mergi răcit la birou?</title>
+    <id>urn:uuid:e433ee17-cfab-3ee4-98c7-f929ec3a2e27</id>
+    <updated>2020-02-14T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Nu cred că e o problemă în zilele de azi dacă rămâi 2-3 zile acasă când ești răcit, ba din contra, e chiar de bun simț să o faci ca să nu duci virușii și la birou.&lt;/p&gt;
+&lt;p&gt;Cu toate astea nu prea am apucat să rămân pe acasă răcit ultimii ani. 1 zi poate, dar a doua sau a treia tot îmi făceam aparația pe la birou miraculos, parcă îmi și găseam motiv să ajung.&lt;/p&gt;
+&lt;p&gt;2-3 zile pauză de lucru înseamnă aproape o săptămână și decât să încetinesc proiectul cu o săptămână pentru o răceală care apare, am preferat să fac ce era de făcut chiar și dacă nu eram în stare. Nu e neapărat bine, dar așa am ales să funcționez.&lt;/p&gt;
+&lt;p&gt;Răceala e temporară, să duci proiectul la capăt la timp și în parametrii optimi e mai important.&lt;/p&gt;
+&lt;p&gt;Taskurile tehnice nu sunt o problemă, ele pot fi făcute și de acasă, dar ai nevoie și de contact cu oamenii cu care lucrezi și într-o firmă unde se lucrează în principal de la birou, marele dezavantaj când nu ești prezent e că pierzi discuțiile și contactul cu informația de care s-ar putea să ai nevoie.&lt;/p&gt;
+&lt;p&gt;Desigur nu trebuie ignorată sănătatea, dar e doar o răceală, acum mă gândesc... următoarea dată când răcesc oare aș reuși să rămân acasă? 🤔 Ar fi un challenge interesant.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/">
     <title type="text">WFH a devenit oficial de azi la firma la care lucrez</title>
     <id>urn:uuid:8aeba245-a617-3816-9dbd-e8ff580d3cc2</id>
@@ -1089,98 +1105,6 @@ optional arguments:
 &lt;li&gt;Git for Windows 12.15.1&lt;/li&gt;
 &lt;li&gt;Python 3.6.4&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/mod-your-huawei-p8-lite/">
-    <title type="text">Mod your Huawei p8 lite</title>
-    <id>urn:uuid:8d799cfa-f542-3a81-ae0d-5544dba4da9b</id>
-    <updated>2018-01-09T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/01/mod-your-huawei-p8-lite/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;h1&gt;1. Get bootloader unlock code&lt;/h1&gt;
-&lt;p&gt;First, create an account here:
-&lt;a href=&quot;https://emui.huawei.com&quot;&gt;https://emui.huawei.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Log in and complete this form to get unlock code for your phone:
-&lt;a href=&quot;https://emui.huawei.com/en/plugin/unlock/detail&quot;&gt;https://emui.huawei.com/en/plugin/unlock/detail&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;You'll get a 16 digits code, save it, we'll use it in the next step.&lt;/p&gt;
-&lt;h1&gt;2. Unlock bootloader&lt;/h1&gt;
-&lt;p&gt;Connect phone to pc, and run:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo adb devices
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Reboot phone into fastboot mode:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;adb reboot bootloader
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Install fastboot on ubuntu:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo apt install android-tools-fastboot
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As phone is in fastboot mode, check if device is detected:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo fastboot devices
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Unlock phone's bootloader&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo fastboot oem unlock 16_DIGIT_UNLOCK_CODE_HERE
-...
-OKAY [  2.359s]
-finished. total time: 2.359s
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Also see &lt;a href=&quot;https://emui.huawei.com/en/plugin/unlock/step&quot;&gt;official instructions&lt;/a&gt; for unlocking bootloader.&lt;/p&gt;
-&lt;h1&gt;3. Install TWRP&lt;/h1&gt;
-&lt;p&gt;Download TWRP 3.1.1-0 from &lt;a href=&quot;https://forum.xda-developers.com/p8lite/orig-development/twrp-t3583180&quot;&gt;xda-developers&lt;/a&gt;.
-Double check md5sum of the file, it should be: 29e1c65cf48803892946e858ebe950cf.&lt;/p&gt;
-&lt;p&gt;Flash the image:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;sudo fastboot flash recovery recovery.img 
-target reported max download size of 471859200 bytes
-sending &amp;#39;recovery&amp;#39; (25152 KB)...
-OKAY [  0.628s]
-writing &amp;#39;recovery&amp;#39;...
-OKAY [  0.735s]
-finished. total time: 1.363s
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Now, as mentioned &lt;a href=&quot;https://forum.xda-developers.com/showpost.php?p=71429023&amp;amp;postcount=73&quot;&gt;here&lt;/a&gt;, next step is to reboot device in this way:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;press &amp;amp; keep pressed volume UP button&lt;/li&gt;
-&lt;li&gt;run &lt;code&gt;sudo fastboot reboot&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;unplug usb cable from phone&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;TWRP will now load!&lt;/p&gt;
-&lt;p&gt;Leave phone as is and go to next step.&lt;/p&gt;
-&lt;h1&gt;2. Update phone to stock EMUI 4.1&lt;/h1&gt;
-&lt;p&gt;While in TWRP mode, from Wipe screen, do a &lt;code&gt;Format Data&lt;/code&gt; and then a &lt;code&gt;Factory Reset&lt;/code&gt; to wipe dalvik/cache.&lt;/p&gt;
-&lt;p&gt;Download &lt;a href=&quot;https://forum.xda-developers.com/showpost.php?p=73230358&amp;amp;postcount=2&quot;&gt;stock EMUI 4.1 ROM&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;b895_update.zip for single sim version, md5 0868fab65e2a38bff95408c02ffa0aba&lt;/li&gt;
-&lt;li&gt;B896_update.zip for dual sim version, md5 2b3d6b4b0945592ce506d44874f00d73&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Additionally, create an empty &lt;code&gt;b895_update.zip.md5&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;0868fab65e2a38bff95408c02ffa0aba
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;OR &lt;code&gt;B896_update.zip.md5&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2b3d6b4b0945592ce506d44874f00d73
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You will see the phone as a removable device. Copy the downloaded zip and md5 file to internal memory.&lt;/p&gt;
-&lt;p&gt;Md5 file will check for zip integrity before flashing on the phone.&lt;/p&gt;
-&lt;p&gt;From the Install menu, select zip file and then &lt;code&gt;Swipe to confirm Flash&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Reboot phone.&lt;/p&gt;
-&lt;p&gt;If phone freezes with Huawei logo for more than 5 minutes, reboot phone by pressing power button for 10 seconds.&lt;/p&gt;
-&lt;h2&gt;Warning!&lt;/h2&gt;
-&lt;p&gt;After this step, in TWRP you will see 0MB internal storage.&lt;/p&gt;
-&lt;h1&gt;3. Install Custom ROM Android 7.1.2 / 8.0 BETA&lt;/h1&gt;
-&lt;p&gt;Download one of these:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;android 7.1.2 &lt;a href=&quot;https://forum.xda-developers.com/p8lite/development/rom-t3606568&quot;&gt;https://forum.xda-developers.com/p8lite/development/rom-t3606568&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;android 8.0 BETA &lt;a href=&quot;https://forum.xda-developers.com/p8lite/development/rom-t3707374&quot;&gt;https://forum.xda-developers.com/p8lite/development/rom-t3707374&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Download &lt;a href=&quot;http://opengapps.org/&quot;&gt;opengapps&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ARM64, android 7.1, nano &lt;/li&gt;
-&lt;li&gt;ARM64, android 8.0, nano&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Reboot phone into recovery. Do a &lt;code&gt;Format Data&lt;/code&gt; and a &lt;code&gt;Wipe cache/dalvik&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Copy ROM zip and opengapps zip to internal memory.&lt;/p&gt;
-&lt;p&gt;From Install screen, add ROM zip. Then choose &lt;code&gt;Add more Zips&lt;/code&gt; and add opengapps zip. Then &lt;code&gt;Swipe to confirm Flash&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Reboot system.&lt;/p&gt;
-&lt;p&gt;You should now boot in your new Custom ROM.&lt;/p&gt;
 </content>
   </entry>
 </feed>
