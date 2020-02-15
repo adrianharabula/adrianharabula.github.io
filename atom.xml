@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-12T00:00:00Z</updated>
+  <updated>2020-02-15T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-proiectul-nu-progreseaza/">
+    <title type="text">De ce proiectul nu progresează?</title>
+    <id>urn:uuid:ae477c10-c855-3eef-bc38-58b1fb44c815</id>
+    <updated>2020-02-15T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-proiectul-nu-progreseaza/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Atunci când lucrezi la un proiect, este foarte probabil ca cel puțin prima jumătate a lui să nu ai niciun progres. Ba mai mult, s-ar părea ca majoritatea timpului să fie petrecut cu probleme neprevăzute. Asta se întâmplă pentru că progresul nu prea e la început când încă îți dai seama ce faci, ci mult mai încolo când tot ce ai lucrat până atunci (și aparent nu mergea) se cumulează și începe să ia formă, deodată.&lt;/p&gt;
+&lt;p&gt;El arată cam așa:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/02/de-ce-proiectul-nu-progreseaza/social.png&quot; alt=&quot;Progres Proiect IT&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Abia pe la jumătatea proiectului productivitatea crește exponențial și lucrurile încep să se stabilizeze. Este și perioada cea mai faină a proiectului. Nu durează totdeauna asta, mai apoi spre final, productivitatea stagnează iar. Atunci este și momentul ca să treci la următorul proiect.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/">
     <title type="text">WFH a devenit oficial de azi la firma la care lucrez</title>
     <id>urn:uuid:8aeba245-a617-3816-9dbd-e8ff580d3cc2</id>
@@ -1167,66 +1181,6 @@ finished. total time: 1.363s
 &lt;p&gt;From Install screen, add ROM zip. Then choose &lt;code&gt;Add more Zips&lt;/code&gt; and add opengapps zip. Then &lt;code&gt;Swipe to confirm Flash&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Reboot system.&lt;/p&gt;
 &lt;p&gt;You should now boot in your new Custom ROM.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/remove-changed-files-in-git-working-folder/">
-    <title type="text">Remove changed files in git working folder</title>
-    <id>urn:uuid:407ade4b-d615-3651-a96d-fb6695eca609</id>
-    <updated>2018-01-08T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/01/remove-changed-files-in-git-working-folder/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;Git has &lt;a href=&quot;https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#_the_three_states&quot;&gt;three states&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;working directory&lt;/li&gt;
-&lt;li&gt;staging area (index), files marked to be included in the next commit&lt;/li&gt;
-&lt;li&gt;.git directory, for files already in the git tree&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Sometimes you may want to restore changed or staged files back as they were in last commit.&lt;/p&gt;
-&lt;h3&gt;To remove changed files use:&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;# this will discard changes to existing files
-# and switch back to master branch
-# works even for staged changes
-git checkout -f master
-
-# this will remove untracked files
-# add -d to remove untracked folders
-# add -x to remove .gitignored files
-git clean -f
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;Example from scratch&lt;/h3&gt;
-&lt;p&gt;Clone a sample repo &lt;code&gt;hello-world/php&lt;/code&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git clone git@labs.moneysmart.top:hello-world/php.git hello-world-php
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Create and edit some files:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;cd hello-world-php
-
-# create new file
-touch new_file
-
-# modify existing file
-echo &amp;quot;Add new line to existing file&amp;quot; &amp;gt;&amp;gt; README.md
-
-# stage README.md file
-git add README.md
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;To see current repository status:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git status
-On branch master
-Your branch is up to date with &amp;#39;origin/master&amp;#39;.
-
-Changes to be committed:
-  (use &amp;quot;git reset HEAD &amp;lt;file&amp;gt;...&amp;quot; to unstage)
-
-        modified:   README.md
-
-Untracked files:
-  (use &amp;quot;git add &amp;lt;file&amp;gt;...&amp;quot; to include in what will be committed)
-
-        new_file
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Now run the &lt;code&gt;git checkout -f master&lt;/code&gt; and &lt;code&gt;git clean -f&lt;/code&gt; commands to get back to last commit.&lt;/p&gt;
 </content>
   </entry>
 </feed>
