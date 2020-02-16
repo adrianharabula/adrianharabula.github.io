@@ -2,13 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-15T00:00:00Z</updated>
+  <updated>2020-02-16T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/">
+    <title type="text">Ce se întâmplă cu sănătatea ta când programezi prea mult?</title>
+    <id>urn:uuid:1fe059f4-8fa2-3359-a55a-09e44dca4c1f</id>
+    <updated>2020-02-16T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Statul la calculator are și efecte nu neapărat benefice, tocmai de aceea ar trebui măcar să fim conștienți ele, și cum ne-ar putea afecta. O zi de lucru, are cam 8-9 ore de stat la calculator, depinde de la om la om, cât poate fiecare. Uneori mai sari mesele de prânz și nu te ridici decât dacă ai nevoie la toaletă. Și mai rău, unele zile sunt super lungi și ajungi să stai 12-14 ore la serviciu, cu ochii ațintiți spre monitor.&lt;/p&gt;
+&lt;h2&gt;Vederea&lt;/h2&gt;
+&lt;p&gt;Așa că fără prea multe adaosuri, vederea în primul rând este primul lucru care se belește. Vrând nevrând dacă exagerezi te vei trezi că ai nevoie de ochelari. Datorită încordării excesive asupra unui singur punct pentru ore întregi, privirea se rigidizează și nu mai poți focaliza aproape sau la distanță.&lt;/p&gt;
+&lt;h2&gt;Mintea&lt;/h2&gt;
+&lt;p&gt;Odată cu vederea, alt lucru ce se încordează excesiv este mintea. Ești atent acolo la ce faci, ore întregi, fără să faci prea multe pauze. Mintea obosește și ea, uneori atât de tare încât începi să te simți străin în propriul corp și nu e bine deloc, pentru că așa rămâi fără protecție, slăbește foarte tare organismul. Dacă apare o inflamație, sau o durere, mintea e prea ocupată cu ce lucrezi ca să observe inflamația așa că o ignori îndeajuns de mult încât problema să se agraveze și să îți dai seama mult prea târziu de ea, deși semne au fost acolo întotdeauna, dar ai fost prea ocupat ca să le observi.&lt;/p&gt;
+&lt;h2&gt;Corpul, în general&lt;/h2&gt;
+&lt;p&gt;După cum e și poza, atunci când lucrezi prea mult la serviciu, organismul tău slăbește și trece în mod de supraviețuire, închizând centrii importanți:
+&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/camp-energetic-programator.jpeg&quot; alt=&quot;câmd energetic slăbit&quot;&gt;
+Câmpul din jurul corpului se restrânge, asta înseamnă un sistem imunitar mai scăzut ce permite o vulnerabilitate mai mare a organismului la răceli, gripe și o stare slăbită în general, de exemplu va fi mult mai ușor ca persoanele din jur să îți încalce limitele. De asemenea mintea începe să se oprească, ca la orice burnout, la un moment dat mintea se prăjește și cedează să te mai asculte. Nu mai cooperează. Se închide.&lt;/p&gt;
+&lt;p&gt;Desigur, efectele sunt reversibile, și dacă stai câteva zile liniștit, corpul se reface singur, dar în mod ideal nu ar trebui să ajungi să te sacrifici atât de tare. În primul rând, în viața de programator trebuie să înveți să îți dozezi energia. Dacă reușești asta, nu va trebui o zi să muncești peste măsură, decât dacă chiar te simți în stare de la prea multă energie pe care o ai.&lt;/p&gt;
+&lt;p&gt;Atunci când te consumi, și ajungi să iei din rezervele organismului energie, e ca și cum iei un credit la bancă, nota de plată tot vine la un moment dat, și vine cu dobândă. De aceea, de fiecare dată când exagerezi, ar trebui să pui cel puțin atât cât ai folosit la loc.&lt;/p&gt;
+&lt;h2&gt;Coloana&lt;/h2&gt;
+&lt;p&gt;Alt lucru ce se poate strica de la stat prea mult la calculator este coloana. Este foarte ușor să te cocoșezi la monitor, sau să stai strâmb și e foarte ușor să faci asta fără să îți dai seama, pentru că tu ești atent la calculator, nu la poziția pe care o ai la calculator și așa trece timpul, problema de poziție se agravează și îți dai seama mult prea târziu când coloana este deja afectată.&lt;/p&gt;
+&lt;h2&gt;Digestia&lt;/h2&gt;
+&lt;p&gt;Alt obicei întâlnit la lucrul la calculator, este băutul de cafea. O cafea ar fi ok, dar de cele mai multe ori bei două, trei, mai și sari o masă ziua respectivă și uite așa îți supra soliciți sistemul digestiv. Îți dai seama că ai băut prea multă cafea când începe să îți miroasă gura. Atunci e semn că ficatul scoate flăcări. Alte efecte bune de observat sunt oboseala, deși cafeaua ar trebui să te revitalizeze, defapt doar agită mintea și apoi oricum te simți mai obosit decât erai înainte. Toate astea se pot verifica în analize. Dar în primul rând tu ar trebui să fii cel care să observi efectele, pe propria piele. Tot legat de digestie, pe la birou, rareori mănânci mâncare sănătoasă, deobicei bagi ceva fast-food, nu ești atent cât ar trebui la mâncarea pe care o mănânci, pentru că iarăși tu ești ocupat cu problemele pe care le rezolvi, și uite așa trec anii și ignori chestii de bază de care ar trebui să te ocupi fără să faci rabat.&lt;/p&gt;
+&lt;h2&gt;Somnul&lt;/h2&gt;
+&lt;p&gt;Nu în ultimul rând ce mai are de suferit dacă ești programator este somnul. Nu numai că toată ziua lucrezi, dar uneori faci asta și noaptea. Uneori stai până seara târziu, până pe la 2, 3, 4 dimineața. În primul rând somnul acela de la 4 dimineața nu e deloc odihnitor. Organismul are și el un ceas, și dacă îl sari se dereglează. Acest ceas arată cam așa, și pentru fiecare 2 ore ale zilei există un organ care e preponderent mai activ, după cum urmează:
+&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/chinese-body-clock.jpg&quot; alt=&quot;Ceasul Chinezesc al Organelor&quot;&gt;
+După acest ceas, orele ideale pentru dormit ar fi:
+&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/screenshot-2020-02-17-at-00.36.09.png&quot; alt=&quot;Ore Potrivite pentru Somn&quot;&gt;
+Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-al-organelor/&quot;&gt;https://herbagetica.ro/blog/ceasul-chinezesc-al-organelor/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pe lângă astea, când te pui la somn, ca programator uneori e foarte greu să adormi, pentru că toată ziua ai muncit cu mintea și ea încă rămâne turată la maxim, chiar și la sfârșitul zilei. În timp, vei învăța să dai shutdown la minte la nevoie. Un simplu trick este dormitul cu picioarele libere, fără șosete. Aceasta va păcăli mintea să nu mai fie atentă la gândurile de-a lungul zilei, și ducând-o la picioare gândurile își vor pierde din esență și încet încet vei adormi. Desigur, nu trebuie să mă crezi pe cuvânt, încearcă și găsește pe cont propriu diverse lucruri care să meargă.&lt;/p&gt;
+&lt;h2&gt;De ce e așa greu cu sănătatea?&lt;/h2&gt;
+&lt;p&gt;Pentru că fiind atent la calculator majoritatea zilei este foarte ușor să ignori aspecte de care ar trebui să te ocupi. Nu poți nici să te ocupi de toate odată, și e de la sine înțeles că dacă bagi mai tare o vreme la serviciu, acea vreme vei face niște sacrificii, dar e foarte important să fii conștient și de adevăratul preț al acestor sacrificii, pentru că la un moment dat nota de plată tot va veni, și nu are rost să faci sacrificii inutile. E greu, dar trebuie să te ocupi să fii în parametrii optimi în timpul serviciului. Dacă rămâi în urmă cu sănătatea, la un moment dat, se va agrava atât de tare situația încât vei fi nevoit să îți iei pauză de la serviciu cu zilele și cu forța și atunci chiar nu e plăcut.&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-proiectul-nu-progreseaza/">
     <title type="text">De ce proiectul nu progresează?</title>
     <id>urn:uuid:ae477c10-c855-3eef-bc38-58b1fb44c815</id>
@@ -1022,88 +1056,6 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;li&gt;&lt;a href=&quot;http://www.earlytorise.com/identifies-what-really-matters&quot;&gt;Cum ştii ce e cu adevărat important&lt;/a&gt; de Craig Ballantyne&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.stevepavlina.com/blog/2013/01/please-dont-interrupt/&quot;&gt;Please Don’t Interrupt&lt;/a&gt; de Steve Pavlina&lt;/li&gt;
 &lt;li&gt;cartea &lt;a href=&quot;https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776&quot;&gt;One thing&lt;/a&gt; sau &lt;a href=&quot;http://www.elefant.ro/carti/carte/self-help/dezvoltare-personala/un-singur-lucru-adevarul-neasteptat-de-simplu-de-la-baza-oricarei-reusite-235878.html&quot;&gt;Un singur lucru&lt;/a&gt; de Gary Keller şi Jay Papasan&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/01/clone-all-bitbucket-repositories-locally/">
-    <title type="text">Clone all your Bitbucket repositories locally</title>
-    <id>urn:uuid:40f4ab84-18f9-30b7-8693-3fc394aa26a9</id>
-    <updated>2018-01-10T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/01/clone-all-bitbucket-repositories-locally/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;Following &lt;a href=&quot;https://status.bitbucket.org/incidents/z029156p1svh&quot;&gt;latest Bitbucket incident&lt;/a&gt;, you may ask what could happen if the service would crash? You'll loose all your repos? How could you prevent this?&lt;/p&gt;
-&lt;p&gt;Last year GitLab had a &lt;a href=&quot;https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/&quot;&gt;serious incident with one of their databases&lt;/a&gt; and they lost six hours of database data (issues, merge requests, users, comments, snippets, etc.) for GitLab.com.&lt;/p&gt;
-&lt;p&gt;No matter what you are using, if the service goes down, what can you do to save your data and how can you protect yourself in case of a service failure?&lt;/p&gt;
-&lt;p&gt;Let's start with the simplest measurement you can take. We will clone all your Bitbucket repos locally.&lt;/p&gt;
-&lt;p&gt;Using Bitbucket API:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D&quot;&gt;/2.0/repositories/{username}&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can get a list of repos under your account. Having this list you can iterate &lt;code&gt;git clone&lt;/code&gt; over project names.&lt;/p&gt;
-&lt;p&gt;For this we will use the &lt;code&gt;bitbucket-backup&lt;/code&gt; python script, made by &lt;a href=&quot;https://github.com/samkuehn/bitbucket-backup&quot;&gt;samkuehn&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Install Python, if you don't have it already in your system. &lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;Download binaries here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Clone / download &lt;code&gt;bitbucket-backup&lt;/code&gt; python script:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;git clone https://github.com/samkuehn/bitbucket-backup.git
-cd bitbucket-backup
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Run the script:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;# use -u to specify username user to log in
-# use -l to specify download location
-# use -t to specify the team you want to download repositories from
-# use --http to clone repositories with https instead of ssh
-# see full list of parameters here https://github.com/samkuehn/bitbucket-backup/blob/master/README.md#quickstart
-python bitbucket-backup -u bitbucket_user -l repos --http
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Enter password and wait... your repositories will be downloaded and cloned locally in &lt;code&gt;repos&lt;/code&gt; folder.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;2018-01-10 09:18:38.949947 - Backing up [repo1]...
-2018-01-10 09:18:41.641931 - Backing up [repo2]...
-2018-01-10 09:18:43.937138 - Finished!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Running the same command again will update the existing repositories.&lt;/p&gt;
-&lt;p&gt;Even more info:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-bash&quot;&gt;usage: bitbucket-backup [-h] [-u USERNAME] [-p PASSWORD] [-k OAUTH_KEY]
-                        [-s OAUTH_SECRET] [-t TEAM] [-l LOCATION] [-v] [-q]
-                        [-c] [-a ATTEMPTS] [--mirror] [--with-wiki] [--http]
-                        [--skip-password] [--prune]
-                        [--ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]]
-
-Usage: %prog [options]
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -u USERNAME, --username USERNAME
-                        Bitbucket username
-  -p PASSWORD, --password PASSWORD
-                        Bitbucket password
-  -k OAUTH_KEY, --oauth-key OAUTH_KEY
-                        Bitbucket oauth key
-  -s OAUTH_SECRET, --oauth-secret OAUTH_SECRET
-                        Bitbucket oauth secret
-  -t TEAM, --team TEAM  Bitbucket team
-  -l LOCATION, --location LOCATION
-                        Local backup location
-  -v, --verbose         Verbose output of all cloning commands
-  -q, --quiet           No output to stdout
-  -c, --compress        Creates a compressed file with all cloned repositories
-                        (cleans up location directory)
-  -a ATTEMPTS, --attempts ATTEMPTS
-                        max. number of attempts to backup repository
-  --mirror              Clone just bare repositories with git clone --mirror
-                        (git only)
-  --with-wiki           Includes wiki
-  --http                Fetch via https instead of SSH
-  --skip-password       Ignores password prompting if no password is provided
-                        (for public repositories)
-  --prune               Prune repo on remote update
-  --ignore-repo-list IGNORE_REPO_LIST [IGNORE_REPO_LIST ...]
-                        specify list of repo slug names to skip
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The following script is tested and working on Windows with:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Git for Windows 12.15.1&lt;/li&gt;
-&lt;li&gt;Python 3.6.4&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
