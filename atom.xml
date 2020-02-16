@@ -9,11 +9,11 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/">
-    <title type="text">Ce se întâmplă cu sănătatea ta când programezi prea mult?</title>
-    <id>urn:uuid:1fe059f4-8fa2-3359-a55a-09e44dca4c1f</id>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/">
+    <title type="text">Ce se întâmplă cu corpul tău la nivel energetic dacă scrii prea mult cod?</title>
+    <id>urn:uuid:7efc30db-013a-36ef-8366-7334643e5ce0</id>
     <updated>2020-02-16T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/" />
+    <link href="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -24,7 +24,7 @@
 &lt;p&gt;Odată cu vederea, alt lucru ce se încordează excesiv este mintea. Ești atent acolo la ce faci, ore întregi, fără să faci prea multe pauze. Mintea obosește și ea, uneori atât de tare încât începi să te simți străin în propriul corp și nu e bine deloc, pentru că așa rămâi fără protecție, slăbește foarte tare organismul. Dacă apare o inflamație, sau o durere, mintea e prea ocupată cu ce lucrezi ca să observe inflamația așa că o ignori îndeajuns de mult încât problema să se agraveze și să îți dai seama mult prea târziu de ea, deși semne au fost acolo întotdeauna, dar ai fost prea ocupat ca să le observi.&lt;/p&gt;
 &lt;h2&gt;Corpul, în general&lt;/h2&gt;
 &lt;p&gt;După cum e și poza, atunci când lucrezi prea mult la serviciu, organismul tău slăbește și trece în mod de supraviețuire, închizând centrii importanți:
-&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/camp-energetic-programator.jpeg&quot; alt=&quot;câmd energetic slăbit&quot;&gt;
+&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/camp-energetic-programator.jpeg&quot; alt=&quot;câmd energetic slăbit&quot;&gt;
 Câmpul din jurul corpului se restrânge, asta înseamnă un sistem imunitar mai scăzut ce permite o vulnerabilitate mai mare a organismului la răceli, gripe și o stare slăbită în general, de exemplu va fi mult mai ușor ca persoanele din jur să îți încalce limitele. De asemenea mintea începe să se oprească, ca la orice burnout, la un moment dat mintea se prăjește și cedează să te mai asculte. Nu mai cooperează. Se închide.&lt;/p&gt;
 &lt;p&gt;Desigur, efectele sunt reversibile, și dacă stai câteva zile liniștit, corpul se reface singur, dar în mod ideal nu ar trebui să ajungi să te sacrifici atât de tare. În primul rând, în viața de programator trebuie să înveți să îți dozezi energia. Dacă reușești asta, nu va trebui o zi să muncești peste măsură, decât dacă chiar te simți în stare de la prea multă energie pe care o ai.&lt;/p&gt;
 &lt;p&gt;Atunci când te consumi, și ajungi să iei din rezervele organismului energie, e ca și cum iei un credit la bancă, nota de plată tot vine la un moment dat, și vine cu dobândă. De aceea, de fiecare dată când exagerezi, ar trebui să pui cel puțin atât cât ai folosit la loc.&lt;/p&gt;
@@ -34,9 +34,9 @@ Câmpul din jurul corpului se restrânge, asta înseamnă un sistem imunitar mai
 &lt;p&gt;Alt obicei întâlnit la lucrul la calculator, este băutul de cafea. O cafea ar fi ok, dar de cele mai multe ori bei două, trei, mai și sari o masă ziua respectivă și uite așa îți supra soliciți sistemul digestiv. Îți dai seama că ai băut prea multă cafea când începe să îți miroasă gura. Atunci e semn că ficatul scoate flăcări. Alte efecte bune de observat sunt oboseala, deși cafeaua ar trebui să te revitalizeze, defapt doar agită mintea și apoi oricum te simți mai obosit decât erai înainte. Toate astea se pot verifica în analize. Dar în primul rând tu ar trebui să fii cel care să observi efectele, pe propria piele. Tot legat de digestie, pe la birou, rareori mănânci mâncare sănătoasă, deobicei bagi ceva fast-food, nu ești atent cât ar trebui la mâncarea pe care o mănânci, pentru că iarăși tu ești ocupat cu problemele pe care le rezolvi, și uite așa trec anii și ignori chestii de bază de care ar trebui să te ocupi fără să faci rabat.&lt;/p&gt;
 &lt;h2&gt;Somnul&lt;/h2&gt;
 &lt;p&gt;Nu în ultimul rând ce mai are de suferit dacă ești programator este somnul. Nu numai că toată ziua lucrezi, dar uneori faci asta și noaptea. Uneori stai până seara târziu, până pe la 2, 3, 4 dimineața. În primul rând somnul acela de la 4 dimineața nu e deloc odihnitor. Organismul are și el un ceas, și dacă îl sari se dereglează. Acest ceas arată cam așa, și pentru fiecare 2 ore ale zilei există un organ care e preponderent mai activ, după cum urmează:
-&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/chinese-body-clock.jpg&quot; alt=&quot;Ceasul Chinezesc al Organelor&quot;&gt;
+&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/chinese-body-clock.jpg&quot; alt=&quot;Ceasul Chinezesc al Organelor&quot;&gt;
 După acest ceas, orele ideale pentru dormit ar fi:
-&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-cod-prea-mult/screenshot-2020-02-17-at-00.36.09.png&quot; alt=&quot;Ore Potrivite pentru Somn&quot;&gt;
+&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/screenshot-2020-02-17-at-00.36.09.png&quot; alt=&quot;Ore Potrivite pentru Somn&quot;&gt;
 Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-al-organelor/&quot;&gt;https://herbagetica.ro/blog/ceasul-chinezesc-al-organelor/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Pe lângă astea, când te pui la somn, ca programator uneori e foarte greu să adormi, pentru că toată ziua ai muncit cu mintea și ea încă rămâne turată la maxim, chiar și la sfârșitul zilei. În timp, vei învăța să dai shutdown la minte la nevoie. Un simplu trick este dormitul cu picioarele libere, fără șosete. Aceasta va păcăli mintea să nu mai fie atentă la gândurile de-a lungul zilei, și ducând-o la picioare gândurile își vor pierde din esență și încet încet vei adormi. Desigur, nu trebuie să mă crezi pe cuvânt, încearcă și găsește pe cont propriu diverse lucruri care să meargă.&lt;/p&gt;
 &lt;h2&gt;De ce e așa greu cu sănătatea?&lt;/h2&gt;
