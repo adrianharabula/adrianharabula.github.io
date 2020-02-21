@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:ed656949-e753-3ccb-8929-39d4bb408fcb</id>
-  <updated>2020-02-17T00:00:00Z</updated>
+  <updated>2020-02-20T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-sa-fie-cat-mai-facil-sa-iti-iei-liber/">
+    <title type="text">De ce ar trebui să fie cât mai facil să îți iei liber?</title>
+    <id>urn:uuid:00d86b5a-0275-3dc1-a329-caa705d783f3</id>
+    <updated>2020-02-20T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-sa-fie-cat-mai-facil-sa-iti-iei-liber/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;Am văzut situația asta de prea multe ori, un angajat are nevoie fie de o zi liberă, fie să lucreze de acasă, fie să fie plecat de la birou câteva ore dar să fie atât de greu să îți iei liberul încât decât să îl ceri mai bine rămâi la birou. Nu e ca și cum nu îl poți lua, dar ca să îl iei trebuie să dai suficient de multe explicații încât să nu îl mai iei până la urmă, pe motiv că oricum aveai de lucru și așa nu îți mai bați capul să te justifici. Da, nu arde ce ai tu nevoie acum să faci, dar trebuie neapărat să ardă ca să faci ceva?&lt;/p&gt;
+&lt;p&gt;Așa că iată câteva tips pentru a face mai facil procesul:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;în primul rând ar fi bine de evitat anunțatul în persoană, pe fiecare coleg în parte că pleci, nu numai că nu e eficient, dar mai și deranjezi colegul de la treabă&lt;/li&gt;
+&lt;li&gt;o mică excepție ar fi că uneori s-ar putea să fie nevoie de aprobarea unei persoane mai de sus, cum ar fi manager, depinde de situație&lt;/li&gt;
+&lt;li&gt;ar fi bine să știe toți colegii cu care lucrezi că lipsești, pentru asta poți trimite un mail, nu e nevoie de un template complex, e suficient să aibă la subiect &quot;WFH today&quot;, &quot;Out of office between 12pm and 2pm&quot;, ceva suficient de scurt și clar care să dea de înțeles că nu vei fi. Nu e musai, dar poți scrie câteva cuvinte la mesaj dacă vrei, de exemplu &quot;personal issue&quot;, &quot;aștept curier&quot;, etc.&lt;/li&gt;
+&lt;li&gt;evident, dacă ai ceva prioritar în acest timp, trebuie să stabilești cu colegii cu care ai treabă în mod direct, nu poți pleca pur și simplu, dacă ai ceva ongoing, trebuie vorbit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anunțând pe mail, colegii știu când nu te vor găsi, și când va fi următoarea dată când te pot găsi, toate astea în secunda în care e văzut mailul.&lt;/p&gt;
+&lt;p&gt;Cum știi dacă nu e un proces prea complicat să îți iei liber la firmă la tine? Dacă ai nevoie acum să pleci 2h de la birou, cât de ușor e să pleci să îți rezolvi treaba și să te întorci înapoi?&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-gandirea-de-tip-ar-trebui-te-pune-intr-o-ipostaza-favorabila/">
     <title type="text">De ce gândirea de tip 'ar trebui' te pune într-o ipostază favorabilă?</title>
     <id>urn:uuid:d1b9317e-2578-3cf9-8e0c-cd97da252162</id>
@@ -1030,23 +1050,6 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Pe lângă vacanţe, mai sunt şi weekendurile. Nici ele nu sunt zile libere, şi nici zilele libere de la stat nu sunt zile libere. Sunt zile care trebuie bine puse la punct dinainte şi folosite la maxim. Ai nevoie de timp lung neîntrerupt ca să gândeşti bine şi pătrunzător. Foloseşte orice şansă ca să beneficiezi la maxim de acest timp. O zi în care eşti întrerupt de 10 ori e o zi pierdută, pe când o zi în care te izolezi să te ocupi de un singur mic lucru e o zi bine plănuită.&lt;/p&gt;
 &lt;h1&gt;În loc de final&lt;/h1&gt;
 &lt;p&gt;Da, anii 20 se termină şi ei, prin simplul fapt că au început. Deşi pot fi cea mai instabilă, tulburătoare şi emoţionantă perioadă din viaţa unui om, e o şansă numai bună ca să devii stăpânul propriei tale vieţi şi ca să dai o şansă cinsită vieţii aşa cum poţi. Dacă nu iese cum ai vrut, nu ai pierdut nimic, problema e mai degrabă pe cealaltă parte când fără să rişti nimic te conformezi şi faci ce faci doar pentru că toţi cei din jur fac asta. Treaba ta e să îţi găseşti calităţile bune şi să le foloseşti zi de zi. Nu e făcută lumea în aşa fel încât să mergi spre asemenea direcţie, dar nimeni nu te opreşte. Nici inamicul tuturor nu trebuie să devii şi nici peştele care înoată împotriva curentului. Iubeşte viaţa şi bucură-te de anii 20!&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/">
-    <title type="text">Cum să renunţi la concediu ca să munceşti mai mult</title>
-    <id>urn:uuid:0892cfa2-561c-3e25-b6b1-7c95df6477d7</id>
-    <updated>2018-04-18T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/04/cum-sa-renunti-la-concediu-ca-sa-lucrezi-mai-mult/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;Nu e chiar aşa de teribil pe cum sună şi nici nebun nu trebuie să fii.&lt;/p&gt;
-&lt;p&gt;După cum &lt;strong&gt;Charles T. Munger&lt;/strong&gt; spune,&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;To get what you want, you have to deserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Dacă îţi iei oricând 3 zile de concediu, cu tot cu weekend, înseamnă 5 zile neîntrerupte în care poţi lucra într-un mediu izolat la ceva important. Sunt 14 ore pe zi în care lucrezi la o singură problemă, 5 zile la rând. Cam în 70 de ore poţi rezolva o problemă importantă ce nu poate fi abordată în zgomotul de zi cu zi, sau doar în weekenduri. La 21 zile de concediu, înseamnă că poţi rezolva 7 astfel de probleme pe an.&lt;/p&gt;
-&lt;p&gt;În IT nu trebuie să te gândeşti prea mult ca să găseşti o astfel de problemă. Dar sunt şi alte exemple. Poate vrei să îţi pui sănătatea la punct, sau poate să planifici ce faci cu familia pe termen mediu-lung. Poate vrei să plănuieşti cât să pui deoparte până să ieşi la pensie şi să vezi dacă ce faci azi te duce mai aproape acolo, cât de puţin.&lt;/p&gt;
-&lt;p&gt;În 10 ani poţi rezolva 70 de probleme mari care te apasă azi. Cum te-ai simţi dacă ai şti sigur că timpul trece în favoarea ta şi rezolvi probleme din ce în ce mai provocatoare?&lt;/p&gt;
 </content>
   </entry>
 </feed>
