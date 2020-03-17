@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
   <id>urn:uuid:2e4f9231-e3e8-37e8-80b9-6de46df0014d</id>
-  <updated>2020-03-12T00:00:00Z</updated>
+  <updated>2020-03-17T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim--programul-de-lucru/">
+    <title type="text">Cum Remote Work ar putea schimba ce fel gândim programul de lucru?</title>
+    <id>urn:uuid:1c4db9c8-abfb-3aea-907d-1d61015e7ff1</id>
+    <updated>2020-03-17T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim--programul-de-lucru/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;În mod tradițional, serviciul e 9 ore pe zi (cu tot cu drum vreo 11), pe care le petreci să rezolvi probleme legate de serviciu. Uneori nu ai ce treabă la birou să faci în alea 9 ore, dar stai ca statuia că așa e contractul făcut, sau că e pur și simplu împotriva tuturor regulilor de bun simț să pleci de la birou în mijlocul zilei de lucru.&lt;/p&gt;
+&lt;p&gt;E chiar absurd, să termini ce ai făcut, până în prânz și să trebuiască să mai rămâi încă o juma de zi la birou, că așa e programul.&lt;/p&gt;
+&lt;p&gt;Ce se întâmplă cu acest remote work, e că te forțează să fii eficient, ca să îți vezi mai departe de viața ta. Scopul tău nu e să bei cafeaua să treacă timpul cât mai lung, sau să ieși cât mai des în pauze la țigară, scopul tău e pur și simplu să fii eficient ca să poți să îți vezi și de issues din viața personală, ce în mod tradițional ar fi însemnat să te învoiești de la serviciu.&lt;/p&gt;
+&lt;p&gt;Iată videoul întreg:&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/KZ9QDBMvv2M?controls=0&amp;amp;start=94&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/03/ar-trebui-sa-ne-panicam-de-la-corona/">
     <title type="text">Ar trebui să ne panicăm de la Corona?</title>
     <id>urn:uuid:3ef52f93-2eac-38fd-828f-783290055c20</id>
@@ -982,71 +998,6 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;/ul&gt;
 &lt;p&gt;Sunt o groază de alte mici lucruri care au apărut și pe care nu le-aș fi putut vedea doar în faza de idee. Un proiect IT include multe astfel de detalii, de multe ori trecute cu vederea. Sunt chestii care iau timp, dar nu ai cum niciodată să le prevezi. Ca să ai totuși ceva la sfârșitul zilei, focusul e pe funcționalitate. Orice altceva mai poate sta.&lt;/p&gt;
 &lt;p&gt;De exemplu, dacă vreau să fac un blog, care e lucrul cel mai important pe care să îl aibe... Să poți să scrii articole. Orice altceva e ignorat complet. Așa am și făcut. Așa că azi e prima versiune super rușionasă a noului blog. 😌 Just push it to production!&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/">
-    <title type="text">Ce să faci la 20 de ani ca să nu regreţi la 26?</title>
-    <id>urn:uuid:25c28535-8350-3a40-8608-fa56fe723c04</id>
-    <updated>2018-07-03T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2018/07/ce-sa-faci-la-20-ani-sa-nu-regreti-la-26/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;La 20 de ani mintea te duce în plaiuri îndepărtate, ba în viitor, ba în trecut, dar realitatea e doar în prezent, aici, fără imaginație, fără vise, fără vârstă. Indiferent în ce stadiu te afli în viaţa asta iată câteva momente cheie pentru a îţi aminti să trăieşti.&lt;/p&gt;
-&lt;h1&gt;Începe cu sfârșitul&lt;/h1&gt;
-&lt;p&gt;Erau deja 2 ani trecuţi de când lăsasem facultatea, părinţii nu m-au mai primit acasă iar eu încă nu îmi găseam niciun loc în lume. Păreau cei mai 2 ani risipiţi din viaţa mea în care părea că nu sunt al nimănui, nici măcar al străzii. Au fost cei mai groaznici ani trăiţi.&lt;/p&gt;
-&lt;p&gt;Mă întrebam dacă nu cumva toate astea se vor termina vreodată. Se vor termina, evident (şi iată că s-au terminat) dar a mai durat un pic. La 20 de ani, depinde cât de mult mai poţi extinde acel un pic până să ajungi înapoi la 'normalitate' şi te rog din toată inima, în tot timpul pe care îl ai în acest timp fragil, nu te întoarce de unde ai plecat, mai mergi un pic, mai încearcă ceva. Vei avea tot timpul să te întorci înapoi şi toate lucrurile vor fi ca şi cum nimic nu s-ar fi întâmplat. Mai rămâi acum aici un pic. Îţi vei mulţumi de 1000 de ori mai încolo.&lt;/p&gt;
-&lt;p&gt;Ideea esenţială e să anticipezi unde vei fi în următorii ani şi încet încet să iei hotărâri care îţi vor permite să te uiţi înapoi cu bucurie şi satisfacţie deplină. Ştiind că vei putea face asta toţi anii 20 devin infinit mai plăcuţi şi interesanţi.&lt;/p&gt;
-&lt;p&gt;E prea trist să închei prea devreme aventura anilor 20 fără să rişti nimic. Toate într-o zi se vor termina aşa că mai rămâi un pic acum, mai fă ceva. Chiar dacă nu ai un acoperiş deasupra, chiar dacă nu ai ce mânca deseară şi chiar dacă, în general, nu ar putea ieşi nimic, totuşi există o mică mică mică mică mică şansă să se schimbe ceva, doar pentru simplul fapt că încerci ceva diferit. Doar nu renunţa prea repede. 2 ani ca să încerci ceva înseamnă foarte puţin. Mai stai un pic. După cum zice un proverb chinezesc:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;The temptation to quit will be greatest just before you are about to succeed.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;Întinde-te numai cât ţi-e plapuma&lt;/h1&gt;
-&lt;p&gt;Tot ce crezi tu că poți să faci nu e și neapărat adevărat. E la modă să gândești fără limite, dar mai realist e să îți vezi de lungul nasului și să nu te arunci niciodată mai mult decât poți duce.&lt;/p&gt;
-&lt;p&gt;Când te bagi în ceva şi încet dar sigur începi să simţi consecinţele, fără să te fi aşteptat la ele dinainte să fi luat decizia, deja e prea grav. Nu ţi-ai dat seama indicii de la început, indicii subtili dar clari şi uşor de văzut dacă te-ai fi gândit puţin înainte.&lt;/p&gt;
-&lt;p&gt;Fiecare mai păţim şi dintr-astea. E bine totuşi la 20 de ani să nu îţi faci datorii de aşa fel. E prea devreme şi sunt lucruri prea ale adulţilor. Nu e încă momentul. La 20 de ani încă nu ai nevoie de responsabilităţi dintr-astea.&lt;/p&gt;
-&lt;p&gt;De multe ori în viaţă e bine să zici nu şi la 20 de ani ar fi bine să înveţi din timp bine asta.&lt;/p&gt;
-&lt;h1&gt;Viaţa e preţioasă... nu fi stupid să pui altceva mai sus decât viaţa&lt;/h1&gt;
-&lt;p&gt;Viața pe care o ai prețuiește-o. Alta nu mai ai. Dacă eşti azi aici, nu înseamnă că vei fi şi mâine. La un moment dat, mai curând decât crezi, vei avea de ales între viață și ceea ce ești. Sper că vei alege viața.&lt;/p&gt;
-&lt;p&gt;Poate sunt prea vag, dar exemple sunt mii.&lt;/p&gt;
-&lt;p&gt;Atunci când traversezi strada, sper că va fi mai important să trăiești decât să te grăbești să sari în faţa maşinii.&lt;/p&gt;
-&lt;p&gt;Atunci când alegi ceva în interesul tău, poate nu e în interesul tuturor şi ar fi mai bine să laşi de la tine ca să fie bine şi în jur, nu numai pentru tine.&lt;/p&gt;
-&lt;h1&gt;Pleacă cât mai repede de acasă&lt;/h1&gt;
-&lt;p&gt;Nu pentru că vrei să fugi. Nu pentru că vrei să-ți lași familia deoparte. Ci pentru că e momentul să începi să faci ce poți tu cu viața ta. Să fugi după ceea ce vrei să realizezi. Asta poate va înseamna să îți lași familia deoparte. Trist, dar la 18 ani ar trebui să îți iei traista in spate și te duci în lume să-ți câștigi existența. Gata cu milogeala. Nimic în lumea asta nu se dă pe gratis iar la vârsta asta ar trebui să înveți să produci cel puțin pentru tine.&lt;/p&gt;
-&lt;p&gt;E greu, dar va fi și mai greu mai încolo dacă te obișnuiești că alții îți pot oferi cele necesare traiului iar tu mai poți sta un pic fără să faci nimic.&lt;/p&gt;
-&lt;p&gt;Sunt atâtea exemple care şi la 40 de ani încă mai stau pe capul părinţilor. Nu fii şi tu unul din ele.&lt;/p&gt;
-&lt;h1&gt;Mută-te singur cât mai repede&lt;/h1&gt;
-&lt;p&gt;Lasă vrăjeala că poți sta cu mama acasă, sau cu colegi de apartament. Pur și simplu ai nevoie de spațiul tău. Un loc unde sa te simţi ca acasă, să ajungi când vrei, să așezi cum vrei, să nu dai socoteală la nimeni pentru ce faci.&lt;/p&gt;
-&lt;p&gt;Costă poate zici... dar nu uita.&lt;/p&gt;
-&lt;p&gt;Cel mai important e să ai locul tău sacru de odihnă și de lucru peste care să nu se bage nimeni. Este indiscutabil.&lt;/p&gt;
-&lt;h1&gt;Cea mai ciudată meserie&lt;/h1&gt;
-&lt;p&gt;Pentru mine a fost când dădeam reviewuri la hoteluri de 4 si 5 stele, homeless fiind. Beam o cafea şi notam atmosfera din hotelul respectiv. A fost pe departe cea mai contradictorie meserie. Au mai urmat si altele. Printre care vândutul de tigăi din uşă în uşă. Toate astea evident, după ce am lăsat facultatea. Dacă astea nu sunt lucruri extreme, abia după mult timp mi-am dat seama că defapt oricât de mult aş vrea să aleg şi altă meserie decât cea de programator, nu am cum... nu am fost făcut de aşa natură. Aşa m-am născut. N-am ce să îmi fac. Îmi voi fi dorit mai degrabă să nu mă fi născut dacă aş fi ştiut că sunt aşa de complicat.&lt;/p&gt;
-&lt;h1&gt;Atunci când ai acoperiş desupra capului şi nu mai trăieşti de pe o zi pe alta&lt;/h1&gt;
-&lt;p&gt;La un moment dat lucrurile încep să se mai şi liniştească. Nu peste noapte, ci încet încet, viaţa nu mai e chiar o luptă continuă şi începi să te gândeşti şi la altele decât acoperiş şi mâncarea pe ziua de mâine. Nu uita că ai muncit pentru fiecare clipă pe care o trăieşti viaţa asta. Fiecare zi este muncită şi nu ai nici măcar o secundă de pierdut. Atunci când eram homeless mi se păreau atât de wow oamenii care aveau timp la prânz să se oprească 20 minute să bea o cafea rapid din care să nu înţeleagă nimic. Iar seara să nu aibe grija unde să pună capul pe o pernă iar în general să aibe o viaţă nu grozavă, dar ok cu care să poată merge mai departe. Era atât de wow. Acum iată-mă că fac şi eu astea fără să mă gândesc dar îmi dau seama în acelaşi timp că dacă nu sunt atent viaţa trece pe lângă mine şi eu însumi nu reuşesc să mă bucur de momentele preţioase din jur.&lt;/p&gt;
-&lt;h1&gt;Pe cealaltă parte, încă nu e momentul să fii extravagant&lt;/h1&gt;
-&lt;p&gt;Pe cealaltă parte, problema e să stai prea relaxat şi să te bucuri de câmp, de flori, să savurezi tot ce e în jur ca şi cum n-ai avea nimic altceva de făcut. Ei bine, acest moment cu siguranţă nu e la 20 de ani! La 20 de ani, îţi bei repede halba de bere şi mergi mai departe. Nu ai timp  de mirosit flori. Deşi ai cel mai mult timp liber la dispoziţie în mod paradoxal, acest timp ai face bine să îl foloseşti la maxim ca să încerci lucruri noi.&lt;/p&gt;
-&lt;h1&gt;Dacă vrei responsabilităţi iată-le că şi vin&lt;/h1&gt;
-&lt;p&gt;Vrei sau nu, iată că acum ai nevoie să îţi porţi singur de griji. Îţi cauţi singur dentistul. Nesatisfacerile de la servici sunt 100% responsabilitatea ta. Dacă vrei mai mult numai de tine depinde. Dacă nu eşti fericit iarăşi e numai răspunderea ta. Poţi merge şi până la dacă cei din jurul tău nu sunt fericiţi... e responsabilitatea ta şi asta :) Discutabil, dar... dacă într-o mică mică mică măsură ai putea fi răspunzător de starea celor din jur, ai face ceva diferit?&lt;/p&gt;
-&lt;h1&gt;Sănătate&lt;/h1&gt;
-&lt;p&gt;Bolile nu sunt altceva decât probleme nerezolvate care se adună pe un card de credit şi la un moment dat vine nota de plată. Spune-mi un om echilibrat care suferă de ceva şi e suficient ca să retrag acest paragraf. Medicina nu e numai ceea ce se întâmplă la spital dar e şi despre igiena gândurilor pe care le ai faţă de tine şi faţă de cei din jur. De asta unii stau toată ziua cu drumuri la spitale iar alţii abia dacă văd medicii.&lt;/p&gt;
-&lt;p&gt;Indiferent de ce cred eu sau nu ţine cu dinţii de sănătatea ta. Dacă o pierzi se duce tot, şi te duci şi tu cu ea. E cel mai de preţ lucru pe care îl ai cu tine şi totodată cel mai uşor de ignorat în anii 20.&lt;/p&gt;
-&lt;h1&gt;Cu orice preţ nu te lăsa pradă minţii&lt;/h1&gt;
-&lt;p&gt;Mintea abia aşteaptă să profite de orice moment ca să îţi distragă atenţia şi să te ducă pe plaiuri îndepărate. E treaba ta să o aduci înapoi şi să o disciplinezi. Îţi va face foarte multe zile negre. Nu ai vrea să ia decizii în locul tău. Mintea la 20 de ani e ca un pui de Rottweiler, încă o mai poţi dresa, dar dacă nu acţionezi rapid, mai încolo te va controla ea pe tine în toate deciziile pe care le vei lua viaţa asta.&lt;/p&gt;
-&lt;p&gt;Sub orice preţ, la 20 de ani nu ai nimic de apărat, ai numai de învăţat. Nu e vreme de orgoliu, nu ai nimic de protejat şi nici de demonstrat. E o încercare sinceră de a îţi face viaţa cu propriii termeni şi nu cei impuşi de cei din jur. Şi în toată această aventură ai grijă să scapi cu viaţă, să îţi asiguri cele necesare traiului şi să mai rămâi şi cu un pic de sănătate mintală, haha.&lt;/p&gt;
-&lt;p&gt;Mintea ar trebui să fie aliatul tău, dar cred că asta e doar o glumă bună la 20 de ani.&lt;/p&gt;
-&lt;h1&gt;Ţine strictul necesar împachetat într-o geantă şi fii pregătit să pleci la drum oricând pentru câteva zile neaşteptat&lt;/h1&gt;
-&lt;p&gt;O geantă în spate cu toate necesităţile pe câteva zile, să ai tot timpul la tine. Nu şti cum te poartă viaţa, în caz de ceva, ai o geantă cu tine să poţi pleca lejer. S-a întâmplat de atâtea ori şi se va mai întâmpla de nenumărate ori. Renunţă la cât de multe posesii poţi. Orice nu ai folosit în ultimele 6 luni aruncă. Dacă ai mai folosit un lucru din când în când dă-l mai departe. Fă-ţi un obicei din a avea întotdeauna loc liber cu tine oriunde ai fi. Aşa vor veni lucruri noi tot timpul în viaţa ta. Şi nu vei căra prea multe cu tine, decât doar strictul necesar.&lt;/p&gt;
-&lt;h1&gt;Donează lucruri de care ai nevoie celor care au nevoie de ele&lt;/h1&gt;
-&lt;p&gt;Nu ai nevoie chiar de tot ce ai. Ce nu ai folosit în ultimele 6 luni, aruncă fără resentiment. Fiecare lucru pe care îl ai ocupă un spaţiu în minte. Cu cât ai mai multe lucruri, cu atât ai mai puţin spaţiu la dispoziţie pentru lucruri noi. Renunţă la tot ce nu foloseşti fără să te gândeşti de 2 ori.&lt;/p&gt;
-&lt;p&gt;Poate sună uşor, dar nu e chiar aşa, am renunţat la laptop când chiar aveam nevoie de el. L-am donat pentru că nu puteam să-l car în spate. Bine, poate puteam să îl las la cineva cunoscut. Dar whatevăr. 2 ani i-am dus lipsa. Mai încolo, &lt;a href=&quot;https://www.adrianharabula.ro/2016/03/primul-venit-din-freelancing/&quot;&gt;primul venit din freelancing&lt;/a&gt; l-am făcut cu un calculator împrumutat. Încet încet lucrurile, dacă ai nevoie de ele vin înapoi, iar dacă nu, pleacă şi lasă spaţiu liber pentru altceva.&lt;/p&gt;
-&lt;h1&gt;Lasă vacanțele deoparte, cel puțin nu acum este momentul&lt;/h1&gt;
-&lt;p&gt;Bill Gates avea o vorbă...&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;I never took a day off in my twenties. Not one. And I'm still fanatical, but now I'm a little less fanatical&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Poate nu are rost să menţionez, dar gândeşte-te că sunt unele zile în care abia te duşezi, abia mănânci şi toate astea sunt la normă!!! Poate nu are rost să povestesc mai în detaliu... Să dai tot ce poţi la 20 de ani nu are nevoie de descrieri... Înseamnă foarte muuult sacrificiu. Când tot ceilalţi sunt în weekend plimbându-se sau în vacanţe tu rămâi să mai lucrezi în plus la ceva al tău care nu şti cum va fi şi nu îţi poţi pune decât doar speranţa.&lt;/p&gt;
-&lt;p&gt;Poate că nu e cea mai grozavă descriere, dar dacă vrei să obţii ceva trebuie să şi munceşti pentru acel ceva. Nimeni nu face excepţie şi nu se naşte cu lucruri de-a gata meritate.&lt;/p&gt;
-&lt;p&gt;Pe lângă vacanţe, mai sunt şi weekendurile. Nici ele nu sunt zile libere, şi nici zilele libere de la stat nu sunt zile libere. Sunt zile care trebuie bine puse la punct dinainte şi folosite la maxim. Ai nevoie de timp lung neîntrerupt ca să gândeşti bine şi pătrunzător. Foloseşte orice şansă ca să beneficiezi la maxim de acest timp. O zi în care eşti întrerupt de 10 ori e o zi pierdută, pe când o zi în care te izolezi să te ocupi de un singur mic lucru e o zi bine plănuită.&lt;/p&gt;
-&lt;h1&gt;În loc de final&lt;/h1&gt;
-&lt;p&gt;Da, anii 20 se termină şi ei, prin simplul fapt că au început. Deşi pot fi cea mai instabilă, tulburătoare şi emoţionantă perioadă din viaţa unui om, e o şansă numai bună ca să devii stăpânul propriei tale vieţi şi ca să dai o şansă cinsită vieţii aşa cum poţi. Dacă nu iese cum ai vrut, nu ai pierdut nimic, problema e mai degrabă pe cealaltă parte când fără să rişti nimic te conformezi şi faci ce faci doar pentru că toţi cei din jur fac asta. Treaba ta e să îţi găseşti calităţile bune şi să le foloseşti zi de zi. Nu e făcută lumea în aşa fel încât să mergi spre asemenea direcţie, dar nimeni nu te opreşte. Nici inamicul tuturor nu trebuie să devii şi nici peştele care înoată împotriva curentului. Iubeşte viaţa şi bucură-te de anii 20!&lt;/p&gt;
 </content>
   </entry>
 </feed>
