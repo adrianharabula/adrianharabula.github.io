@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
-  <id>urn:uuid:2e4f9231-e3e8-37e8-80b9-6de46df0014d</id>
+  <id>urn:uuid:763f7506-1df9-3a3e-8ebb-f21e0b6859be</id>
   <updated>2020-03-17T00:00:00Z</updated>
-  <link href="https://adrianharabula.github.io/blog/" />
+  <link href="https://adrianharabula.github.io/en/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim-programul-de-lucru/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim-programul-de-lucru/">
     <title type="text">Cum Remote Work ar putea schimba ce fel gândim programul de lucru?</title>
-    <id>urn:uuid:0f5427eb-2e96-3c04-b26a-8cd5957e4f9a</id>
+    <id>urn:uuid:5dad3a1f-b0fd-33ed-a1ae-29ad841d448b</id>
     <updated>2020-03-17T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim-programul-de-lucru/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim-programul-de-lucru/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -25,11 +25,11 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/cKk1RtfnGJ4?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;</content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/03/ar-trebui-sa-ne-panicam-de-la-corona/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/03/ar-trebui-sa-ne-panicam-de-la-corona/">
     <title type="text">Ar trebui să ne panicăm de la Corona?</title>
-    <id>urn:uuid:3ef52f93-2eac-38fd-828f-783290055c20</id>
+    <id>urn:uuid:cf062e03-2458-3a81-b801-056e4b1dd2db</id>
     <updated>2020-03-12T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/03/ar-trebui-sa-ne-panicam-de-la-corona/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/03/ar-trebui-sa-ne-panicam-de-la-corona/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -42,11 +42,11 @@
 &lt;p&gt;Cei care ar putea muri de la Corona, sunt deja slăbiți de alte condiții medicale. Panica și frica nu ajută nici ele, ba chiar alarmează organismul celor afectați și mai tare să își consume energia de rezervă și așa poți ajunge să mori foarte ușor. Când nu mai ai energie, e foarte inteligent să ți-o gestionezi pe cea rămasă foarte eficient. Ultimul lucru pe care vrei să îl faci e să risipești fărâma de energie pe frici și temeri. Orice grăunte trebuie folosit pentru a face încă un pas și tot așa până când situația primejdioasă se duce.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/03/wfh-vis-devenit-realitate/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/03/wfh-vis-devenit-realitate/">
     <title type="text">WFH, vis devenit realitate</title>
-    <id>urn:uuid:d1ea36a8-ce4b-3391-a8b6-b23aa3b83417</id>
+    <id>urn:uuid:8851f41f-2d51-3171-9996-7b2bd2a7f952</id>
     <updated>2020-03-11T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/03/wfh-vis-devenit-realitate/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/03/wfh-vis-devenit-realitate/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -62,11 +62,11 @@
 &lt;p&gt;Vedem ce va fi. Foarte frumos din partea firmei, în primul rând angajații au fost puși pe primul loc și s-a văzut foarte clar din mesajul trimis de firmă, se așteaptă deja firma ca zilele următoare să fie productivitate mai scăzută din cauza lucrului de acasă, dar e un calcul luat, mai bine mai puțin acum, decât și mai puțin mai încolo. Dacă oamenii sunt bine și treaba per total merge bine. Mă bucur mult că există astfel de firme și mi-aș dori să fie cât mai multe astfel de exemple!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/">
     <title type="text">Ce se întâmplă cu corpul tău la nivel energetic dacă scrii prea mult cod?</title>
-    <id>urn:uuid:7814f6b8-53ae-34fb-a710-f0c878987e71</id>
+    <id>urn:uuid:ebb98b8a-85c1-301c-aa76-0b72cb5762d2</id>
     <updated>2020-02-16T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -77,7 +77,7 @@
 &lt;p&gt;Iată ce afecțiuni ar putea apărea, în special la programatori:&lt;/p&gt;
 &lt;h2&gt;Vederea&lt;/h2&gt;
 &lt;p&gt;Așa că fără prea multe adaosuri, vederea în primul rând este primul lucru care se belește. Vrând nevrând dacă exagerezi te vei trezi că ai nevoie de ochelari. Datorită încordării excesive asupra unui singur punct pentru ore întregi (până la 12-14h pe zi, pe o perioadă lungă de timp), privirea se rigidizează și nu mai poți focaliza aproape sau la distanță.&lt;/p&gt;
-&lt;p&gt;Vezi și &lt;a href=&quot;../../../../blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/&quot;&gt;Cum șofatul te-ar putea ajuta să te relaxezi ca programator?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vezi și &lt;a href=&quot;../../../../../blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/&quot;&gt;Cum șofatul te-ar putea ajuta să te relaxezi ca programator?&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Mintea&lt;/h2&gt;
 &lt;p&gt;Odată cu vederea, alt lucru ce se încordează excesiv este mintea. Ești atent acolo la ce faci, ore întregi, fără să faci prea multe pauze. Mintea obosește și ea, uneori atât de tare încât începi să te simți străin în propriul corp și nu e bine deloc, pentru că așa rămâi fără protecție, slăbește foarte tare organismul. Dacă apare o inflamație, sau o durere, mintea e prea ocupată cu ce lucrezi ca să observe inflamația așa că o ignori îndeajuns de mult încât problema să se agraveze și să îți dai seama mult prea târziu de ea, deși semne au fost acolo întotdeauna, dar ai fost prea ocupat ca să le observi.&lt;/p&gt;
 &lt;p&gt;Pentru a relaxa mintea, e nevoie de pauză de la activități ce o fac să se încordeze. Exemplu de activități ce relaxează mintea:&lt;/p&gt;
@@ -90,7 +90,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Corpul, în general&lt;/h2&gt;
 &lt;p&gt;După cum e și poza, atunci când lucrezi prea mult la serviciu, organismul tău slăbește și trece în mod de supraviețuire, închizând centrii importanți:
-&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/camp-energetic-programator.jpeg&quot; alt=&quot;câmd energetic slăbit&quot;&gt;
+&lt;img src=&quot;../../../../../en/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/camp-energetic-programator.jpeg&quot; alt=&quot;câmd energetic slăbit&quot;&gt;
 Câmpul din jurul corpului se restrânge, asta înseamnă un sistem imunitar mai scăzut ce permite o vulnerabilitate mai mare a organismului la răceli, gripe și o stare slăbită în general, de exemplu va fi mult mai ușor ca persoanele din jur să îți încalce limitele. De asemenea mintea începe să se oprească, ca la orice burnout, la un moment dat mintea se prăjește și cedează să te mai asculte. Nu mai cooperează. Se închide.&lt;/p&gt;
 &lt;p&gt;Desigur, efectele sunt reversibile, și dacă stai câteva zile liniștit, corpul se reface singur, dar în mod ideal nu ar trebui să ajungi să te sacrifici atât de tare. În primul rând, în viața de programator trebuie să înveți să îți dozezi energia. Dacă reușești asta, nu va trebui o zi să muncești peste măsură, decât dacă chiar te simți în stare de la prea multă energie pe care o ai.&lt;/p&gt;
 &lt;p&gt;Atunci când te consumi, și ajungi să iei din rezervele organismului energie, e ca și cum faci un credit la bancă, nota de plată tot vine la un moment dat, și vine cu dobândă. De aceea, de fiecare dată când exagerezi, ar trebui să pui cel puțin atât cât ai folosit la loc.&lt;/p&gt;
@@ -100,9 +100,9 @@ Câmpul din jurul corpului se restrânge, asta înseamnă un sistem imunitar mai
 &lt;p&gt;Alt obicei întâlnit la lucrul la calculator, este băutul de cafea. O cafea ar fi ok, dar de cele mai multe ori bei două, trei, mai și sari o masă ziua respectivă și uite așa îți supra soliciți sistemul digestiv. Îți dai seama că ai băut prea multă cafea când începe să îți miroasă gura. Atunci e semn că ficatul scoate flăcări. Alte efecte bune de observat sunt oboseala, deși cafeaua ar trebui să te revitalizeze, defapt doar agită mintea și apoi oricum te simți mai obosit decât erai înainte. Toate astea se pot verifica în analize. Dar în primul rând tu ar trebui să fii cel care să observi efectele, pe propria piele. Tot legat de digestie, pe la birou, rareori mănânci mâncare sănătoasă, deobicei bagi ceva fast-food, nu ești atent cât ar trebui la mâncarea pe care o mănânci, pentru că iarăși tu ești ocupat cu problemele pe care le rezolvi, și uite așa trec anii și ignori chestii de bază de care ar trebui să te ocupi fără să faci rabat.&lt;/p&gt;
 &lt;h2&gt;Somnul&lt;/h2&gt;
 &lt;p&gt;Nu în ultimul rând ce mai are de suferit dacă ești programator este somnul. Nu numai că toată ziua lucrezi, dar uneori faci asta și noaptea. Uneori stai până seara târziu, până pe la 2, 3, 4 dimineața. În primul rând somnul acela de la 4 dimineața nu e deloc odihnitor. Organismul are și el un ceas, și dacă îl sari se dereglează. Acest ceas arată cam așa, și pentru fiecare 2 ore ale zilei există un organ care e preponderent mai activ, după cum urmează:
-&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/chinese-body-clock.jpg&quot; alt=&quot;Ceasul Chinezesc al Organelor&quot;&gt;
+&lt;img src=&quot;../../../../../en/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/chinese-body-clock.jpg&quot; alt=&quot;Ceasul Chinezesc al Organelor&quot;&gt;
 După acest ceas, orele ideale pentru dormit ar fi:
-&lt;img src=&quot;../../../../blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/screenshot-2020-02-17-at-00.36.09.png&quot; alt=&quot;Ore Potrivite pentru Somn&quot;&gt;
+&lt;img src=&quot;../../../../../en/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/screenshot-2020-02-17-at-00.36.09.png&quot; alt=&quot;Ore Potrivite pentru Somn&quot;&gt;
 Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-al-organelor/&quot;&gt;https://herbagetica.ro/blog/ceasul-chinezesc-al-organelor/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Pe lângă astea, când te pui la somn, ca programator uneori e foarte greu să adormi, pentru că toată ziua ai muncit cu mintea și ea încă rămâne turată la maxim, chiar și la sfârșitul zilei. În timp, vei învăța să dai shutdown la minte la nevoie. Un simplu trick este dormitul cu picioarele la aer, fără șosete. Aceasta va păcăli mintea să se ducă la picioare și gândurile excesive își vor pierde din esență și așa vei adormi. Desigur, nu trebuie să mă crezi pe cuvânt, încearcă și găsește pe cont propriu diverse lucruri care să meargă.&lt;/p&gt;
 &lt;h2&gt;Rezumat&lt;/h2&gt;
@@ -110,25 +110,25 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Nici nu ar trebui să fii prea rigid și să iei totul prea în serios, toate sunt lucruri care trebuie abordate cu blândețe, cu acceptare față de sine, nu trebuie să ajungi să te urăști pentru lucrurile ce le faci, așa că provocarea nu e neapărat în ce afecțiuni pot apărea ci și în ce gândești tu despre tine față de problemele care apar. De exemplu dacă te gândești că iar îți strici sănătatea că stai peste program la birou e un gând mult mai distructiv pentru organism decât dacă ai fi plecat când trebuia. Dar e greu să faci asta, mai ales dacă ești obosit, pentru e că mai greu să îți refuzi șeful. Așa că dacă tot rămâi mai târziu la birou, asigură-te că o faci de dragul de a rezolva o problemă mare apăsătoare mult mai importantă decât odihna pe o zi, pe care o vei recupera în restul săptămânii.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-proiectul-nu-progreseaza/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/de-ce-proiectul-nu-progreseaza/">
     <title type="text">De ce proiectul nu progresează?</title>
-    <id>urn:uuid:10ced9d8-cb6e-314a-85cf-689ef0096704</id>
+    <id>urn:uuid:65501586-8e0e-3c25-a7f8-f216dbc19b10</id>
     <updated>2020-02-15T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-proiectul-nu-progreseaza/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/de-ce-proiectul-nu-progreseaza/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
     <content type="html">&lt;p&gt;Atunci când lucrezi la un proiect, este foarte probabil ca cel puțin prima jumătate a lui să nu ai niciun progres. Ba mai mult, s-ar părea ca majoritatea timpului să fie petrecut cu probleme neprevăzute. Asta se întâmplă pentru că progresul nu prea e la început când încă îți dai seama ce faci, ci mult mai încolo când tot ce ai lucrat până atunci (și aparent nu mergea) se cumulează și începe să ia formă, deodată.&lt;/p&gt;
 &lt;p&gt;El arată cam așa:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/02/de-ce-proiectul-nu-progreseaza/social.png&quot; alt=&quot;Progres Proiect IT&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/02/de-ce-proiectul-nu-progreseaza/social.png&quot; alt=&quot;Progres Proiect IT&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Abia pe la jumătatea proiectului productivitatea crește exponențial și lucrurile încep să se stabilizeze. Este și perioada cea mai faină a proiectului. Nu durează totdeauna asta, mai apoi spre final, productivitatea stagnează iar. Atunci este și momentul ca să treci la următorul proiect.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/">
     <title type="text">Ar trebui să mergi răcit la birou?</title>
-    <id>urn:uuid:183feb3d-6015-3457-abed-e4c3bb074b24</id>
+    <id>urn:uuid:c43ea02e-c296-3012-911d-56074bcb4803</id>
     <updated>2020-02-14T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -140,11 +140,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Desigur nu trebuie ignorată sănătatea, dar e doar o răceală, acum mă gândesc... următoarea dată când răcesc oare aș reuși să rămân acasă? 🤔 Ar fi un challenge interesant.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/">
     <title type="text">Cum șofatul te-ar putea ajuta să te relaxezi ca programator?</title>
-    <id>urn:uuid:0792d714-5c03-33bb-8b49-20c7be039053</id>
+    <id>urn:uuid:1618f12d-d0e5-334d-8ed3-6884c6013bd2</id>
     <updated>2020-02-13T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -155,11 +155,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Acești mici factori ajută foarte mult să relaxezi atât mintea cât și vederea. Nu există lucru mai bun ce l-ai putea face pentru tine.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/">
     <title type="text">WFH a devenit oficial de azi la firma la care lucrez</title>
-    <id>urn:uuid:7ad9e219-b83f-3312-936f-eddf651a7489</id>
+    <id>urn:uuid:abf0ef34-46e9-3797-88ba-199183fd811d</id>
     <updated>2020-02-12T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -170,15 +170,15 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Deși e vorba doar de 1 zi pe săptămână maxim dacă firma crede că experimentul e unul de succes, mi se pare un pas extraordinar, și mă bucur mult că se întâmplă asta, și tot mai mult firme mici încep să introducă în sistemul lor politici pentru lucrul de acasă.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/">
     <title type="text">Am încercat Teleport, de ce este atât de tare carsharingul?</title>
-    <id>urn:uuid:6a5c745e-430c-3f35-bdd8-9775ac06d1fc</id>
+    <id>urn:uuid:fa45330e-ce6d-3dea-aeae-efe486213d49</id>
     <updated>2020-02-11T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/social.png&quot; alt=&quot;Teleport carsharing&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/social.png&quot; alt=&quot;Teleport carsharing&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Am descoperit de curând serviciul de carsharing &lt;a href=&quot;https://goteleport.ro&quot;&gt;Teleport&lt;/a&gt;. De mai multe ori m-am lovit de problema că nu vreau neapărat să dețin o mașină personal, dar uneori am nevoie de una și deși am mai încercat diverse servicii de închiriere mașini niciunul nu m-a dat pe spate.&lt;/p&gt;
 &lt;p&gt;Cu ce se deosebește Teleport, e că alegi o mașină disponibilă din apropiere, pe care o deblochezi, cu telefonul!&lt;/p&gt;
 &lt;p&gt;Serviciul este 100% self-service așa că poți lua mașina oricând ai nevoie, 24/7. Dacă ai nevoie în timpul zilei, poți face o cerere și un valet o va livra la adresa menționată, gratuit. Cât de tare este asta? Toate sunt mașini electrice.&lt;/p&gt;
@@ -186,7 +186,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;div class=&quot;videoWrapper&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/JCPWM4HSjys?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;p&gt;A durat cam mult drumul cu mașina, cam de 2 ori mai mult decât aș fi făcut cu metroul, dar recunosc, a fost mult mai confortabil și o să mă cam gândesc la asta de acum de fiecare dată când folosesc transportul public. Ca preț tot atât aș fi dat și pe Uber. Cam așa arată o cursă:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/teleport-trip.jpeg&quot; alt=&quot;teleport trip costs&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/teleport-trip.jpeg&quot; alt=&quot;teleport trip costs&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Mașinile pot fi luate pe oricât timp ai nevoie. Dacă depășești mai mult de 10h pe ceas cu mașina, adică dacă o returnezi oricând după 10-24h prețul e cel de 1 zi întreagă, 150lei.&lt;/p&gt;
 &lt;p&gt;Mașina poate fi luată și pe drumuri mai lungi, oriunde în România, singura condiție e să fie returnată în București în zona albastră (se vede din aplicație).&lt;/p&gt;
 &lt;p&gt;Zone unde poți încărca gratuit se găsesc pe &lt;a href=&quot;https://www.plugshare.com/&quot;&gt;PlugShare&lt;/a&gt;, mufa care te interesează este cea Type 2. Cu parcările nu prea mă pricep, dar majoritatea sunt gratuite, fiind mașină electrică. Pentru București, lista cu parcări disponibile este &lt;a href=&quot;http://www.aspmb.ro/Parcaje/LISTAPARCAJE.pdf&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
@@ -195,29 +195,29 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Dacă ar merge mai departe aplicația, ar face deținerea unei mașini personale inutile...&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/">
     <title type="text">Cum să treci cu brio provocărilor care implică interacțiune umană?</title>
-    <id>urn:uuid:a62d7bb5-fa8a-339f-b5ae-35401e1af5d1</id>
+    <id>urn:uuid:389349a7-387b-3d45-91be-6fa37c1f6634</id>
     <updated>2020-02-10T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
     <content type="html">&lt;p&gt;Uneori, când programezi, nu vrei să ai de-a face cu oameni. În loc să scrii cod, ar trebui să fii atent la ei. Am crezut că e doar la programatori, dar se pare că mai sunt și alții care pur și simplu nu au chef să cunoască oameni noi sau să se angajeze în interacțiuni.&lt;/p&gt;
 &lt;p&gt;Nu e vorba despre a fi introvertit sau extrovertit, ci mai mult de starea generală pe care o ai. Dacă ești obosit, nedormit și mai ai vreo 2 la viață, e normal să eviți interacțiunile umane.&lt;/p&gt;
 &lt;p&gt;Dacă se întâmplă asta prea mult, înseamnă că în general ești cam obosit. Izolarea este un mod de mentenanță în care doar întreții sistemele vitale și va trebui să găsești să te pui înapoi pe picioare, în parametrii optimi.&lt;/p&gt;
-&lt;p&gt;E adevărat că munca în IT este intensă și abstractă, adică niciodată nu o să poți explica cât ai muncit în termeni prea concreți. Și tocmai de asta mulți muncesc peste măsură, fără să știe când să se oprească și ajungând foarte ușor la &lt;a href=&quot;../../../../blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/&quot;&gt;burn out&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;E adevărat că munca în IT este intensă și abstractă, adică niciodată nu o să poți explica cât ai muncit în termeni prea concreți. Și tocmai de asta mulți muncesc peste măsură, fără să știe când să se oprească și ajungând foarte ușor la &lt;a href=&quot;../../../../../blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/&quot;&gt;burn out&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Iată un hint revoluționar dacă știi că urmează un meeting mai important. E general valabil și un caz concret în care îl poți folosi e când lucrezi la un proiect și trebuie să prezinți la șef ce ai făcut.&lt;/p&gt;
 &lt;p&gt;Dacă știi că săptămâna respectivă urmează meetingul, nu vei mai scrie o singură linie de cod săptămâna aia. Exact, niciuna. Cel mai mare consum de energie acolo se întâmplă și dacă e vorba despre a prezenta ce faci, va trebui să îți schimbi contextul de la a programa la a prezenta. Ca să faci asta nu vei mai scrie cod, vei comuta pe alte activități care te vor ajuta să prezinți.&lt;/p&gt;
 &lt;p&gt;Poate că e un timp bun pentru a scrie documentația, deși e tot un task tehnic, simplul fapt că pui idei într-un document, te va face pe tine să înțelegi mai bine la ce lucrezi și poți explica mult mai clar. Mai poți vorbi cu colegii, simplul fapt că discuți și încerci să explici diverși termeni, faci ca ideile să ajungă în plan mai concret și începi să te prinzi cum să explici ca cel din fața ta să înțeleagă.&lt;/p&gt;
 &lt;p&gt;Secretul metodei e că energia pe care ai fi folosit-o ca să codezi, o redirecționezi acum către interacțiuni umane, către prezentare. Sunt 2 moduri diferite, a programa și a prezenta și acum tocmai ai făcut comutarea între cele două. Nu ar trebui ca interacțiunile umane să te sperie, doar ia-ți timpul și pregătește-te pentru ele!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/">
     <title type="text">Cum să nu uiți să îți iei timp liber?</title>
-    <id>urn:uuid:c1de1166-ccc1-3bb4-a770-ea20d79e9b3a</id>
+    <id>urn:uuid:0816b4bb-434b-359c-96cd-e89ac215c244</id>
     <updated>2020-02-09T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -232,11 +232,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Totul trebuie calculat și să fii atent să fii în parametrii optimi. Altfel nu ai cum să dai randament. Te consumi, cazi și caput.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/">
     <title type="text">Cum să nu faci burnout ca programator?</title>
-    <id>urn:uuid:adbfff2a-6871-32fd-a128-7c006c113f66</id>
+    <id>urn:uuid:81414a5b-0842-32f7-ab76-33c00d015226</id>
     <updated>2020-02-08T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -250,11 +250,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Am zis mai sus de program de lucru 10-14h pe zi, nu, nu e un typo, e pe bune. Uneori e de băgat lucru. Nu ai ce să faci. Trebuie doar să știi să te retragi înainte să fii nevoit să îți iei concediu cu forța. Un țel pe termen lung foarte bun de avut în vedere, e ca tot ce ține de serviciu să fie rezolvat în cele 8h dintr-o zi. Restul încet încet trebuie să îți găsești și alte activități ce țin de viața personală. Primii 10 ani serviciul va fi prioritar, dar nu poate fi pe primul loc tot timpul, la un moment dat va ajunge altceva pe primul loc, o familie sau orice altceva și atunci vei folosi toată experiența adunată de până acum ca să rezolvi problemele într-un alt mod, fără ca să mai fie nevoie să depui cele 10-14h de lucru pe zi.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/">
     <title type="text">De ce nu e suficient să știi doar programare?</title>
-    <id>urn:uuid:51cd8325-4137-373a-b5cd-bedb8d581b4f</id>
+    <id>urn:uuid:d94007d2-5a2b-3a14-8887-baf99dffd927</id>
     <updated>2020-02-07T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -265,11 +265,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Și nu e suficient doar să fii programator bun, pentru că vei avea și o viață în afara serviciului, și faptul că ești bun la serviciu, nu înseamnă neapărat că e la fel de bună și viața ta personală. Sunt multe lucruri de care ar trebui să te ocupi și care nu au legătură cu serviciul. Sănătatea ta, prietenii din jur, lucrurile care te provoacă în afara serviciului, de toate astea trebuie să te ocupi, oricât de pasionat ai fi de programare, în primul rând trebuie să te ocupi și de aspectele vieții care mai apar din când în când.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/">
     <title type="text">De ce ar trebui minim 10 ani dedicați dacă vrei să fii programator?</title>
-    <id>urn:uuid:155099a8-5e54-3b02-93a2-066518cd25ad</id>
+    <id>urn:uuid:79caa154-9c49-3029-8d43-14fb4552ac6b</id>
     <updated>2020-02-06T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -281,27 +281,27 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Nu e suficient să te chinui 2 ani să îți iei un job în IT doar pentru că e mai bine plătit, trebuie chiar să vrei să faci asta și să fii implicat dacă nu 20 de ani, măcar 10 ani...&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/unde-esuam-cand-ascultam-sefii/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/unde-esuam-cand-ascultam-sefii/">
     <title type="text">Unde eșuăm când ascultăm șefii?</title>
-    <id>urn:uuid:06b034f6-085e-306f-95a6-8190efab2f7f</id>
+    <id>urn:uuid:0bc2420e-dca4-3e75-b4f2-155137182545</id>
     <updated>2020-02-05T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/unde-esuam-cand-ascultam-sefii/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/unde-esuam-cand-ascultam-sefii/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
     <content type="html">&lt;p&gt;Sunt două categorii de angajați. Cei din prima categorie funcționează pe bază de frică și fac tot ce le zice șeful, ca să nu intre în situație conflictuală sau și mai rău să fie concediați. A doua categorie sunt cei care funcționează pe bază de curaj și fac lucrurile care trebuie făcute, chiar dacă nu ar trebui să le facă. Aceștia nu sunt Project Manageri, sunt angajați simpli care doar își fac treaba în anonimitate și fără prea mare expunere.&lt;/p&gt;
 &lt;p&gt;În realitate nu sunt aleși ca Project Manageri întotdeauna oameni care să ducă proiectul la capăt și dacă nu ar fi câțiva mai curajoși care să își spună punctul de vedere atunci când e nevoie, proiectul s-ar duce rapid pe apa sâmbetei, cu tot cu echipă. O problemă comună în management este că cei de sus nu vor să se adapteze ideilor prezentate de echipele cu care lucrează chiar dacă acestea sunt mult mai bune.&lt;/p&gt;
-&lt;p&gt;Sunt și câteva lecții bune de luat de aici. Dacă nu te zbați pentru tine, nimeni nu o să o facă. Am scris în articolul precedent despre când ar putea fi considerat că    &lt;a href=&quot;../../../../blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/&quot;&gt;lucrezi prea mult de acasă&lt;/a&gt;. Dacă tu ai viața ta personală și îți organizezi energia în așa fel să te ocupi de una fără să rămână în urmă cealaltă, și asta înseamnă de exemplu să rămâi să lucrezi de acasă doar pentru că ninge afară poți foarte ușor să enervezi managerii, pentru că nu mai au cum să te vadă lucrând la birou, în fața monitorului.&lt;/p&gt;
+&lt;p&gt;Sunt și câteva lecții bune de luat de aici. Dacă nu te zbați pentru tine, nimeni nu o să o facă. Am scris în articolul precedent despre când ar putea fi considerat că    &lt;a href=&quot;../../../../../blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/&quot;&gt;lucrezi prea mult de acasă&lt;/a&gt;. Dacă tu ai viața ta personală și îți organizezi energia în așa fel să te ocupi de una fără să rămână în urmă cealaltă, și asta înseamnă de exemplu să rămâi să lucrezi de acasă doar pentru că ninge afară poți foarte ușor să enervezi managerii, pentru că nu mai au cum să te vadă lucrând la birou, în fața monitorului.&lt;/p&gt;
 &lt;p&gt;Dacă ai de dat explicații și reacționezi din frică, te conformezi, îți ceri scuze de la șef, și nu mai repeți. Dar ce se întâmplă dacă faci asta? Ajungi la birou de acum, înțelegi că e important pentru firmă să fii acolo și așa demonstrezi și firmei că nu furi și că faci treabă. Dar uite ce se întâmplă când faci asta. Șeful tura asta lucrează el de acasă 2 zile pentru că are un personal issue. De parcă nu ar fi de ajuns, aplicația la care lucrezi e jos. E incident de urgență maximă, nu trebuia să se întâmple asta. Tot etajul este în alertă. Șeful disperat te tot sună și te întreabă când e gata? În același timp mai sunt și colegi pe lângă care vin să te întrebe lucruri ca să ajute la proces. În timp ce se întâmplă toate astea tu trebuie să fii atent și la treaba ta, într-un mediu foarte alert, în care trebuie să iei decizii la presiune. Și șeful te sună sau îți scrie de ce s-a întâmplat, când e gata, cât mai durează. Deși tu ești la birou și ai urmat toate regulile așa cum ți s-au zis, te confrunți cu aceeași problemă. Șeful nefiind lângă tine, nu are încredere că îți faci treaba.&lt;/p&gt;
 &lt;p&gt;Dacă ești curajos, ridici problema de încredere în angajați mai sus. Primul lucru pe care îl faci când te conformezi și îți ceri scuze că ți-ai luat lucru de acasă, e că accepți comportament de mâna a doua, din secunda în care ai zis scuze șefu, tocmai ai afirmat despre tine că da, pentru că dacă firma nu vede ce faci, înseamnă că trișezi și furi. Problema asta trebuie dezbătută. Și trebuie să îți găsești argumentele și să le expui, frumos. Nu sunt replici anume de zis, foarte mult contează atitudinea ta, aceea de a te zbate pentru tine, nu vei da argumente din cărți, vei zice ce ai tu de zis, așa cum ai de zis. La fel de important de menționat e că nu trebuie să zici astea cu răutate, scopul tău e pur și simplu să pui pe masă ce nu e ok. Poți spune de exemplu, că lucrezi oricum, indiferent de locația unde ești, și că mai mult poți chiar să îl rogi să îți ceară odată ceva și tu să nu livrezi. Legat de apeluri, nu poți să îți faci treaba dacă te sună tot timpul, da ești acolo și lucrezi, și revii cu noutăți de îndată ce sunt, dar nu are rost să fii sunat din minut în minut pentru că nu mai poți fi atent la treaba ta. Tot discursul ăsta e pur inventat acum pe moment, a nu se lua cuvânt cu cuvânt, pentru că nu o să meargă! Ideea e că trebuie să mergi pe ce ți se pare ție de bun simț și să discuți. Nu trebuie să fie de acord șeful cu tine, datoria ta e doar să expui problema. Dacă te lasă sau nu, de aici e decizia lui.&lt;/p&gt;
 &lt;p&gt;Și iată că așa, ca programator, ajungi să și interacționezi cu oamenii. Spunea cineva că nu este o muncă socială programatul? Ba da și este una chiar foarte socială în care trebuie să convingi diverși oameni că îți faci treaba și dacă sunt probleme, trebuie să le discuți și pe astea, pentru că deși pot fi trecute cu vederea inițial, consecințele lor sunt mult mai greu de suportat mai încolo. E normal să apară incidente și să fie perioadă la care trebuie să acționezi la presiune, nu e normal să ai pe cap și problema de încredere cu șefii când se întâmplă incidentul!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/">
     <title type="text">Poți să îți iei prea mult work from home?</title>
-    <id>urn:uuid:f9aa61db-c791-37d0-beac-7a8fc1de1501</id>
+    <id>urn:uuid:a199f6ba-50f9-3ac4-8f79-f72de7fd014d</id>
     <updated>2020-02-04T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -326,11 +326,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Și nu în ultimul rând, dacă te muți în alt oraș, pentru că ți se schimbă stilul de viață, înseamnă că trebuie să schimbi și serviciul? De ce să nu lucrezi în continuare la aceeași firmă? Trebuie întreruptă o colaborare, doar pentru că angajatul se mută din oraș? A lucrat pentru firmă atâta timp, faptul că schimbă orașul și nu ar mai fi la birou, ar schimba cu ceva colaborarea?&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/">
     <title type="text">Poți să închei ziua la serviciu și dacă nu ai terminat treaba?</title>
-    <id>urn:uuid:602c9a55-5425-338d-ba5e-376b2b9420cc</id>
+    <id>urn:uuid:7ae331e6-0b7e-3b86-b5b6-422411e93c84</id>
     <updated>2020-02-03T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -339,15 +339,15 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Poți rămâne mai mult, dar s-ar putea să nu rezolvi mare lucru oricum. Bine poate ești norocos într-o seară și ești mai productiv, dar asta ar trebui să fie excepția nu regula.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itisti-termen-lung/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/time-tips-pentru-itisti-termen-lung/">
     <title type="text">Time tips pentru programatori pe termen lung</title>
-    <id>urn:uuid:cf7be8af-4533-3445-a20e-c4c9310af8b8</id>
+    <id>urn:uuid:6a06719a-8342-3c45-a4a4-6d2065f9de6c</id>
     <updated>2020-02-02T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itisti-termen-lung/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/time-tips-pentru-itisti-termen-lung/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
-    <content type="html">&lt;p&gt;Ca să fii mai productiv și pe termen lung, iată ce ar trebui să ai în vedere în plus față de &lt;a href=&quot;../../../../blog/2020/02/time-tips-pentru-itsti-termen-scurt/&quot;&gt;organizarea pe termen scurt&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Ca să fii mai productiv și pe termen lung, iată ce ar trebui să ai în vedere în plus față de &lt;a href=&quot;../../../../../blog/2020/02/time-tips-pentru-itsti-termen-scurt/&quot;&gt;organizarea pe termen scurt&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Munca de-a lungul unui proiect se împarte în 3 faze:&lt;/p&gt;
 &lt;h2&gt;Faza de arhitectură&lt;/h2&gt;
 &lt;p&gt;Este faza cea mai abstractă pentru că nimic nu e clar. Nu se știe ce rezolvi, nu se știe ce tehnologii vei folosi și nu se știe ce probleme pot apărea. E taskul cel mai greu pentru că din mijlocul oceanului trebuie să ajungi la țărm cu pluta, viu. Este un timp foarte bun pentru a studia cum alte mari proiecte au abordat ce vrei tu să rezolvi și să te inspiri din ele. Nu este exclus, ba chiar recomandat să apelezi la alți experți din domeniu pentru a obține idei de proiectare. Poți merge chiar și la meetups pe domeniu. Toate astea fac parte din timpul de lucru. Faci munca de arhitectură asupra ce va fi peste 2-5-10 ani într-o firmă. Este foarte mult de gândit și e un proiect complex. Aici dacă te implici găsești proiectele de cele mai lungă durată, pot fi și proiecte pe zeci de ani.&lt;/p&gt;
@@ -359,11 +359,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;La interviuri mai sunt și întrebări de genul, &quot;cât de confortabil ești cu schimbarea priorităților și trecerea de la un proiect la altul de-a lungul unei zile?&quot;. Fugi cât poți de acea firmă, bătaia este întotdeauna pe termen lung. Focusul nu este pe a controla angajatul și a verifica în mod amănunțit ce face zi de zi. Deși abordarea asta presupune multă încredere și libertate pentru oamenii cu care lucrezi, fără să le dai taskuri, există un simplu mod pentru a vedea dacă se face treabă sau nu. La sfârșitul lunii, este gata treaba? După ce au trecut 6 luni, a ajuns proiectul unde trebuia să fie? Dacă da, ce mai contează ce face angajatul zi de zi?&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itsti-termen-scurt/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/02/time-tips-pentru-itsti-termen-scurt/">
     <title type="text">Time tips pentru programatori pe termen scurt</title>
-    <id>urn:uuid:f8c8e920-c632-3717-b2ff-618cfc49825f</id>
+    <id>urn:uuid:ee41aeb7-1eef-3480-babd-c51a2dad7595</id>
     <updated>2020-02-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itsti-termen-scurt/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/02/time-tips-pentru-itsti-termen-scurt/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -371,29 +371,29 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Foarte important de menționat e că dacă e vorba de jumătăți de zile, acestea sunt unități indivizibile de timp, acea bucată nu vei vorbi cu oameni, nu te vei duce la masă, nu vei face altceva decât taskul de care te ocupi. În cazul taskurilor pe bucăți mai mari de timp, acea perioadă de timp nu vei lua taskuri noi până nu termini ceea ce deja ți-ai propus.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/de-ce-intreruperile-sunt-de-evitat/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/de-ce-intreruperile-sunt-de-evitat/">
     <title type="text">De ce întreruperile sunt de evitat în IT?</title>
-    <id>urn:uuid:3cd668a5-3af7-3449-8a72-889d9762de82</id>
+    <id>urn:uuid:6dd3da22-cc39-39cd-afa9-1c02286795f1</id>
     <updated>2020-01-31T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/de-ce-intreruperile-sunt-de-evitat/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/de-ce-intreruperile-sunt-de-evitat/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
     <content type="html">&lt;p&gt;Atunci când lucrezi la ceva ai mai multe date încărcate în memoria temporară. De exemplu știi că e meeting la 5 și faptul că mai sunt 3 ore până atunci. Știi că ai timpul ăsta liber și găsești un lucru de făcut care să fie terminat. În timp ce lucrezi la task, mintea devine din ce în ce mai încărcată cu detalii ale taskului ce îl rezolvi. Îți aduci aminte că ai meeting de la 5, și că mai sunt 2 ore, și în același timp ești și focusat la treaba pe care o faci. Cu cât timpul se scurge cu cât mintea merge mai repede și se activează mai tare. Tocmai și în asta constă eficiența, fiind timp limitat, taskul se extinde în limita timpului disponibil. Când e gata timpul, e gata și taskul.&lt;/p&gt;
 &lt;p&gt;Ce se întâmplă dacă acum vine cineva să te întrebe dacă poți să îl ajuți cu ceva? Lași tot deoparte și ești cu atenția la persoana respectivă. Ai uitat că ai la 5 meeting și problema la care lucrai nu mai există de mult. Mintea se eliberează de tot ceea ce aveai până atunci ca să facă loc noii interacțiuni. Dacă un programator nu îți răspunde când vorbești cu el, este pentru că a ales să fie atent la problema ce o rezolvă. Nu e ceva de luat personal.&lt;/p&gt;
 &lt;p&gt;În continuare o poză cu programatorii atunci când sunt deranjați.
-&lt;img src=&quot;../../../../blog/2020/01/de-ce-intreruperile-sunt-de-evitat/qbq9wn6a42m89ek3oa.jpeg&quot; alt=&quot;programator-intrerupt&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../../../en/blog/2020/01/de-ce-intreruperile-sunt-de-evitat/qbq9wn6a42m89ek3oa.jpeg&quot; alt=&quot;programator-intrerupt&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Dacă tot îl întrerupi, e bine să ai un motiv suficient de bun încât să îi anuleze toată munca de până atunci. Întreruperile sunt foarte normale dar foarte important este aspectul legat de cât de prioritar este acel lucru cu care vii. Dacă ești în dubii, mai bine scrie un mail. E mai bine așa. La mail se poate răspunde și mai încolo, fără să se strice munca de până atunci a celui pe care îl deranjezi.&lt;/p&gt;
 &lt;p&gt;Cum recunoști un programator care e ocupat? În primul rând nu mai e atent la mediul din jur, cu cât e mai atent la o problemă devine mai puțin interesat de ce se întâmplă în mediul din jur. Desigur dacă știe că are ceva treabă, poate rămâne acasă, sau oriunde știe el că nu poate fi deranjat, dar poate e acolo pentru că dacă apare ceva ar vrea să fie acolo și tot din motive de eficiență e în mediul unde poate acționa și rezolva cel mai rapid cât mai multe probleme.&lt;/p&gt;
 &lt;p&gt;Și chiar dacă nu te refuză niciodată e din bunul simț al fiecăruia să nu întrerupi inutil dacă nu e nevoie. Programatorii se prind destul de repede când cineva îi deranjează inutil de mai multe ori și încep să te evite.&lt;/p&gt;
 &lt;p&gt;Nu e mare lucru, scrie un mail, sau un mesaj pe chat, acesta e lucrul care ar îmbunătăți comunicarea significativ cu oameni ocupați, dar care e prea puțin folosită.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-fii-dev-productiv/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-fii-dev-productiv/">
     <title type="text">Cum să fii dev productiv?</title>
-    <id>urn:uuid:e7410ede-c80f-3d4b-8f02-5aeee1042872</id>
+    <id>urn:uuid:88667529-f9aa-3f77-9cad-e7f385d137cf</id>
     <updated>2020-01-30T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-fii-dev-productiv/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-fii-dev-productiv/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -410,11 +410,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;A fi eficient în programare este să înțelegi cât mai în profunzime ce probleme rezolvi. Înțelegând aceste probleme, ca om tehnic, treaba ta e să aduci la cunoștiință ce implică aceste probleme pe care le rezolvi, ce consecințe ar putea apărea și cum s-ar putea face cel mai bine având la dispoziție resursele necesare. Nu contează că lucrezi 16h, 8h sau 2h pe zi, contează ca de aceste probleme, e cineva care se ocupă de ele și le rezolvă. De multe ori aceste probleme sunt pe termen lung, 3 luni, 6luni, 1an, 2 ani. Este de la sine înțeles că nu ai cum să schimbi zi de zi aceste priorități, și eficiența în sine constă în a avea o hartă după care să te ghidezi încotro mergi în următoarele luni, dar cu suficienți de mici pași cât să poată fi abordați de-a lungul unei zile.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-ca-programator-sa-ai-laptopul-cu-tine/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-ca-programator-sa-ai-laptopul-cu-tine/">
     <title type="text">Ar trebui ca programator să ai laptopul cu tine în afara orelor de lucru?</title>
-    <id>urn:uuid:5d8fd2ee-dba8-306f-9379-fc3ac0aba3a7</id>
+    <id>urn:uuid:f03b63f8-5469-3dad-901b-0a52fbfbd2d1</id>
     <updated>2020-01-29T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-ca-programator-sa-ai-laptopul-cu-tine/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-ca-programator-sa-ai-laptopul-cu-tine/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -433,11 +433,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Să ai laptopul cu tine, e valabil chiar și în alte domenii. Tot timpul va trebui să îți iei notițe, să procesezi diverse informații, să scrii mesaje, așa că nicicum nu e valabil lucrul ăsta doar în IT.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-faci-fata-intreruperilor/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-faci-fata-intreruperilor/">
     <title type="text">Cum să faci față întreruperilor?</title>
-    <id>urn:uuid:a39cf5e8-baf8-38a7-8c8b-42a8d99f4c1b</id>
+    <id>urn:uuid:6342eb5f-c27a-33c9-938c-dcc762635a96</id>
     <updated>2020-01-28T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-faci-fata-intreruperilor/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-faci-fata-intreruperilor/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -451,11 +451,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;De-a lungul zilei vei avea multe interacțiuni cu oamenii și singurul mod prin care să le eficientizezi și să nu o iei razna e să ai în vedere că un simplu mesaj scris în loc de o interacțiune față în față ușurează foarte mult treaba!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-daca-ramai-fara-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-daca-ramai-fara-serviciu/">
     <title type="text">Ce să faci dacă rămâi fără serviciu?</title>
-    <id>urn:uuid:1d49fafa-e2f9-34a1-9581-428094326699</id>
+    <id>urn:uuid:d9064e79-beb7-3af4-8577-aa95e35f9419</id>
     <updated>2020-01-27T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-daca-ramai-fara-serviciu/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-daca-ramai-fara-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -479,11 +479,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Și deja astea sunt detalii... Ai în primul rând grijă de tine, și restul vor veni, pas cu pas...&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/in-mod-implicit-responsabil/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/in-mod-implicit-responsabil/">
     <title type="text">În mod implicit responsabil</title>
-    <id>urn:uuid:bee20f10-6357-32bb-b861-0290fbdd0141</id>
+    <id>urn:uuid:8918d1f8-96a4-39d7-9ab2-9da7ee11983d</id>
     <updated>2020-01-26T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/in-mod-implicit-responsabil/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/in-mod-implicit-responsabil/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -493,11 +493,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Sunt atât de multe lucruri, care pot fi făcute mai bine, încât e imposibil să rămâi fără lucru o singură zi în zeci de ani. Poate crezi că ce rost are, poate nu primești nimic în schimb și efortul mai este și nerecunoscut, dar cum altfel vrei să avansezi? În primul rând trebuie să dai tu ceva de la tine, iar acest mic gest de a face un extra efort în plus oricât de mic te face să mergi mai departe.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/">
     <title type="text">Este programarea doar pentru cei introvertiți?</title>
-    <id>urn:uuid:1e69b42a-d634-3200-b909-4bb5dcff5ce7</id>
+    <id>urn:uuid:182e8d96-8849-3657-aa10-c1639f57b573</id>
     <updated>2020-01-25T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -514,11 +514,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Nu, doamne ferește, ba chiar de multe ori e total opusul. Dacă toată lumea te vede izolat începe să devină curioasă de ce ești izolat. Ține cât mai secret acest lucru și nu mai spune la nimeni. 🙄&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/este-cvul-esential-pentru-a-ajunge-la-interviu/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/este-cvul-esential-pentru-a-ajunge-la-interviu/">
     <title type="text">Este CV-ul esențial pentru a ajunge la interviu?</title>
-    <id>urn:uuid:54cb53cb-63fd-3745-8ff5-50731bea2246</id>
+    <id>urn:uuid:22e1be2c-605c-36d9-b988-0ff4560b952d</id>
     <updated>2020-01-24T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/este-cvul-esential-pentru-a-ajunge-la-interviu/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/este-cvul-esential-pentru-a-ajunge-la-interviu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -535,11 +535,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Mai e și faptul că munca de a face un CV, e total diferită față de munca pe care o faci zi de zi. Cu cât cineva depune mai mult efort în a își scrie un CV, cu atât înseamnă că în loc să își facă treaba lui pentru care e angajat face exact opusul. Tu dacă ai treabă și ești ocupat cu ce zici că faci în CV, nu mai ai timp de CV. Boom! 💥&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/faze-in-dezvoltarea-software/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/faze-in-dezvoltarea-software/">
     <title type="text">3 faze în dezvoltarea software</title>
-    <id>urn:uuid:2888d91a-d3de-3637-9e34-7f228fc01241</id>
+    <id>urn:uuid:5f340fa8-164e-3a9c-ab1f-b9209c121f72</id>
     <updated>2020-01-23T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/faze-in-dezvoltarea-software/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/faze-in-dezvoltarea-software/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -554,11 +554,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Până la urmă nu contează că e prost făcut proiectul ci mai degrabă pentru cât timp va trăi proiectul, pentru că un proiect prost azi, dar care va fi și peste 10 ani, are șanse să ajungă foarte stabil în timp, dat fiind că cineva va fi acolo de-a lungul celor 3 faze și va gândi pe termen lung încă din prima zi a proiectului.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/">
     <title type="text">Ar trebui să ai zile nașpa la serviciu?</title>
-    <id>urn:uuid:5a98ab6d-b521-3206-ae07-0155015ce9d2</id>
+    <id>urn:uuid:ba31fb95-06ef-3dda-bebc-3537fa616690</id>
     <updated>2020-01-22T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -575,11 +575,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Se prea poate să treci prin asta. Ce înseamnă să cedezi? Adică precum un copac, de la prea mult vânt, să faci poc. Când cedezi, gata, nu mai vrei. Cu toții trecem prin asta. Relax, se rezolvă cu o doză de anestezic, ca în scena de mai jos (din Star Trek: Voyager, sezonul 6, episodul 4 &quot;Tinker, Tenor, Doctor, Spy&quot;)&lt;/p&gt;
 &lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Mz3lWf1fY5c&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/">
     <title type="text">Cum să-ți faci viața mai ușoară în IT folosind comunicare asincronă</title>
-    <id>urn:uuid:3a5de51d-231e-390f-b703-2a68eb41c908</id>
+    <id>urn:uuid:6ead6ca7-0373-326e-a807-432f825b3ed7</id>
     <updated>2020-01-21T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -590,11 +590,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Dacă se uită un programator ciudat la tine când îl întrebi ceva, încearcă să îi trimiți un mesaj pe chat sau un mail. Sunt mari șanse să primești răspuns imediat. 😏&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/">
     <title type="text">E prea mult dacă ceri interviul de acasă?</title>
-    <id>urn:uuid:09d88f0c-f63d-37d4-a3a2-e560c3ab78cb</id>
+    <id>urn:uuid:25a628dd-89e4-3807-a3a1-33f80091973a</id>
     <updated>2020-01-20T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -602,22 +602,22 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Interviul e săptămâna viitoare. Trece o zi, și parcă se duce un pic entuziasmul, îți dai seama că mai ai de mers și la dentist. Vine și noua săptămână, boom ești super productiv la treaba pe care o faci deja, și parcă noul interviu nu mai e așa entuziasmant. Defapt îți dai seama că nici măcar nu știi despre ce ofertă e vorba și ai pierde cam juma de zi dacă te duci să te prezinți fizic, tocmai în celălalt capăt al orașului pentru o cafea, sau pentru ceva ce nu ți-a fost specificat clar de la început. Începe să fie din ce în ce mai grea decizia.&lt;/p&gt;
 &lt;p&gt;Să mai mergi oare?&lt;/p&gt;
 &lt;p&gt;Hmm... oare se poate și de acasă? Aș putea să îmi etalez talentul și de acasă, am internet, am cameră web (nu știu la ce vă gândiți, dar nu, nu e vorba de videochat!), chiar trebuie să fiu la interviu? În sfârșit am găsit o soluție bună și pentru mine și pentru intervievator. Hai să o propunem.
-&lt;img src=&quot;../../../../blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/intro.jpeg&quot; alt=&quot;intro&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../../../en/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/intro.jpeg&quot; alt=&quot;intro&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Degetele încleștate, am propus ceva revoluționar. Fac totul din confortul propriei case și fără să mă deranjez prea mult de la ce făceam deja până atunci. Wow super.&lt;/p&gt;
 &lt;p&gt;Să vedem ce urmează:
-&lt;img src=&quot;../../../../blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/argument.jpeg&quot; alt=&quot;argument&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../../../en/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/argument.jpeg&quot; alt=&quot;argument&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Oh nu, tot planul ne-a fost dat peste cap. Se pare că nu putem presta și de acasă. Va trebui să ne conformăm? Nu știu cum sunt alții dar eu sunt bine așa cum sunt, așa că am răspuns, că insist să ținem de acasă interviul, pentru că nu are rost să traversez tot orașul pentru un interviu la care ne-am putea vedea doar remote, cu aceleași beneficii.&lt;/p&gt;
 &lt;p&gt;Degetele încleștate iar, am zis-o și pe asta, hai să vedem ce urmează:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/decline.jpeg&quot; alt=&quot;refuz&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/decline.jpeg&quot; alt=&quot;refuz&quot;&gt;&lt;/p&gt;
 &lt;p&gt;La naiba! Se pare că până aici ne-a fost 😥&lt;/p&gt;
 &lt;p&gt;Chiar nu înțeleg... Firma respectivă avea sediul, efectiv în afara orașului. După ce le-am zis că nu am motiv să merg până acolo și că aș mai avea și alte lucruri de făcut în viața personală dar aș putea participa 100% remote, răspunsul a fost că nu se poate. Și atât, fără niciun argument. Mi se pare revoltător că se întâmplă asta în 2020!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-sef/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-sef/">
     <title type="text">Ar trebui să aștepți mai întâi acordul la șef?</title>
-    <id>urn:uuid:37681839-9c9f-3582-8ca6-0036b24aa61d</id>
+    <id>urn:uuid:f98fc845-37f4-3fe7-8ad3-4b1dedafbfc4</id>
     <updated>2020-01-19T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-sef/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-sef/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -633,11 +633,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Dacă ai o decizie de luat de acum, ești gata să ți-o asumi? E loc destul întotdeauna pentru persoane de decizie, așa că nu te ascunde, nu ai de ce.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/chivotul-vietii/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/chivotul-vietii/">
     <title type="text">Chivotul Vieții</title>
-    <id>urn:uuid:7120b734-e43a-332f-8434-8bc170cee840</id>
+    <id>urn:uuid:d4385d9e-ce8d-3a17-97ac-cbbb0951f08c</id>
     <updated>2020-01-18T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/chivotul-vietii/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/chivotul-vietii/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -646,14 +646,14 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Nu am cum să dau prea multe detalii tehnice, că nu prea mă pricep, dar se pot obține de la &lt;a href=&quot;https://www.facebook.com/delia.burnham.7&quot;&gt;Delia&lt;/a&gt; pentru cine ar fi interesat să afle mai multe.&lt;/p&gt;
 &lt;p&gt;Deși dispozitivul nu ar fi accesibil pentru mulți, la prețul inițial de 150.000E,  nu e nevoie să îl iei la tine acasă... Inventatorii pun pe primul loc sănătatea oamenilor,  așa că pentru cine are nevoie sigur se va găsi o cale să ajungă fără să fie problemă de bani, doar omul să fie deschis să încerce.&lt;/p&gt;
 &lt;p&gt;Întreaga postare cu toate detaliile și comentariile ulterioare despre dispozitiv, se poate urmări &lt;a href=&quot;https://www.facebook.com/delia.burnham.7/posts/10163204040925284&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/01/chivotul-vietii/screenshot-2020-01-18-at-23.37.22.png&quot; alt=&quot;chivotul-vietii&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/01/chivotul-vietii/screenshot-2020-01-18-at-23.37.22.png&quot; alt=&quot;chivotul-vietii&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/">
     <title type="text">Ar trebui să aștepți weekendul ca programator?</title>
-    <id>urn:uuid:626826c8-5076-3b44-bdf3-14433b325771</id>
+    <id>urn:uuid:38dd8330-d597-3690-8b02-56ae8c23daf8</id>
     <updated>2020-01-17T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -662,11 +662,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Ia și tu o pauză și stai cu tine. Nu trebuie să faci ceva anume... Relax. În primul rând nu mai gândi. Numără flori, adună ciuperci... Trăiește weekendul ca și cum nu ai fi IT-st... Caută și viața în afara serviciului.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/top-impedimente-in-proiecte-it/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/top-impedimente-in-proiecte-it/">
     <title type="text">Top 5 impedimente în proiecte IT</title>
-    <id>urn:uuid:374ef84b-7de3-3260-9414-654f5721a2cf</id>
+    <id>urn:uuid:3a4ce7d5-0bdd-3d5a-8770-c6bed53d2ac9</id>
     <updated>2020-01-16T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/top-impedimente-in-proiecte-it/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/top-impedimente-in-proiecte-it/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -681,11 +681,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;/ol&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/">
     <title type="text">Un singur lucru care face treaba să meargă la serviciu</title>
-    <id>urn:uuid:48fe7b3a-faba-32f8-80ea-f9449281bb63</id>
+    <id>urn:uuid:cf93cfe0-633c-3225-bee4-7e65d85a589b</id>
     <updated>2020-01-15T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -693,14 +693,14 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;Zilele sunt cam ocupate, timpul trece repede, ard lucruri, uneori nu prea apuci să vorbești cu oamenii cu care lucrezi în același sediu, poate îi saluți și vorbești de vreme un pic. Nu e ca și cum nu se poate vorbi, dar energia și focusul e pe treaba care e de făcut și nu pe oamenii din jurul nostru, astfel că se întâmplă să stăm cu lunile la birou și să știm foarte puțin despre oamenii pe care îi vedem zilnic. Poate sunt vecini, poate am fost la aceleași interviuri la un moment dat, poate au și ei problemele lor în afara serviciului și nu ai de unde să le știi dacă ești atent doar la treburile de la serviciu.&lt;/p&gt;
 &lt;p&gt;Așa că se mai practică uneori după serviciu ieșiri în oraș, unde oamenii se adună și în alt context decât cel de la birou și focusul de la treabă se schimbă pe oameni. Nu e lucru mai minunat când se întâmplă asta, pentru că dacă cunoști mai bine oamenii cu care lucrezi și încrederea ta în ei crește (și invers) și treaba merge mult mai bine. Am zis mai devreme că suntem focusați pe treabă la serviciu, dar adevărul de la mijloc e că atunci când ne facem treaba, totul depinde de niște oameni undeva, cu care trebuie să vorbești și de la care ai nevoie de ceva ca să îți faci treaba în continuare. Și nu e lucru mai bun care se poate întâmpla ce crește productivitatea la birou atunci când oamenii se cunosc între ei.&lt;/p&gt;
 &lt;p&gt;Dacă la firma la care lucrezi nu sunt ieșiri în oraș, măcar odată la câteva luni, fă ceva, propune tu. Ca treaba să meargă la birou în primul rând trebuie să meargă între oameni.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/ead346ec252bd3fe585cdc937f20ff4d.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../en/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/ead346ec252bd3fe585cdc937f20ff4d.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/un-an-in-bucuresti/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/un-an-in-bucuresti/">
     <title type="text">Un an în București</title>
-    <id>urn:uuid:0a66846c-b3cf-3c24-bef8-53682c762382</id>
+    <id>urn:uuid:630722a3-e869-3db2-8add-036a3f5990de</id>
     <updated>2020-01-14T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/un-an-in-bucuresti/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/un-an-in-bucuresti/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -719,11 +719,11 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
 &lt;p&gt;E frumos Bucureștiul, mai ales dacă ai treabă, știi că ești într-un loc unde și alți oameni au treabă și acesta e un plus foarte mare. Ca dezavantaj, cu siguranță acesta ar fi prețul, e un oraș un pic cam scump, costă viața aici. Dar se compensează cumva prin faptul că ai toate la o aruncătură de băț.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/">
     <title type="text">Cât de direct ar trebui să fii la interviu?</title>
-    <id>urn:uuid:20b4da13-4fc2-398c-b8d1-b89225e83c0a</id>
+    <id>urn:uuid:074e12b5-84cc-332f-9227-3b0620887de2</id>
     <updated>2020-01-13T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -741,11 +741,11 @@ Minunat, avem și răspuns de data asta, scurt și la obiect.
 Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem timp la telefon sau întâlniri față în față?&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/long-term-versus-short-term/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/long-term-versus-short-term/">
     <title type="text">Long Term versus Short Term</title>
-    <id>urn:uuid:599ca695-0d6f-3e04-b5bb-271e9933aff5</id>
+    <id>urn:uuid:4897ec97-e307-3420-bd9a-fab7ad68f919</id>
     <updated>2020-01-12T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/long-term-versus-short-term/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/long-term-versus-short-term/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -760,11 +760,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Cu cât prevezi mai mult și mai din timp astfel de situații abstracte, greu de digerat cu mintea, dar care te păcălesc și nu te lasă să mergi mai departe dacă nu ești vigilent cu atât ai mai multe șanse să nu rămâi prea mult pierdut în timp și spațiu.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/1-blog-post-pe-zi-366-zile/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/1-blog-post-pe-zi-366-zile/">
     <title type="text">1 blog post pe zi, 366 zile</title>
-    <id>urn:uuid:505b3e84-1d5c-360d-bce8-5c7d09dec970</id>
+    <id>urn:uuid:e8df79f8-41e5-3ffa-bc55-b52b1c842ae5</id>
     <updated>2020-01-11T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/1-blog-post-pe-zi-366-zile/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/1-blog-post-pe-zi-366-zile/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -774,11 +774,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Mi se pare o provocare interesantă, sigur aș avea despre ce să scriu, și asta să o fac în timp ce fac și restul treburilor de zi cu zi. Acesta este deja al 11-lea articol anul acesta, ar mai fi încă 355. Ca plan de teme de dezbătut, nu am. Ele vin oricum, știu doar ce scriu azi, mai mult de atât nu planific.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-ceri-marire-la-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ceri-marire-la-serviciu/">
     <title type="text">Cum să ceri mărire la serviciu?</title>
-    <id>urn:uuid:620ab334-269d-384d-94f7-597be770cf4f</id>
+    <id>urn:uuid:28ab2dd8-48ca-3a07-9e01-dbbf183d43a7</id>
     <updated>2020-01-10T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-ceri-marire-la-serviciu/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-ceri-marire-la-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -808,15 +808,15 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Probabil trebuie să îți evaluezi mai realist capabilitățile, dacă nu primești mărirea înseamnă că ceva nu faci încât să valoreze cât ceri. Mergi înainte, rezultatele astea nu apar peste noapte. Și nu te opri la primul obstacol.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/">
     <title type="text">Ce să faci în timpul unui conflict la serviciu?</title>
-    <id>urn:uuid:a4ef71b7-6498-381a-80ba-48432bf7b079</id>
+    <id>urn:uuid:153e1fd5-eacf-350d-a3ef-c2e76fefefc7</id>
     <updated>2020-01-09T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
-    <content type="html">&lt;p&gt;Continuind &lt;a href=&quot;../../../../blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/&quot;&gt;articolul de ieri&lt;/a&gt;, e posibil ca faptul că ai spus ce aveai de zis să genereze un conflict. Una din urmările fericite e a doua zi când ajungi la birou și te porți ca și cum nimic nu s-a întâmplat. Și tu, dar și cei cu care ai discutat. E un moment ciudat, pe care nu prea ai cum să îl explici dar îți dai seama de el imediat când treci prin el.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Continuind &lt;a href=&quot;../../../../../blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/&quot;&gt;articolul de ieri&lt;/a&gt;, e posibil ca faptul că ai spus ce aveai de zis să genereze un conflict. Una din urmările fericite e a doua zi când ajungi la birou și te porți ca și cum nimic nu s-a întâmplat. Și tu, dar și cei cu care ai discutat. E un moment ciudat, pe care nu prea ai cum să îl explici dar îți dai seama de el imediat când treci prin el.&lt;/p&gt;
 &lt;p&gt;Într-un fel nu e neapărat rău că s-a ajuns aici. Conflictul a avut loc, a fost bătaie mare sângeroasă, ai zis ce ai avut de zis, și ceilalți implicați au zis și ei ce aveau de zis. Acum urmează o perioada de liniște, în care vedem ce soluții pot apărea.&lt;/p&gt;
 &lt;p&gt;Posibil ca cei cu care lucrezi să nu fie de acord și să nu meargă nimic mai departe. Caz care probabil te va frustra foarte tare și probabil deși nu ai fost dat afară, vei pleca singur la un moment dat.&lt;/p&gt;
 &lt;p&gt;Cazurile când ești dat afară sunt destul de rare, nu prea se ajunge aici...&lt;/p&gt;
@@ -825,11 +825,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;În cel mai rău caz dacă ești dat afară, nu se moare de la asta, e mai greu, dar măcar ți-ai luat o piatră de pe inimă zicând nu la ceva ce nu era în favoarea ta. Știu că îs multe detalii abstracte în acest post, dar nu găsesc cum să fiu mai specific. Fiecare avem nevoile noastre ca să ne facem treaba mai bine și mai eficient și numai noi știm asta. Dacă apare ceva ce trebuie discutat din cauză că ne afectează productivitatea ar fi bine să aducem la cunoștiință ce ne deranjează. E greu, pentru că implică efort &quot;emoțional&quot;. De multe ori e mai ușor să stai la calculator și să te faci că totul e ok, pentru că e mai &quot;ușor&quot; să te ascunzi și să te faci că totul e ok... dar sper că nu o să faci asta.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/">
     <title type="text">Ar trebui să fii supărat la interviu dacă nu îți convine ceva?</title>
-    <id>urn:uuid:2a1cfb0e-61eb-3d36-b79a-c59825f141b6</id>
+    <id>urn:uuid:4288d37f-e7bf-3c55-bd57-299727cce9fc</id>
     <updated>2020-01-08T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -845,11 +845,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;În zilele următoare am să vorbesc despre ce să faci când rămâi fără serviciu. Cred că s-ar potrivi perfect cu tema de azi. 🤣&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/">
     <title type="text">Cum să îți folosești intuiția la interviuri ca să iei decizii bune</title>
-    <id>urn:uuid:d053d44f-eb9c-3a85-a767-ca1b03e8f2f4</id>
+    <id>urn:uuid:a82a6538-86d8-3de7-9578-0b04e58541d6</id>
     <updated>2020-01-07T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -862,11 +862,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Baftă, ai încredere în primul rând în tine!&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/">
     <title type="text">Ce să faci atunci când ești în căutare de job</title>
-    <id>urn:uuid:b0db23a8-e0f3-397e-b380-8312c1be6d36</id>
+    <id>urn:uuid:f7c52483-5a16-3cd0-84a8-d6b0a7a47e3d</id>
     <updated>2020-01-06T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -888,15 +888,15 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Ar mai fi de zis pe acest subiect, încerc să mai scriu și în articolele din zilele următoare.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/exercitiu-devops-hands-on/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/exercitiu-devops-hands-on/">
     <title type="text">Exercițiu DevOps hands-on</title>
-    <id>urn:uuid:a97e682f-6228-34b1-b842-8c7610548892</id>
+    <id>urn:uuid:0475f89d-e982-3094-af01-515c6d5614e9</id>
     <updated>2020-01-05T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/exercitiu-devops-hands-on/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/exercitiu-devops-hands-on/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
-    <content type="html">&lt;p&gt;Să presupunem că vrei să începi ca DevOps. Ce ai putea face, pe lângă tutorialele menționate, în &lt;a href=&quot;../../../../blog/2020/01/cum-sa-incepi-ca-devops-in-2020/&quot;&gt;articolul precendent&lt;/a&gt;?&lt;/p&gt;
+    <content type="html">&lt;p&gt;Să presupunem că vrei să începi ca DevOps. Ce ai putea face, pe lângă tutorialele menționate, în &lt;a href=&quot;../../../../../blog/2020/01/cum-sa-incepi-ca-devops-in-2020/&quot;&gt;articolul precendent&lt;/a&gt;?&lt;/p&gt;
 &lt;p&gt;Trainingul online e doar o mică parte din învățare. Foarte important este să ai contact cu oameni care fac același lucru. Degeaba te uiți la curs, dacă nu poți face legătura și cu oameni din domeniu. Dacă nu ai prieteni sau cunoștiințe cu care să împărtășești ce urmărești în videouri, cam degeaba urmărești trainingurile, oricât ai încerca.&lt;/p&gt;
 &lt;p&gt;Alt lucru, la fel de important este că nu doar cunoașterea teoretică te va aduce undeva, doar simpla realizare că ai terminat cursul nu înseamnă nimic, va trebui să știi tu ale tale, să ai cunoașterea ta. Ca să o obții, propun următorul exercițiu.&lt;/p&gt;
 &lt;p&gt;În următoarele zile, planifică mutarea pe un nou sistem de operare. Dacă ești pe Windows încearcă Mac/Linux, dacă ești pe Linux încearcă Mac, dacă ești pe Mac încearcă Linux.&lt;/p&gt;
@@ -904,11 +904,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;A se observa că nu e nimic foarte precis. Indiferent de motivul tehnic al schimbării sistemului de operare, ce e mai important e că va trebui să găsești noi soluții pentru ca să ai un sistem utilizabil. Problemele ce pot apărea nu le știi, dar știi că sunt și că va trebui să te ocupi de ele. Aplicația de notițe, cum faci cu ea, cu ce deschizi mailul, cum accesezi calculatorul de la distanță sunt doar câteva dintre probleme. Va trebui să mapezi, să planifici, să documentezi tot procesul acesta de research. Asta e munca. Nu contează cât durează exercițiul. Vezi cum te simți. Dacă îți e natural, cu cât depui mai mult timp în astfel de muncă de proiectare cu atât ești mai la un pas pe drumul DevOps. Evident asta e doar o mică parte, dar te va ajuta să intri în mediul de lucru DevOps.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/">
     <title type="text">Cum să începi ca DevOps în 2020</title>
-    <id>urn:uuid:6dcb8308-5ab1-3058-af22-f9eda7bc8aa3</id>
+    <id>urn:uuid:d8376d96-bdbc-34ed-bd6f-9729420dff75</id>
     <updated>2020-01-04T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -938,14 +938,14 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;h2&gt;înafară de asta ce ar mai trebui să ştiu?&lt;/h2&gt;
 &lt;p&gt;Aplică principiile astea zi de zi în munca ce o faci la calculator. Nu contează ce faci, vezi ce poţi automatiza, indiferent de domeniul în care lucrezi, vezi unde se împotmoleşte munca ce o faci şi vezi dacă poţi veni cu o soluţie să îmbunătăţească procesul. Nu contează limbajul de programare, nu contează domeniul în care lucrezi, principiile rămân aceleaşi.&lt;/p&gt;
 &lt;p&gt;Dacă asta nu e suficient de clar, am să revin mâine cu un exerciţiu mai hands-on.&lt;/p&gt;
-&lt;p&gt;L.E.: Link exercițiu DevOps &lt;a href=&quot;../../../../blog/2020/01/exercitiu-devops-hands-on/&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;L.E.: Link exercițiu DevOps &lt;a href=&quot;../../../../../blog/2020/01/exercitiu-devops-hands-on/&quot;&gt;aici&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/unele-zile-sunt-mai-grele/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/unele-zile-sunt-mai-grele/">
     <title type="text">Unele zile sunt mai grele</title>
-    <id>urn:uuid:1822d076-f3b6-37e0-8fe7-19351581a9a2</id>
+    <id>urn:uuid:d72b514c-12d6-364c-b3a1-caef26bcc237</id>
     <updated>2020-01-03T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/unele-zile-sunt-mai-grele/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/unele-zile-sunt-mai-grele/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -956,11 +956,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;În principiu, atunci când lucrurile nu mai merg lin... stai liniștit. E normal. Ești pe planeta Pământ. Relaxează-te, întâlnește-te cu un vechi prieten, așează prin casă cu muzica. Mai sunt și perioade în care nu ești în parametrii optimi. E normal. Nu uita pe ce planetă trăiești. Ia-ți timpul și refă-te. Va apărea și soluția.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-tii-pasul-in-informatica/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-tii-pasul-in-informatica/">
     <title type="text">Cum să ții pasul în informatică</title>
-    <id>urn:uuid:8060d51d-b450-3333-8b45-691e702a8bbc</id>
+    <id>urn:uuid:6797a00b-3c65-3c23-9def-a5ab654e6af2</id>
     <updated>2020-01-02T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-tii-pasul-in-informatica/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/cum-sa-tii-pasul-in-informatica/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
@@ -972,11 +972,11 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Un programator știe că își sacrifică timpul și energia pentru a rezolva problema la care lucrează așa că dacă face asta probabil o face pentru că vede un beneficiu pe termen mediu-lung și nu doar pentru el. Niciun om sănătos nu renunță la viața lui doar de dragul de a munci, sau pentru a i se construi o statuie. Face poate de dragul lucrului bine făcut și pentru că poate face un pic mai bine acolo unde e. E multă muncă din umbră. De multe ori nu se vede munca asta din afară și nici nu trebuie.&lt;/p&gt;
 </content>
   </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/just-push-it-to-production/">
+  <entry xml:base="https://adrianharabula.github.io/en/blog/2020/01/just-push-it-to-production/">
     <title type="text">Just push it to production</title>
-    <id>urn:uuid:fade6fc2-b0b0-3eaa-abb7-50e9f929d633</id>
+    <id>urn:uuid:59211ca3-72d9-3288-8b5c-275b0f7d21a7</id>
     <updated>2020-01-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/just-push-it-to-production/" />
+    <link href="https://adrianharabula.github.io/en/blog/2020/01/just-push-it-to-production/" />
     <author>
       <name>Adrian Harabulă</name>
     </author>
