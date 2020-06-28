@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Adrian Blog</title>
-  <id>urn:uuid:763f7506-1df9-3a3e-8ebb-f21e0b6859be</id>
-  <updated>2020-03-17T00:00:00Z</updated>
+  <id>urn:uuid:2e4f9231-e3e8-37e8-80b9-6de46df0014d</id>
+  <updated>2020-06-28T00:00:00Z</updated>
   <link href="https://adrianharabula.github.io/blog/" />
   <link href="https://adrianharabula.github.io/atom.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.3">Lektor Atom Plugin</generator>
+  <entry xml:base="https://adrianharabula.github.io/blog/2020/06/meetinguri-asincrone/">
+    <title type="text">Meetinguri asincrone</title>
+    <id>urn:uuid:66be49bf-7c83-3915-a1d3-c557e3d990d2</id>
+    <updated>2020-06-28T00:00:00Z</updated>
+    <link href="https://adrianharabula.github.io/blog/2020/06/meetinguri-asincrone/" />
+    <author>
+      <name>Adrian Harabulă</name>
+    </author>
+    <content type="html">&lt;p&gt;După popularul și totuși încă enigmaticul mod în care nu ceri de la om direct ceva ci mai întâi deschizi un issue în repository ori scrii un mail, abia apoi poate scrii și pe chat, există o mică șustă pentru a aduna mai mulți oameni la un loc, care nu prea au cum să se vadă din diverse motive.&lt;/p&gt;
+&lt;p&gt;Ei bine cum facem? Se poate ca să nu ai timp de 1 oră rezervat pentru meeting. Nimeni nu are, și să recunoaștem meetingurile sunt o mare pierdere de timp, contraargumentul numărul 1 fiind, cu câte rămâi după un meeting de 1 oră? Pentru tine s-ar putea să fie relevante doar 5 minute din acel meeting. Nu e nevoie să participi la tot. Restul te furi pe tine de la treabă, de la alte lucruri mai importante. Și nimeni nu are timp de pierdut.&lt;/p&gt;
+&lt;p&gt;Meetingurile sunt ok atât timp cât nu îți fură din treabă. Tu dacă ai lucruri de făcut și stai în meetinguri în loc să faci treabă îți furi singur căciula. Și suntem niște oameni ocupați, nimeni nu poate nega asta. Săptămâna e plină de făcut lucruri la serviciu, de rezolvat unele probleme personale, iar weekendurile sunt la fel de pline, pentru că fugi de colo colo să mai rezolvi ce e nevoie în viața personală. Indiferent de perioadă nu ai timp de meetinguri.&lt;/p&gt;
+&lt;p&gt;Iată un mic truc pentru a le putea face totuși posibile. Nu ai timp ora aia să participi, darămite 3-5-7 persoane să participe în același timp la aceeași oră. Este aproape imposibil.&lt;/p&gt;
+&lt;p&gt;Soluția este transformarea meetingului în meeting asincron. Adică se includ persoanele într-un grup pe aplicația de comunicare folosită, și apoi se începe meetingul cu... notițe audio. Ex. 'Bună ziua, având în vedere situația X, astăzi vom aborda si vom discuta posibilitatea implementării soluției Y'. Participanții cunoscători ai subiectului vor continua 'M-am uitat un pic peste, văd că ar fi posibil, dar mai am nevoie de un pic de timp de aprofundare. M-aș putea uita peste weekend, dacă nu este altcineva mai doritor ca mine.'. Pentru cei care informația e relevantă pot ascula și ei notițele, fără să intervină neapărat.&lt;/p&gt;
+&lt;p&gt;Și asta e tot. Nu e nevoie să pierzi timpul la toți pentru nimic. Se poate rezuma meetingul în câteva fraze succinte și bine gândite, menite pentru a rezolva problema apărută, nu a o crea. Banal, nu? Modelul merge foarte bine și pe WhatsApp, nu neapărat în context de serviciu, cu grupuri de persoane.&lt;/p&gt;
+&lt;p&gt;Aceste meetinguri pot fi ascultate iar oricând, și să nu mai zic, principalul motiv pentru care funcționează este că, oricât de ocupați am fi, tot timpul avem timpi morți în care putem răspunde! Nu pot participa la meeting la 15.00, dar la 15.27 pot răspunde asincron cu notița audio relevantă. Este pe departe mult mai eficient așa pentru toate părțile, având în vedere că poate următoarea dată când s-ar fi putut face un meeting clasic ar fi fost a doua zi... Să fim eficienți...&lt;/p&gt;
+</content>
+  </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim-programul-de-lucru/">
     <title type="text">Cum Remote Work ar putea schimba ce fel gândim programul de lucru?</title>
-    <id>urn:uuid:5dad3a1f-b0fd-33ed-a1ae-29ad841d448b</id>
+    <id>urn:uuid:0f5427eb-2e96-3c04-b26a-8cd5957e4f9a</id>
     <updated>2020-03-17T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/03/cum-remote-work-ar-putea-schimba-ce-fel-gandim-programul-de-lucru/" />
     <author>
@@ -27,7 +44,7 @@
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/03/ar-trebui-sa-ne-panicam-de-la-corona/">
     <title type="text">Ar trebui să ne panicăm de la Corona?</title>
-    <id>urn:uuid:cf062e03-2458-3a81-b801-056e4b1dd2db</id>
+    <id>urn:uuid:3ef52f93-2eac-38fd-828f-783290055c20</id>
     <updated>2020-03-12T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/03/ar-trebui-sa-ne-panicam-de-la-corona/" />
     <author>
@@ -44,7 +61,7 @@
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/03/wfh-vis-devenit-realitate/">
     <title type="text">WFH, vis devenit realitate</title>
-    <id>urn:uuid:8851f41f-2d51-3171-9996-7b2bd2a7f952</id>
+    <id>urn:uuid:d1ea36a8-ce4b-3391-a8b6-b23aa3b83417</id>
     <updated>2020-03-11T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/03/wfh-vis-devenit-realitate/" />
     <author>
@@ -64,7 +81,7 @@
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/">
     <title type="text">Ce se întâmplă cu corpul tău la nivel energetic dacă scrii prea mult cod?</title>
-    <id>urn:uuid:ebb98b8a-85c1-301c-aa76-0b72cb5762d2</id>
+    <id>urn:uuid:7814f6b8-53ae-34fb-a710-f0c878987e71</id>
     <updated>2020-02-16T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/ce-se-intampla-cu-corpul-tau-la-nivel-energetic-daca-scrii-prea-mult-cod/" />
     <author>
@@ -112,7 +129,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-proiectul-nu-progreseaza/">
     <title type="text">De ce proiectul nu progresează?</title>
-    <id>urn:uuid:65501586-8e0e-3c25-a7f8-f216dbc19b10</id>
+    <id>urn:uuid:10ced9d8-cb6e-314a-85cf-689ef0096704</id>
     <updated>2020-02-15T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-proiectul-nu-progreseaza/" />
     <author>
@@ -126,7 +143,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/">
     <title type="text">Ar trebui să mergi răcit la birou?</title>
-    <id>urn:uuid:c43ea02e-c296-3012-911d-56074bcb4803</id>
+    <id>urn:uuid:183feb3d-6015-3457-abed-e4c3bb074b24</id>
     <updated>2020-02-14T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/ar-trebui-sa-mergi-racit-la-birou/" />
     <author>
@@ -142,7 +159,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/">
     <title type="text">Cum șofatul te-ar putea ajuta să te relaxezi ca programator?</title>
-    <id>urn:uuid:1618f12d-d0e5-334d-8ed3-6884c6013bd2</id>
+    <id>urn:uuid:0792d714-5c03-33bb-8b49-20c7be039053</id>
     <updated>2020-02-13T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/cum-sofatul-te-ar-putea-ajuta-sa-te-relaxezi-ca-programator/" />
     <author>
@@ -157,7 +174,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/">
     <title type="text">WFH a devenit oficial de azi la firma la care lucrez</title>
-    <id>urn:uuid:abf0ef34-46e9-3797-88ba-199183fd811d</id>
+    <id>urn:uuid:7ad9e219-b83f-3312-936f-eddf651a7489</id>
     <updated>2020-02-12T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/wfh-a-devenit-oficial-de-azi-la-firma-la-care-lucrez/" />
     <author>
@@ -172,7 +189,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/">
     <title type="text">Am încercat Teleport, de ce este atât de tare carsharingul?</title>
-    <id>urn:uuid:fa45330e-ce6d-3dea-aeae-efe486213d49</id>
+    <id>urn:uuid:6a5c745e-430c-3f35-bdd8-9775ac06d1fc</id>
     <updated>2020-02-11T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/am-incercat-teleport-de-ce-este-atat-de-tare-carsharingul/" />
     <author>
@@ -197,7 +214,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/">
     <title type="text">Cum să treci cu brio provocărilor care implică interacțiune umană?</title>
-    <id>urn:uuid:389349a7-387b-3d45-91be-6fa37c1f6634</id>
+    <id>urn:uuid:a62d7bb5-fa8a-339f-b5ae-35401e1af5d1</id>
     <updated>2020-02-10T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-treci-cu-brio-provocarilor-care-implica-interactiune-umana/" />
     <author>
@@ -215,7 +232,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/">
     <title type="text">Cum să nu uiți să îți iei timp liber?</title>
-    <id>urn:uuid:0816b4bb-434b-359c-96cd-e89ac215c244</id>
+    <id>urn:uuid:c1de1166-ccc1-3bb4-a770-ea20d79e9b3a</id>
     <updated>2020-02-09T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-uiti-sa-iti-iei-timp-liber/" />
     <author>
@@ -234,7 +251,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/">
     <title type="text">Cum să nu faci burnout ca programator?</title>
-    <id>urn:uuid:81414a5b-0842-32f7-ab76-33c00d015226</id>
+    <id>urn:uuid:adbfff2a-6871-32fd-a128-7c006c113f66</id>
     <updated>2020-02-08T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/cum-sa-nu-faci-burnout-ca-programator/" />
     <author>
@@ -252,7 +269,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/">
     <title type="text">De ce nu e suficient să știi doar programare?</title>
-    <id>urn:uuid:d94007d2-5a2b-3a14-8887-baf99dffd927</id>
+    <id>urn:uuid:51cd8325-4137-373a-b5cd-bedb8d581b4f</id>
     <updated>2020-02-07T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-nu-e-suficient-sa-stii-doar-programare/" />
     <author>
@@ -267,7 +284,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/">
     <title type="text">De ce ar trebui minim 10 ani dedicați dacă vrei să fii programator?</title>
-    <id>urn:uuid:79caa154-9c49-3029-8d43-14fb4552ac6b</id>
+    <id>urn:uuid:155099a8-5e54-3b02-93a2-066518cd25ad</id>
     <updated>2020-02-06T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/de-ce-ar-trebui-minim-10-ani-dedicati-daca-vrei-sa-fii-programator/" />
     <author>
@@ -283,7 +300,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/unde-esuam-cand-ascultam-sefii/">
     <title type="text">Unde eșuăm când ascultăm șefii?</title>
-    <id>urn:uuid:0bc2420e-dca4-3e75-b4f2-155137182545</id>
+    <id>urn:uuid:06b034f6-085e-306f-95a6-8190efab2f7f</id>
     <updated>2020-02-05T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/unde-esuam-cand-ascultam-sefii/" />
     <author>
@@ -299,7 +316,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/">
     <title type="text">Poți să îți iei prea mult work from home?</title>
-    <id>urn:uuid:a199f6ba-50f9-3ac4-8f79-f72de7fd014d</id>
+    <id>urn:uuid:f9aa61db-c791-37d0-beac-7a8fc1de1501</id>
     <updated>2020-02-04T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/poti-sa-iti-iei-prea-mult-work-from-home/" />
     <author>
@@ -328,7 +345,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/">
     <title type="text">Poți să închei ziua la serviciu și dacă nu ai terminat treaba?</title>
-    <id>urn:uuid:7ae331e6-0b7e-3b86-b5b6-422411e93c84</id>
+    <id>urn:uuid:602c9a55-5425-338d-ba5e-376b2b9420cc</id>
     <updated>2020-02-03T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/poti-sa-inchei-ziua-la-serviciu-si-daca-nu-ai-terminat-treaba/" />
     <author>
@@ -341,7 +358,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itisti-termen-lung/">
     <title type="text">Time tips pentru programatori pe termen lung</title>
-    <id>urn:uuid:6a06719a-8342-3c45-a4a4-6d2065f9de6c</id>
+    <id>urn:uuid:cf7be8af-4533-3445-a20e-c4c9310af8b8</id>
     <updated>2020-02-02T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itisti-termen-lung/" />
     <author>
@@ -361,7 +378,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itsti-termen-scurt/">
     <title type="text">Time tips pentru programatori pe termen scurt</title>
-    <id>urn:uuid:ee41aeb7-1eef-3480-babd-c51a2dad7595</id>
+    <id>urn:uuid:f8c8e920-c632-3717-b2ff-618cfc49825f</id>
     <updated>2020-02-01T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/02/time-tips-pentru-itsti-termen-scurt/" />
     <author>
@@ -373,7 +390,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/de-ce-intreruperile-sunt-de-evitat/">
     <title type="text">De ce întreruperile sunt de evitat în IT?</title>
-    <id>urn:uuid:6dd3da22-cc39-39cd-afa9-1c02286795f1</id>
+    <id>urn:uuid:3cd668a5-3af7-3449-8a72-889d9762de82</id>
     <updated>2020-01-31T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/de-ce-intreruperile-sunt-de-evitat/" />
     <author>
@@ -391,7 +408,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-fii-dev-productiv/">
     <title type="text">Cum să fii dev productiv?</title>
-    <id>urn:uuid:88667529-f9aa-3f77-9cad-e7f385d137cf</id>
+    <id>urn:uuid:e7410ede-c80f-3d4b-8f02-5aeee1042872</id>
     <updated>2020-01-30T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-fii-dev-productiv/" />
     <author>
@@ -412,7 +429,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-ca-programator-sa-ai-laptopul-cu-tine/">
     <title type="text">Ar trebui ca programator să ai laptopul cu tine în afara orelor de lucru?</title>
-    <id>urn:uuid:f03b63f8-5469-3dad-901b-0a52fbfbd2d1</id>
+    <id>urn:uuid:5d8fd2ee-dba8-306f-9379-fc3ac0aba3a7</id>
     <updated>2020-01-29T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-ca-programator-sa-ai-laptopul-cu-tine/" />
     <author>
@@ -435,7 +452,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-faci-fata-intreruperilor/">
     <title type="text">Cum să faci față întreruperilor?</title>
-    <id>urn:uuid:6342eb5f-c27a-33c9-938c-dcc762635a96</id>
+    <id>urn:uuid:a39cf5e8-baf8-38a7-8c8b-42a8d99f4c1b</id>
     <updated>2020-01-28T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-faci-fata-intreruperilor/" />
     <author>
@@ -453,7 +470,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-daca-ramai-fara-serviciu/">
     <title type="text">Ce să faci dacă rămâi fără serviciu?</title>
-    <id>urn:uuid:d9064e79-beb7-3af4-8577-aa95e35f9419</id>
+    <id>urn:uuid:1d49fafa-e2f9-34a1-9581-428094326699</id>
     <updated>2020-01-27T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-daca-ramai-fara-serviciu/" />
     <author>
@@ -481,7 +498,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/in-mod-implicit-responsabil/">
     <title type="text">În mod implicit responsabil</title>
-    <id>urn:uuid:8918d1f8-96a4-39d7-9ab2-9da7ee11983d</id>
+    <id>urn:uuid:bee20f10-6357-32bb-b861-0290fbdd0141</id>
     <updated>2020-01-26T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/in-mod-implicit-responsabil/" />
     <author>
@@ -495,7 +512,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/">
     <title type="text">Este programarea doar pentru cei introvertiți?</title>
-    <id>urn:uuid:182e8d96-8849-3657-aa10-c1639f57b573</id>
+    <id>urn:uuid:1e69b42a-d634-3200-b909-4bb5dcff5ce7</id>
     <updated>2020-01-25T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/este-programarea-doar-pentru-cei-introvertiti/" />
     <author>
@@ -516,7 +533,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/este-cvul-esential-pentru-a-ajunge-la-interviu/">
     <title type="text">Este CV-ul esențial pentru a ajunge la interviu?</title>
-    <id>urn:uuid:22e1be2c-605c-36d9-b988-0ff4560b952d</id>
+    <id>urn:uuid:54cb53cb-63fd-3745-8ff5-50731bea2246</id>
     <updated>2020-01-24T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/este-cvul-esential-pentru-a-ajunge-la-interviu/" />
     <author>
@@ -537,7 +554,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/faze-in-dezvoltarea-software/">
     <title type="text">3 faze în dezvoltarea software</title>
-    <id>urn:uuid:5f340fa8-164e-3a9c-ab1f-b9209c121f72</id>
+    <id>urn:uuid:2888d91a-d3de-3637-9e34-7f228fc01241</id>
     <updated>2020-01-23T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/faze-in-dezvoltarea-software/" />
     <author>
@@ -556,7 +573,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/">
     <title type="text">Ar trebui să ai zile nașpa la serviciu?</title>
-    <id>urn:uuid:ba31fb95-06ef-3dda-bebc-3537fa616690</id>
+    <id>urn:uuid:5a98ab6d-b521-3206-ae07-0155015ce9d2</id>
     <updated>2020-01-22T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-ai-zile-naspa-la-serviciu/" />
     <author>
@@ -577,7 +594,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/">
     <title type="text">Cum să-ți faci viața mai ușoară în IT folosind comunicare asincronă</title>
-    <id>urn:uuid:6ead6ca7-0373-326e-a807-432f825b3ed7</id>
+    <id>urn:uuid:3a5de51d-231e-390f-b703-2a68eb41c908</id>
     <updated>2020-01-21T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-ti-faci-viata-mai-usoara-in-it-folosind-comunicare-asincrona/" />
     <author>
@@ -592,7 +609,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/">
     <title type="text">E prea mult dacă ceri interviul de acasă?</title>
-    <id>urn:uuid:25a628dd-89e4-3807-a3a1-33f80091973a</id>
+    <id>urn:uuid:09d88f0c-f63d-37d4-a3a2-e560c3ab78cb</id>
     <updated>2020-01-20T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/e-prea-mult-daca-ceri-interviul-de-acasa/" />
     <author>
@@ -615,7 +632,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-sef/">
     <title type="text">Ar trebui să aștepți mai întâi acordul la șef?</title>
-    <id>urn:uuid:f98fc845-37f4-3fe7-8ad3-4b1dedafbfc4</id>
+    <id>urn:uuid:37681839-9c9f-3582-8ca6-0036b24aa61d</id>
     <updated>2020-01-19T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-mai-intai-acordul-la-sef/" />
     <author>
@@ -635,7 +652,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/chivotul-vietii/">
     <title type="text">Chivotul Vieții</title>
-    <id>urn:uuid:d4385d9e-ce8d-3a17-97ac-cbbb0951f08c</id>
+    <id>urn:uuid:7120b734-e43a-332f-8434-8bc170cee840</id>
     <updated>2020-01-18T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/chivotul-vietii/" />
     <author>
@@ -651,7 +668,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/">
     <title type="text">Ar trebui să aștepți weekendul ca programator?</title>
-    <id>urn:uuid:38dd8330-d597-3690-8b02-56ae8c23daf8</id>
+    <id>urn:uuid:626826c8-5076-3b44-bdf3-14433b325771</id>
     <updated>2020-01-17T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-astepti-weekendul-ca-programator/" />
     <author>
@@ -664,7 +681,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/top-impedimente-in-proiecte-it/">
     <title type="text">Top 5 impedimente în proiecte IT</title>
-    <id>urn:uuid:3a4ce7d5-0bdd-3d5a-8770-c6bed53d2ac9</id>
+    <id>urn:uuid:374ef84b-7de3-3260-9414-654f5721a2cf</id>
     <updated>2020-01-16T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/top-impedimente-in-proiecte-it/" />
     <author>
@@ -683,7 +700,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/">
     <title type="text">Un singur lucru care face treaba să meargă la serviciu</title>
-    <id>urn:uuid:cf93cfe0-633c-3225-bee4-7e65d85a589b</id>
+    <id>urn:uuid:48fe7b3a-faba-32f8-80ea-f9449281bb63</id>
     <updated>2020-01-15T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/un-singur-lucru-care-face-treaba-sa-mearga-la-serviciu/" />
     <author>
@@ -698,7 +715,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/un-an-in-bucuresti/">
     <title type="text">Un an în București</title>
-    <id>urn:uuid:630722a3-e869-3db2-8add-036a3f5990de</id>
+    <id>urn:uuid:0a66846c-b3cf-3c24-bef8-53682c762382</id>
     <updated>2020-01-14T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/un-an-in-bucuresti/" />
     <author>
@@ -721,7 +738,7 @@ Sursa text poze: &lt;a href=&quot;https://herbagetica.ro/blog/ceasul-chinezesc-a
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/">
     <title type="text">Cât de direct ar trebui să fii la interviu?</title>
-    <id>urn:uuid:074e12b5-84cc-332f-9227-3b0620887de2</id>
+    <id>urn:uuid:20b4da13-4fc2-398c-b8d1-b89225e83c0a</id>
     <updated>2020-01-13T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cat-de-direct-ar-trebui-sa-fii-la-interviu/" />
     <author>
@@ -743,7 +760,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/long-term-versus-short-term/">
     <title type="text">Long Term versus Short Term</title>
-    <id>urn:uuid:4897ec97-e307-3420-bd9a-fab7ad68f919</id>
+    <id>urn:uuid:599ca695-0d6f-3e04-b5bb-271e9933aff5</id>
     <updated>2020-01-12T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/long-term-versus-short-term/" />
     <author>
@@ -762,7 +779,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/1-blog-post-pe-zi-366-zile/">
     <title type="text">1 blog post pe zi, 366 zile</title>
-    <id>urn:uuid:e8df79f8-41e5-3ffa-bc55-b52b1c842ae5</id>
+    <id>urn:uuid:505b3e84-1d5c-360d-bce8-5c7d09dec970</id>
     <updated>2020-01-11T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/1-blog-post-pe-zi-366-zile/" />
     <author>
@@ -776,7 +793,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-ceri-marire-la-serviciu/">
     <title type="text">Cum să ceri mărire la serviciu?</title>
-    <id>urn:uuid:28ab2dd8-48ca-3a07-9e01-dbbf183d43a7</id>
+    <id>urn:uuid:620ab334-269d-384d-94f7-597be770cf4f</id>
     <updated>2020-01-10T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-ceri-marire-la-serviciu/" />
     <author>
@@ -810,7 +827,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/">
     <title type="text">Ce să faci în timpul unui conflict la serviciu?</title>
-    <id>urn:uuid:153e1fd5-eacf-350d-a3ef-c2e76fefefc7</id>
+    <id>urn:uuid:a4ef71b7-6498-381a-80ba-48432bf7b079</id>
     <updated>2020-01-09T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-in-timpul-unui-conflict-la-serviciu/" />
     <author>
@@ -827,7 +844,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/">
     <title type="text">Ar trebui să fii supărat la interviu dacă nu îți convine ceva?</title>
-    <id>urn:uuid:4288d37f-e7bf-3c55-bd57-299727cce9fc</id>
+    <id>urn:uuid:2a1cfb0e-61eb-3d36-b79a-c59825f141b6</id>
     <updated>2020-01-08T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ar-trebui-sa-fii-suparat-la-interviu-daca-nu-iti-convine-ceva/" />
     <author>
@@ -847,7 +864,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/">
     <title type="text">Cum să îți folosești intuiția la interviuri ca să iei decizii bune</title>
-    <id>urn:uuid:a82a6538-86d8-3de7-9578-0b04e58541d6</id>
+    <id>urn:uuid:d053d44f-eb9c-3a85-a767-ca1b03e8f2f4</id>
     <updated>2020-01-07T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-iti-folosesti-intuitia-la-interviuri-ca-sa-iei-decizii-bune/" />
     <author>
@@ -864,7 +881,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/">
     <title type="text">Ce să faci atunci când ești în căutare de job</title>
-    <id>urn:uuid:f7c52483-5a16-3cd0-84a8-d6b0a7a47e3d</id>
+    <id>urn:uuid:b0db23a8-e0f3-397e-b380-8312c1be6d36</id>
     <updated>2020-01-06T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/ce-sa-faci-atunci-cand-esti-in-cautare-de-job/" />
     <author>
@@ -890,7 +907,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/exercitiu-devops-hands-on/">
     <title type="text">Exercițiu DevOps hands-on</title>
-    <id>urn:uuid:0475f89d-e982-3094-af01-515c6d5614e9</id>
+    <id>urn:uuid:a97e682f-6228-34b1-b842-8c7610548892</id>
     <updated>2020-01-05T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/exercitiu-devops-hands-on/" />
     <author>
@@ -906,7 +923,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/">
     <title type="text">Cum să începi ca DevOps în 2020</title>
-    <id>urn:uuid:d8376d96-bdbc-34ed-bd6f-9729420dff75</id>
+    <id>urn:uuid:6dcb8308-5ab1-3058-af22-f9eda7bc8aa3</id>
     <updated>2020-01-04T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-incepi-ca-devops-in-2020/" />
     <author>
@@ -943,7 +960,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/unele-zile-sunt-mai-grele/">
     <title type="text">Unele zile sunt mai grele</title>
-    <id>urn:uuid:d72b514c-12d6-364c-b3a1-caef26bcc237</id>
+    <id>urn:uuid:1822d076-f3b6-37e0-8fe7-19351581a9a2</id>
     <updated>2020-01-03T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/unele-zile-sunt-mai-grele/" />
     <author>
@@ -958,7 +975,7 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
   </entry>
   <entry xml:base="https://adrianharabula.github.io/blog/2020/01/cum-sa-tii-pasul-in-informatica/">
     <title type="text">Cum să ții pasul în informatică</title>
-    <id>urn:uuid:6797a00b-3c65-3c23-9def-a5ab654e6af2</id>
+    <id>urn:uuid:8060d51d-b450-3333-8b45-691e702a8bbc</id>
     <updated>2020-01-02T00:00:00Z</updated>
     <link href="https://adrianharabula.github.io/blog/2020/01/cum-sa-tii-pasul-in-informatica/" />
     <author>
@@ -970,34 +987,6 @@ Nu e mai ușor așa să stabilim unele chestii de la început fără să pierdem
 &lt;p&gt;Mai e și faptul că de multe ori nu contează ce arde acum, contează la ce lucrezi acum. Ca informatician ai probabil o idee că o să fie lucrurile la un moment dat într-un anume fel. Ca să fie în acel fel lucrezi ca și cum ești deja acolo. Un mic exemplu, pur arbitrar. Ești pe Windows, e un sistem de operare limitat pentru problema la care lucrezi, încât tot backendul e pe Linux. Dar nimeni nu are mașini pe Linux. Toți au Windows. Tu lucrezi deja pe Linux când încă nu știi ce consecințe ar putea apărea și în același timp când ceilalți lucrează pe Windows. Abilitatea ta de a ține mai multe idei contradictorii în același timp e de neprețuit. De multe ori din exterior asta se vede ca ceva idealist, dar niciodată nu vei ajunge într-un loc nou rezolvând incendiile de azi. E o meserie super abstractă, încât lucrezi cu incendiile de mâine. E o muncă super preventivă. Abilitatea ta de a fi un informatician bun este aceea de a vedea problemele dinainte să apară și să le rezolvi încă dinainte să apară. Ești plătit pentru asta. Viitorul e complex. Nu poți știi ce merge rău. De multe ori asta înseamnă efectiv să iei toate șansele posibile pentru care ceva ar putea merge rău. Și eventual după asta să vorbești de soluția ta că e cea mai bună metodă posibilă pentru cazul specific pe care îl rezolvi. Cam ca într-un paradox. Toată viața ți-o petreci să îți demontezi ideea, ca mai apoi vorbești de ea că e cea mai bună metodă posibilă.&lt;/p&gt;
 &lt;p&gt;Asta face diferența dintre un tunzător de iarbă și un programator. Ca tunzător de iarbă poți avea ani de zile experiență, dar practic diferența între tine și unul care tocmai și-a luat prima mașină de tuns e practic insesizabilă. Și salariul stă pe loc și nu poți cere mai mult, pentru că atât se poate merge de departe cu tunsul de iarbă. În IT, dacă faci ce trebuie, cu cât crește experiența ta cu atât crește și abilitatea ta de a rezolva probleme din ce în ce mai complexe, mai grele, mai bine, și de aici sunt și mai bine plătite.&lt;/p&gt;
 &lt;p&gt;Un programator știe că își sacrifică timpul și energia pentru a rezolva problema la care lucrează așa că dacă face asta probabil o face pentru că vede un beneficiu pe termen mediu-lung și nu doar pentru el. Niciun om sănătos nu renunță la viața lui doar de dragul de a munci, sau pentru a i se construi o statuie. Face poate de dragul lucrului bine făcut și pentru că poate face un pic mai bine acolo unde e. E multă muncă din umbră. De multe ori nu se vede munca asta din afară și nici nu trebuie.&lt;/p&gt;
-</content>
-  </entry>
-  <entry xml:base="https://adrianharabula.github.io/blog/2020/01/just-push-it-to-production/">
-    <title type="text">Just push it to production</title>
-    <id>urn:uuid:59211ca3-72d9-3288-8b5c-275b0f7d21a7</id>
-    <updated>2020-01-01T00:00:00Z</updated>
-    <link href="https://adrianharabula.github.io/blog/2020/01/just-push-it-to-production/" />
-    <author>
-      <name>Adrian Harabulă</name>
-    </author>
-    <content type="html">&lt;p&gt;Se întâmplă des ca proiectele în IT să nu treacă deloc de faza de idee. Sunt atât de abstracte încât cu cât te gândești mai mult la ele, cu atât devin mai imposibile de făcut.&lt;/p&gt;
-&lt;p&gt;Ca să miște de la idee la chestie concretă e nevoie de ceea îi zice experiență hands-on. Ai ceva de făcut, te pui și faci. Doar așa începi să miști ideea spre execuție. Așa apare prima versiune, care e foarte rușinoasă, e groaznică chiar, dar ai ceva deja făcut, peste care ai ce îmbunătăți. Să ai doar o idee e atât de abstract, încât doar gândindu-te mai mult, progresul se oprește. Devine fantezie. Ideea ar trebui să fie doar un mic foc ca să te pună în mișcare spre următorii pași de execuție.&lt;/p&gt;
-&lt;p&gt;Ca acest lucru să se întâmple, scrie cod, scrie documentație, mută ideile spre concret, ca să devină lucruri realizate.&lt;/p&gt;
-&lt;p&gt;De exemplu, pentru acest blog, am schimbat tema de la &lt;a href=&quot;https://github.com/daattali/beautiful-jekyll&quot;&gt;Beautiful Jekyll&lt;/a&gt; la ceva mai simplu &lt;a href=&quot;https://github.com/Andrew-Shay/lektor-theme-simple-strap&quot;&gt;Bootstrap&lt;/a&gt; și am trecut de la engine-ul &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; hostat de &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; la &lt;a href=&quot;https://www.getlektor.com/&quot;&gt;Lektor&lt;/a&gt;. Jekyll e fain și se integrează nativ cu GitHub Pages, dar mi s-a părut foarte nenatural să fac modificări de template, să scriu articole pe el și să împing noi modificări pe site. Deși soluția funcționa, nu am mai scris pe blog de foarte mult timp în special din cauza că nu se simțea bine tot procesul de a publica noi articole.&lt;/p&gt;
-&lt;p&gt;Trecerea pe Lektor am tot avut-o în minte, cel puțin jumate de an, dar părea prea multă energie de pus deodată ca să fac trecerea pe noul engine. Ar fi însemnat:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;găsit sau implementat o temă pentru noul engine&lt;/li&gt;
-&lt;li&gt;import articole vechi&lt;/li&gt;
-&lt;li&gt;automatizat proces de builduit site / împins noi modificări&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Deși nu pare nimic complicat, între timp au mai apărut și:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;suport site multilanguage&lt;/li&gt;
-&lt;li&gt;optimizări seo&lt;/li&gt;
-&lt;li&gt;salvat/creat redirect-uri pentru a păstra compatibilitatea cu linkurile vechi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Sunt o groază de alte mici lucruri care au apărut și pe care nu le-aș fi putut vedea doar în faza de idee. Un proiect IT include multe astfel de detalii, de multe ori trecute cu vederea. Sunt chestii care iau timp, dar nu ai cum niciodată să le prevezi. Ca să ai totuși ceva la sfârșitul zilei, focusul e pe funcționalitate. Orice altceva mai poate sta.&lt;/p&gt;
-&lt;p&gt;De exemplu, dacă vreau să fac un blog, care e lucrul cel mai important pe care să îl aibe... Să poți să scrii articole. Orice altceva e ignorat complet. Așa am și făcut. Așa că azi e prima versiune super rușionasă a noului blog. 😌 Just push it to production!&lt;/p&gt;
 </content>
   </entry>
 </feed>
